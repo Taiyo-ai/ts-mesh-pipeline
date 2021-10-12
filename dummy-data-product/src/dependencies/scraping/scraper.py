@@ -5,7 +5,7 @@ from requests.api import request
 
 
 class Scraping:
-    def __init__(self, search_term, per_page, quality):
+    def __init__(self, search_term, per_page):
         self.search_term = search_term
         self.per_page = per_page
         self.page = 0
@@ -53,5 +53,5 @@ class Scraping:
 
 
 if __name__ == "__main__":
-    scrapper = Scraping("TERMCBPER24NS")
+    scrapper = Scraping("TERMCBPER24NS",10)
     scrapper.Scrapper(1)
