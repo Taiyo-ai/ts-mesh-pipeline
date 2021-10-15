@@ -129,10 +129,10 @@
  if __name__ == "__main__":
      scrap_data = Scrapper()
      ais_data = scrap_data.time_series_limit(
-         "https://www.aishub.net/stations", 1, 9, 60.0, 30
+         "https://fred.stlouisfed.org/categories/22", 1, 9, 60.0, 30
      )
      header_data = scrap_data.h_time_series_limit(
-         "https://www.aishub.net/stations", 10.0, 60
+         "https://fred.stlouisfed.org/categories/22", 10.0, 60
      )
-     scrap_data.create_save_csv(ais_data)
+     scrap_data.create_save_csv(fred_data)
      scrap_data.save_csv(header_data)
