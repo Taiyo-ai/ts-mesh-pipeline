@@ -1,57 +1,138 @@
-import requests
-import os
-
-from requests.api import request
-
-
-class Scraping:
-    def __init__(self, search_term, per_page):
-        self.search_term = search_term
-        self.per_page = per_page
-        self.page = 0
-        self.quality = quality
-        self.headers = {
-            "accept": "application/json",
-            "accept-encoding": "gzip, deflate, br",
-            "accept-language": "en-IN,en-US;q=0.9,en;q=0.8",
-            "referer": "https://fred.stlouisfed.org/series/TERMCBPER24NS",
-            "sec-fetch-mode": "cors",
-            "sec-fetch-site": "same-origin",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36",
-        }
-
-    def set_url(self):
-        return f"https://fred.stlouisfed.org/graph/api/series/?id=TERMCBPER24NS&width=318"
-
-    def make_request(self):
-        url = self.set_url()
-        return requests.request("GET", url, headers=self.headers)
-
-    def get_data(self):
-        self.data = make_request().json()
-
-    def save_path(self, name):
-        download_dir = "FRED_data"
-        if not os.path.exists(download_dir):
-            os.mkdir(download_dir)
-        return f"{os.path.join(os.path.replace(os.getcwd()),download_dir,name)}.csv"
-
-    def download(self, url, name):
-        filepath = self.save_path(name)
-        with open(filepath, "wb") as f:
-            f.write(requests.request("GET", url, headers=self.headers).content)
-
-    def Scrapper(self, pages):
-        for page in range(0, pages+1):
-            self.make_request()
-            self.get_data()
-            for item in self.data['results']:
-                name = item['id']
-                url = item['urls'][self.quality]
-                self.download(url, name)
-            self.pages += 1
+ import datetime
+ import pandas as pd
+ import ssl
+ import bs4 as bs
+ import urllib.request
+ import time
 
 
-if __name__ == "__main__":
-    scrapper = Scraping("TERMCBPER24NS",10)
-    scrapper.Scrapper(1)
+ class Scrapper:
+     def __init__(self):
+         return None
+
+     def scrap_file(self, url, start_page, end_page):
+         data = []
+         ssl._create_default_https_context = ssl._create_unverified_context
+         timezone = (
+             datetime.datetime.now()
+             .astimezone()
+             .tzinfo.tzname(datetime.datetime.now().astimezone())
+         )
+         for i in range(start_page, end_page):
+             today = datetime.datetime.now()
+             current_time = today.strftime("%H:%M:%S")
+             date_now = datetime.date.today()
+             date_info = date_now.strftime("%d/%m/%Y")
+             source = urllib.request.urlopen(url + "?page=" + "i").read()
+             soup = bs.BeautifulSoup(source, "lxml")
+             table = soup.find("table")
+             table_rows = table.find_all("tr")
+             table_rows.remove(table_rows[0])
+             table_rows.remove(table_rows[0])
+             row = []
+             for tr in table_rows:
+                 td = tr.find_all("td")
+                 row = [i.text for i in td]
+                 row.append(td[1].i.attrs["title"])
+                 row.append(timezone)
+                 row.append(date_info)
+                 row.append(current_time)
+                 data.append(row)
+         return data
+
+     def scrap_header(self, url):
+         ssl._create_default_https_context = ssl._create_unverified_context
+         timezone = (
+             datetime.datetime.now()
+             .astimezone()
+             .tzinfo.tzname(datetime.datetime.now().astimezone())
+         )
+         today = datetime.datetime.now()
+         current_time = today.strftime("%H:%M:%S")
+         date_now = datetime.date.today()
+         date_info = date_now.strftime("%d/%m/%Y")
+         source = urllib.request.urlopen(url).read()
+         soup = bs.BeautifulSoup(source, "lxml")
+         data = soup.find_all("h3")
+         data.remove(data[0])
+         req_data = []
+         req_data.append(timezone)
+         req_data.append(date_info)
+         req_data.append(current_time)
+         req_data.extend([i.text for i in data])
+         return req_data
+
+     def time_series_limit(self, url, start_page, end_page, time_interval, time_limit):
+         count = 0
+         time_series_data = []
+         while count < time_limit:
+             count = count + 1
+             start_func = time.time()
+             req_data = self.scrap_file(url, start_page, end_page)
+             stop_func = time.time()
+             time_series_data.extend(req_data)
+             time_taken = stop_func - start_func
+             time.sleep(time_interval - time_taken)
+         return time_series_data
+
+     def h_time_series_limit(self, url, time_interval, time_limit):
+         count = 0
+         time_series_data = []
+         while count < time_limit:
+             count = count + 1
+             start_func = time.time()
+             req_data = self.scrap_header(url)
+             stop_func = time.time()
+             time_series_data.append(req_data)
+             time_taken = stop_func - start_func
+             time.sleep(time_interval - time_taken)
+         return time_series_data
+
+     def create_save_csv(self, ts_data):
+         ais_data = pd.DataFrame(
+             ts_data,
+             columns=[
+                 "id",
+                 "Null",
+                 "uptime",
+                 "country",
+                 "location",
+                 "ships",
+                 "distinct",
+                 "contributor",
+                 "status",
+                 "timezone",
+                 "time",
+                 "date",
+             ],
+         )
+         ais_data.to_csv("ais_time_series_data.csv", index=False)
+         return None
+
+     def save_csv(self, header_ts_data):
+         header_ais_data = pd.DataFrame(
+             header_ts_data,
+             columns=[
+                 "timezone",
+                 "date",
+                 "time",
+                 "vessels_online",
+                 "stations_online",
+                 "stations_offline",
+                 "extra",
+             ],
+         )
+         header_ais_data.to_csv("header_ais_time_series_data.csv", index=False)
+         return header_ais_data
+
+
+ if __name__ == "__main__":
+     scrap_data = Scrapper()
+     ais_data = scrap_data.time_series_limit(
+         "https://www.aishub.net/stations", 1, 9, 60.0, 30
+     )
+     header_data = scrap_data.h_time_series_limit(
+         "https://www.aishub.net/stations", 10.0, 60
+     )
+     scrap_data.create_save_csv(ais_data)
+     scrap_data.save_csv(header_data)
