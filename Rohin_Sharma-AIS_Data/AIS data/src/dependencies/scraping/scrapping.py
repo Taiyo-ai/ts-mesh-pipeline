@@ -24,6 +24,7 @@ class Scrapper:
             date_now = datetime.date.today()
             date_info = date_now.strftime("%d/%m/%Y")
             source = urllib.request.urlopen(url + "?page=" + "i").read()
+            page_url = url + "?page=" + str(i)
             soup = bs.BeautifulSoup(source, "lxml")
             table = soup.find("table")
             table_rows = table.find_all("tr")
@@ -37,6 +38,7 @@ class Scrapper:
                 row.append(timezone)
                 row.append(date_info)
                 row.append(current_time)
+                row.append(page_url)
                 data.append(row)
         return data
 
@@ -102,8 +104,9 @@ class Scrapper:
                 "contributor",
                 "status",
                 "timezone",
-                "time",
                 "date",
+                "time",
+                "url",
             ],
         )
         ais_data.to_csv("ais_time_series_data.csv", index=False)
@@ -132,7 +135,7 @@ if __name__ == "__main__":
         "https://www.aishub.net/stations", 1, 9, 60.0, 30
     )
     header_data = scrap_data.h_time_series_limit(
-        "https://www.aishub.net/stations", 10.0, 60
+        "https://www.aishub.net/stations", 10.0, 200
     )
     scrap_data.create_save_csv(ais_data)
     scrap_data.save_csv(header_data)
