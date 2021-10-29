@@ -1,3 +1,4 @@
+from numpy.core.numeric import array_equal
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -7,9 +8,17 @@ class MyClass:
         self.config = kwargs.get("config")
 
     def extract_links(self):
-        """Extract links with relevant data"""
+        """Adding self.config['count'] that tells extract_links function the
+        number of links to extract. If not provided, it is set to None and
+        all available links are extracted."""
+        try:
+            if self.config['count'] or self.config['count']==None:
+                pass
+        except:
+            self.config['count'] = None
+        
+        """Extracting links with relevant data"""
         root = 'https://ppp.gov.ph/project-database/'
-
         basepage = requests.get(root)
         soup = BeautifulSoup(basepage.text, 'html.parser')
 
