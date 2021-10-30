@@ -9,7 +9,7 @@ class MyClass:
     def clean_empty_cols(self):
         """removing columns with mostly empty entries"""
         self.df.drop('Indicative Cost', axis=1, inplace=True)
-        # self.df.drop('Winning Bidder/s')
+        self.df.drop('Winning Bidder/s', axis=1, inplace=True)
 
     def remove_duplicates(self):
         """deleting rows with duplicate data"""
