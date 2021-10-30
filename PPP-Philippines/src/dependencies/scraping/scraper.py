@@ -1,7 +1,7 @@
-from numpy.core.numeric import array_equal
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+
 
 class MyClass:
     def __init__(self, **kwargs):
@@ -12,18 +12,18 @@ class MyClass:
         number of links to extract. If not provided, it is set to None and
         all available links are extracted."""
         try:
-            if self.config['count'] or self.config['count']==None:
+            if self.config['count'] or self.config['count'] is None:
                 pass
-        except:
+        except KeyError:
             self.config['count'] = None
-        
+
         """Extracting links with relevant data"""
         root = 'https://ppp.gov.ph/project-database/'
         basepage = requests.get(root)
         soup = BeautifulSoup(basepage.text, 'html.parser')
 
         links = []
-        for td in soup.find_all('td', class_ = 'title'):
+        for td in soup.find_all('td', class_='title'):
             for anchor in td.find_all('a'):
                 links.append(anchor['href'])
             if self.config['count']:
@@ -39,7 +39,8 @@ class MyClass:
             info_soup = BeautifulSoup(info_pg.text, 'html.parser')
 
             temp = {}
-            temp['Name of Project'] = info_soup.find('h2', class_ = 'post-title').text.strip()
+            name = info_soup.find('h2', class_='post-title').text.strip()
+            temp['Name of Project'] = name
             for i in info_soup.find_all('h6'):
                 for sib in i.next_siblings:
                     if sib.name == 'p':
@@ -62,5 +63,5 @@ class MyClass:
 
 if __name__ == "__main__":
     config = {'count': None}
-    obj = MyClass(config = config)
+    obj = MyClass(config=config)
     obj.run()
