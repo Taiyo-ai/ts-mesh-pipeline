@@ -50,15 +50,10 @@ class MyClass:
             df = df.append(temp, ignore_index=True)
         return df
 
-    def save_data(self, df):
-        """Function to save data"""
-        df.to_csv('scraped_data.csv')
-
     def run(self):
         """Load data, do_something and finally save the data"""
         links = self.extract_links()
-        df = self.load_data(links)
-        self.save_data(df)
+        return self.load_data(links)
 
 
 if __name__ == "__main__":
