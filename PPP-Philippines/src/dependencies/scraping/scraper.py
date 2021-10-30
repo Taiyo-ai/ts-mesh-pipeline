@@ -42,11 +42,12 @@ class MyClass:
             name = info_soup.find('h2', class_='post-title').text.strip()
             temp['Name of Project'] = name
             for i in info_soup.find_all('h6'):
-                for sib in i.next_siblings:
-                    if sib.name == 'p':
-                        temp[str(i.text.strip())] = sib.text.strip()
-                    elif sib.name == 'h6':
-                        break
+                if i.text.strip() != '':
+                    for sib in i.next_siblings:
+                        if sib.name == 'p':
+                            temp[str(i.text.strip())] = sib.text.strip()
+                        elif sib.name == 'h6' and sib.text.strip() != '':
+                            break
             df = df.append(temp, ignore_index=True)
         return df
 
