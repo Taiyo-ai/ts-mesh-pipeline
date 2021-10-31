@@ -23,6 +23,18 @@ class Geocoder:
 		df_meta = pd.DataFrame()
 		return df_meta
 		
+	def city_dict(self,df):
+		"""initilaize a dict to store the city geo info"""
+		cities = df['city'].unique()
+		locations = {}
+		for city in cities:
+			if city not in locations.keys():
+				locations[city] = {'address' : self.geolocator.geocode(city, language='en').address, 
+				'coordinates' : [[self.geolocator.geocode(city, language='en').latitude,self.geolocator.geocode(city, language='en').longitude]]}
+		
+		return locations
+		
+		
 	def get_locations_metadata(self,df,df_meta):
 		"""get location based metadat"""
 		
@@ -33,9 +45,9 @@ class Geocoder:
 		df_meta['region_code'] = df['region_code']
 		df_meta['city'] = df['city']
 
-		#df_meta['location'] = df['city'].apply(lambda x : gc.arcgis(x).address)
-
-		#df_meta['map_cordinates'] = df['city'].apply(lambda x : [[gc.arcgis(x).lat,gc(x).lng]])
+		locations = self.city_dict(df)
+		df_meta['location'] = df['city'].apply(lambda x : locations[x]['address'])
+		df_meta['map_coordinates'] = df['city'].apply(lambda x : locations[x]['coordinates'])
 
 		df_meta['timestamps'] = df['dt']
 		return df_meta

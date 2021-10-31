@@ -3,7 +3,8 @@ from datetime import datetime
 import pandas as pd
 from pandas import json_normalize 
 
-"""fields = {'dt', 'humidity','pressure', 'temp': {'', 'average_max', 'average_min', 'record_max' ,'record_min'}, 'wind_speed'}"""
+"""
+fields = {'dt', 'humidity','pressure', 'temp': {'', 'average_max', 'average_min', 'record_max' ,'record_min'}, 'wind_speed'}
 columns = ['id', 'city', 'country', 'date', 'humidity', 'pressure', 'average_temp','average_max_temp', 'average_min_temp', 'record_max_temp', 'record_min_temp','wind_speed'
 			]
 
@@ -35,7 +36,7 @@ df1 = json_normalize(response.json()['list'])
 
 
 
-"""
+
 for i in range(30):
 	
 	#dt =int(response.json()['list'][i]['dt'])
@@ -65,3 +66,24 @@ df = pd.DataFrame(data=d,columns=columns)
 print(df)
 
 """
+
+
+#check for geocoding 
+
+
+import requests
+import urllib.parse
+
+city = "Tokyo"
+country = ""
+url = "https://nominatim.openstreetmap.org/?addressdetails=1&q=" + city + "+" + country +"&format=json&limit=1"
+
+response = requests.get(url).json()
+print(response)
+print(response[0]["lat"])
+print(response[0]["lon"])
+
+
+
+
+

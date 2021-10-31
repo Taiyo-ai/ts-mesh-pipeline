@@ -26,7 +26,9 @@ class Standardizer:
 		"""creae the global fields standard"""
 	
 		columns = ['aug_id', 'original_id', 'sample_frequency', 'name','description',
-			'units','source', 'url', 'domain', 'subdomain', 'country_name', 				'region_name', 'region_code', 'city', 'location', 'map_coordinates', 			'timestamps']  
+			'units','source', 'url', 'domain', 'subdomain', 'country_name',
+			'region_name', 'region_code', 'city', 'location', 'map_coordinates',
+			'timestamps']  
 		
 		df = pd.DataFrame(columns=columns)
 		
@@ -67,8 +69,8 @@ class Standardizer:
 		df['region_name'] = _df['region_name']
 		df['region_code'] = _df['region_code']
 		df['city'] = _df['city']
-		#df['location'] = _df['location']
-		#df['map_cordinates'] = _df['map_cordinates']
+		df['location'] = _df['location']
+		df['map_coordinates'] = _df['map_coordinates']
 		return df  
 	
 	def get_timestamps(self,df,_df):
