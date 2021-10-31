@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from geopy.geocoders import Nominatim
+import geocoder as gc
 import pycountry
 
 DATA_DIR='../cleaning/cleaned_data.csv'
@@ -9,7 +10,7 @@ class Geocoder:
 
 	def __init__(self):
 		self.geolocator = Nominatim(user_agent="my_user_agent")
-	
+		#self.geolocator.geocode(x).longitude
 	def load_data(self):
 		"""load csv data from the directory"""
 	
@@ -31,11 +32,11 @@ class Geocoder:
 		df_meta['region_name'] = df['region_name']
 		df_meta['region_code'] = df['region_code']
 		df_meta['city'] = df['city']
-		print('OK')
-		#df_meta['location'] = df['city'].apply(lambda x : self.geolocator.geocode(x).address)
-		print('OK1')
-		#df_meta['map_cordinates'] = df['city'].apply(lambda x : [[self.geolocator.geocode(x).latitude,self.geolocator.geocode(x).longitude]])
-		print('OK2')
+
+		#df_meta['location'] = df['city'].apply(lambda x : gc.arcgis(x).address)
+
+		#df_meta['map_cordinates'] = df['city'].apply(lambda x : [[gc.arcgis(x).lat,gc(x).lng]])
+
 		df_meta['timestamps'] = df['dt']
 		return df_meta
 		

@@ -27,7 +27,7 @@ class Scrapper:
 			pass
 	
 		if response.status_code == 429:
-			print('Too many requests...trying again after 5 seconds ')
+			print('Too many requests...trying again after 30 seconds ')
 			time.sleep(30)
 			response = self.api_request(url,city)
 		
@@ -67,6 +67,7 @@ class Scrapper:
 		"""create the raw data"""
 		df = pd.DataFrame()
 		
+		print('Scrapping operations started...')
 		start = time.time()
 		with open(FILE_PATH ,'r') as f:
 			cities = f.readlines()
@@ -79,6 +80,7 @@ class Scrapper:
 		
 		print("Total Time : {} ".format(time.time()-start))	
 		self.save_df(df)
+		print('Scrapping finieshed!')
 		
 		return df
 
