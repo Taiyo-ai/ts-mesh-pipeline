@@ -45,6 +45,18 @@ class Cleaner:
 		"""rename columns of dataframe"""
 		pass
 		
+	def get_region_name(self,df):
+		"""get region name using the country code"""
+		
+		df['region_name'] =  df['country'].apply(lambda x : pycountry.countries.get(alpha_3=x).name)
+		return df
+		
+	def get_region_code(self,df):
+		"""get region code using the country code"""
+		
+		df['region_code'] =  df['country'].apply(lambda x : pycountry.countries.get(alpha_3=x).numeric)
+		return df
+		
 	def save_data(self,df):
 		"""save the cleaned dataframe"""
 		
@@ -60,6 +72,8 @@ class Cleaner:
 		self.check_missing_values(df)
 		df = self.convert_timestamp(df)
 		df = self.country_iso_code(df)
+		df = self.get_region_name(df)
+		df = self.get_region_code(df)
 		df = self.save_data(df)
 		print('Cleaning process finished.')
 		
