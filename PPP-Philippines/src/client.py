@@ -13,4 +13,4 @@ cleaning_config = {'df': df}
 cleaning_obj = cleaning.MyClass(config=cleaning_config)
 df = cleaning_obj.run()
 df.to_csv('../intermediate_files/cleaned.csv')
-print(df['region'])
+print(df['project_description'])

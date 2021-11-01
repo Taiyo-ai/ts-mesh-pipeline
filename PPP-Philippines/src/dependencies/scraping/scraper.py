@@ -62,7 +62,6 @@ class PhilippinesProjects:
                 if fname != '':
                     fname = fname.replace(' ', '_')
                     fname = fname.lower()
-                    print(fname)
                     if self.config['cols']:
                         if fname in self.config['cols']:
                             for sib in i.next_siblings:

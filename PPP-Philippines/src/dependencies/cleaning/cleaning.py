@@ -9,15 +9,21 @@ class MyClass:
 
     def strip_special(self):
         for index, row in self.df.iterrows():
-            if re.sub('[^A-Za-z0-9]+', '', row['Project Description']) == '':
-                row['Project Description'] = ''
+            if re.sub('[^A-Za-z0-9]+', '', row['project_description']) == '':
+                row['project_description'] = ''
             try:
-                temp = re.sub(r'[a-z,]', '', row['Project Cost'].lower())
-                print(temp)
-                self.df['Project Cost'][index] = temp
+                temp = re.sub(r'[a-z,]', '', row['project_cost'].lower())
+                self.df['project_cost'][index] = float(temp)
             except AttributeError:
-                pass
-        self.df.rename({'Project Cost': 'Project Cost(in million Php)'},
+                self.df['project_cost'][index] = float('Nan')
+            try:
+                temp = re.sub(r'[a-z,]', '', row['indicative_cost'].lower())
+                self.df['indicative_cost'][index] = float(temp)
+            except AttributeError:
+                self.df['indicative_cost'][index] = float('Nan')
+        self.df.rename({'project_cost': 'project_cost(in_million_php)'},
+                       axis=1, inplace=True)
+        self.df.rename({'indicative_cost': 'indicative_cost(in_million_php)'},
                        axis=1, inplace=True)
 
     def remove_col(self, col_name):
@@ -33,6 +39,9 @@ class MyClass:
         If col_name is given, rows is NaN values in the corresponding
         column are removed."""
         if col_name == 'all':
+            for col in self.df.columns:
+
+                self.df.dropna(subset=[col], inplace=True)
             self.df.dropna(inplace=True)
         else:
             self.df.dropna(subset=[col_name], inplace=True)
