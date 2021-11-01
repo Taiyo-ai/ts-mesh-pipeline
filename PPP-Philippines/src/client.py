@@ -10,7 +10,7 @@ df.to_csv('../intermediate_files/scraped.csv')  # saving scraped data
 
 # cleaning the data
 cleaning_config = {'df': df}
-cleaning_obj = cleaning.MyClass(config=cleaning_config)
+cleaning_obj = cleaning.DataCleaner(config=cleaning_config)
 df = cleaning_obj.run()
 df.to_csv('../intermediate_files/cleaned.csv')
-print(df['project_description'])
+print(df['project_cost(in_million_php)'])
