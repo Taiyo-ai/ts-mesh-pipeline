@@ -69,10 +69,13 @@ class DataCleaner:
         If col_name is given, NaN values in the corresponding column are
         replaced with replace_str.
         By default all NaN values are replaced."""
+        nan_value = float("NaN")
         for col in self.df.columns:
             if col not in ['project_cost(in_million_php)',
                            'indicative_cost(in_million_php)']:
                 self.df[col].replace('', 'TBD', inplace=True)
+                self.df[col].replace('None', 'TBD', inplace=True)
+                self.df[col].replace(nan_value, 'TBD', inplace=True)
 
     def run(self):
         """using cleaning functions as per use case"""

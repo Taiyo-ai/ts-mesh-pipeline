@@ -13,4 +13,4 @@ cleaning_config = {'df': df}
 cleaning_obj = cleaning.DataCleaner(config=cleaning_config)
 df = cleaning_obj.run()
 df.to_csv('../intermediate_files/cleaned.csv')
-print(df['project_cost(in_million_php)'])
+print(df['winning_bidder/s'])
