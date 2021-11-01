@@ -4,11 +4,13 @@ from dependencies.cleaning import cleaning
 
 # scraping the website
 scraper_config = {'count': 5}
-scraper_obj = scraper.MyClass(config=scraper_config)
+scraper_obj = scraper.PhilippinesProjects(config=scraper_config)
 df = scraper_obj.run()
+df.to_csv('../intermediate_files/scraped.csv')  # saving scraped data
 
 # cleaning the data
 cleaning_config = {'df': df}
 cleaning_obj = cleaning.MyClass(config=cleaning_config)
 df = cleaning_obj.run()
-print(df)
+df.to_csv('../intermediate_files/cleaned.csv')
+print(df['region'])

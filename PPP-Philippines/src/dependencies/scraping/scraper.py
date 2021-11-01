@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-class MyClass:
+class PhilippinesProjects:
     def __init__(self, **kwargs):
         self.config = kwargs.get("config")
 
@@ -33,6 +33,22 @@ class MyClass:
 
     def load_data(self, links):
         """Function to load data"""
+        """Adding self.config['cols'], a Python list that tells load_data() to
+        extract only the fields mentioned and not others. If not provided,
+        it is set to None and all available fields are extracted."""
+        try:
+            if self.config['cols']:
+                for col in self.config['cols']:
+                    self.config['cols'].remove(col)
+                    col = col.strip()
+                    col = col.replace(' ', '_')
+                    col = col.lower()
+                    self.config['cols'].append(col)
+            else:
+                pass
+        except KeyError:
+            self.config['cols'] = None
+
         df = pd.DataFrame()
         for link in links:
             info_pg = requests.get(link)
@@ -40,24 +56,38 @@ class MyClass:
 
             temp = {}
             name = info_soup.find('h2', class_='post-title').text.strip()
-            temp['Name of Project'] = name
+            temp['name_of_project'] = name
             for i in info_soup.find_all('h6'):
-                if i.text.strip() != '':
-                    for sib in i.next_siblings:
-                        if sib.name == 'p':
-                            temp[str(i.text.strip())] = sib.text.strip()
-                        elif sib.name == 'h6' and sib.text.strip() != '':
-                            break
+                fname = i.text.strip()
+                if fname != '':
+                    fname = fname.replace(' ', '_')
+                    fname = fname.lower()
+                    print(fname)
+                    if self.config['cols']:
+                        if fname in self.config['cols']:
+                            for sib in i.next_siblings:
+                                sibtext = sib.text.strip()
+                                if sib.name == 'p':
+                                    temp[str(fname)] = sibtext
+                                elif sib.name == 'h6' and sibtext != '':
+                                    break
+                    else:
+                        for sib in i.next_siblings:
+                            if sib.name == 'p':
+                                temp[str(fname)] = sib.text.strip()
+                            elif sib.name == 'h6' and sib.text.strip() != '':
+                                break
             df = df.append(temp, ignore_index=True)
         return df
 
     def run(self):
         """Load data, do_something and finally save the data"""
         links = self.extract_links()
-        return self.load_data(links)
+        df = self.load_data(links)
+        return df
 
 
 if __name__ == "__main__":
-    config = {'count': None}
-    obj = MyClass(config=config)
+    config = {'count': None, 'cols': None}
+    obj = PhilippinesProjects(config=config)
     obj.run()
