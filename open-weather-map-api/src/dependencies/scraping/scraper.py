@@ -51,6 +51,7 @@ class Scrapper:
             df = pd.concat([df1, df2], axis=1)
 
             df['id'].fillna(_id, inplace=True)
+            df['id'] = df['id'] + df['dt'].apply(lambda x : int(str(x)[-7:])) #create a unique id for each row
             df['city'].fillna(city, inplace=True)
             df['country'].fillna(country, inplace=True)
 

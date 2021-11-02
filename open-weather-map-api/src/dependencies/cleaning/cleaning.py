@@ -62,10 +62,19 @@ class Cleaner:
             lambda x: pycountry.countries.get(alpha_3=x).numeric)
         return df
 
-    def save_data(self, df):
+    def create_timeseries_data(self, df):
+        """create time series data from the cleaned data"""
+
+        timeseries_columns = ['id', 'humidity', 'pressure', 'wind_speed', 'temp.average',
+                              'temp.average_max', 'temp.average_min', 'temp.record_max', 'temp.record_min']
+        df_timeseries = df[timeseries_columns].transpose()
+
+        return df_timeseries
+
+    def save_data(self, df, filename):
         """save the cleaned dataframe"""
 
-        df.to_csv('cleaned_data.csv')
+        df.to_csv(filename)
         return df
 
     def run(self):
@@ -79,7 +88,9 @@ class Cleaner:
         df = self.country_iso_code(df)
         df = self.get_region_name(df)
         df = self.get_region_code(df)
-        df = self.save_data(df)
+        df = self.save_data(df, filename='cleaned_data.csv')
+        df_timeseries = self.create_timeseries_data(df)
+        df = self.save_data(df, filename='timeseries_data.csv')
         print('Cleaning process finished.')
 
         return df
