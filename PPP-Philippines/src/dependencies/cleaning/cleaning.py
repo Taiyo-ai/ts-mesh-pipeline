@@ -15,7 +15,7 @@ class DataCleaner:
             if re.sub('[^A-Za-z0-9]+', '', row['project_description']) == '':
                 row['project_description'] = ''
             try:
-                temp = re.sub(r'[a-z,]', '', row['project_cost'].lower())
+                temp = re.sub('[^0-9.]', '', row['project_cost'].lower())
                 if temp == '':
                     self.df['project_cost'][index] = float("Nan")
                 else:
@@ -23,7 +23,7 @@ class DataCleaner:
             except AttributeError:
                 pass
             try:
-                temp = re.sub(r'[a-z,]', '', row['indicative_cost'].lower())
+                temp = re.sub('[^0-9.]', '', row['indicative_cost'].lower())
                 if temp == '':
                     self.df['indicative_cost'][index] = float("Nan")
                 else:
@@ -32,15 +32,13 @@ class DataCleaner:
                 pass
         self.df.rename({'project_cost': 'project_cost(in_million_php)'},
                        axis=1, inplace=True)
-        self.df.rename({'indicative_cost': 'indicative_cost(in_million_php)'},
-                       axis=1, inplace=True)
 
     def change_col_type(self):
         """function to change data types of columns"""
         for col in self.df.columns:
             if col == 'project_cost(in_million_php)':
                 self.df[col] = pd.to_numeric(self.df[col])
-            elif col == 'indicative_cost(in_million_php)':
+            elif col == 'indicative_cost':
                 self.df[col] = self.df[col].astype(float)
             else:
                 self.df[col] = self.df[col].astype(str)
@@ -65,14 +63,12 @@ class DataCleaner:
             self.df.dropna(subset=[col_name], inplace=True)
 
     def replace_nan(self):
-        """function to replace nan values with give, 'TBD'.
-        If col_name is given, NaN values in the corresponding column are
-        replaced wit, 'TBD'.
-        By default all NaN values are replaced."""
+        """function to replace nan values and other garbage values
+        with 'TBD'."""
         nan_value = float("NaN")
         for col in self.df.columns:
             if col not in ['project_cost(in_million_php)',
-                           'indicative_cost(in_million_php)']:
+                           'indicative_cost']:
                 self.df[col].replace('', 'TBD', inplace=True)
                 self.df[col].replace('None', 'TBD', inplace=True)
                 self.df[col].replace(nan_value, 'TBD', inplace=True)
