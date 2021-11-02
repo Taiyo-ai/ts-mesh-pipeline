@@ -64,24 +64,24 @@ class DataCleaner:
         else:
             self.df.dropna(subset=[col_name], inplace=True)
 
-    def replace_nan(self, replace_str):
-        """function to replace nan values with given replace_str.
+    def replace_nan(self):
+        """function to replace nan values with give, 'TBD'.
         If col_name is given, NaN values in the corresponding column are
-        replaced with replace_str.
+        replaced wit, 'TBD'.
         By default all NaN values are replaced."""
         nan_value = float("NaN")
         for col in self.df.columns:
             if col not in ['project_cost(in_million_php)',
                            'indicative_cost(in_million_php)']:
-                self.df[col].replace('', replace_str, inplace=True)
-                self.df[col].replace('None', replace_str, inplace=True)
-                self.df[col].replace(nan_value, replace_str, inplace=True)
+                self.df[col].replace('', 'TBD', inplace=True)
+                self.df[col].replace('None', 'TBD', inplace=True)
+                self.df[col].replace(nan_value, 'TBD', inplace=True)
 
     def run(self):
         """using cleaning functions as per use case"""
         self.remove_duplicates()
         self.remove_unwanted_char()
-        self.replace_nan('TBD')
+        self.replace_nan()
         self.change_col_type()
         return self.df
 
