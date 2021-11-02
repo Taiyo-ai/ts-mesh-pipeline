@@ -56,12 +56,12 @@ class Geocoder:
         df_meta['timestamps'] = df['dt']
         return df_meta
 
-    def save_data(self, df_meta):
+    def save_data(self,df_meta,filename):
         """save data"""
-        df_meta.to_csv('geocoded_metadata.csv')
+        df_meta.to_csv(filename)
         return df_meta
 
-    def run(self):
+    def run(self,filename):
         """perform gecoder operations"""
 
         print('Performing Geocoding operations...')
@@ -69,7 +69,7 @@ class Geocoder:
         df_meta = self.create_geocoded_metadata()
         df_meta = self.get_locations_metadata(df, df_meta)
 
-        df_meta = self.save_data(df_meta)
+        df_meta = self.save_data(df_meta,filename)
         print('Geocoding finished!')
 
         return df_meta
@@ -78,4 +78,4 @@ class Geocoder:
 if __name__ == "__main__":
     config = {}
     myGeocoder = Geocoder()
-    mydf = myGeocoder.run()
+    mydf = myGeocoder.run(filneame='geocoded_metadata.csv')

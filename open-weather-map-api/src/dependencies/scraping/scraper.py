@@ -6,7 +6,8 @@ import os
 import time
 
 url = "https://community-open-weather-map.p.rapidapi.com/climate/month"
-FILE_PATH = '../../cities.txt'
+#FILE_PATH = '../../cities.txt' #use this if you are not running it in client.py
+FILE_PATH = 'cities.txt'
 
 
 class Scrapper:
