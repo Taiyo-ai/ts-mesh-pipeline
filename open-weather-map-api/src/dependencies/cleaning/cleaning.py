@@ -67,7 +67,7 @@ class Cleaner:
 
         timeseries_columns = ['id', 'humidity', 'pressure', 'wind_speed', 'temp.average',
                               'temp.average_max', 'temp.average_min', 'temp.record_max', 'temp.record_min']
-        df_timeseries = df[timeseries_columns].transpose()
+        df_timeseries = df[timeseries_columns]
 
         return df_timeseries
 
@@ -90,7 +90,7 @@ class Cleaner:
         df = self.get_region_code(df)
         df = self.save_data(df, filename='cleaned_data.csv')
         df_timeseries = self.create_timeseries_data(df)
-        df = self.save_data(df, filename='timeseries_data.csv')
+        df_timeseries = self.save_data(df_timeseries, filename='timeseries_data.csv')
         print('Cleaning process finished.')
 
         return df
