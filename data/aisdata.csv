@@ -1,0 +1,875 @@
+,station_ID,country_code,country_name,region_name,region_code,nearest_city,city,district,state,postcode,last_signal
+0,2766,AGO,Angola,Zaire,"ZA , AGO",N'zeto,,,Zaire,,2021-09-28 12:15:01
+1,3061,ARG,Argentina,Buenos Aires,"BA , ARG",Tigre,San Fernando,Partido de San Fernando,Buenos Aires,1646,2021-11-15 01:35:01
+2,2675,AUS,Australia,Sydney,"SY , AUS",Curl Curl,Sydney,,New South Wales,2096,2021-11-15 01:35:01
+3,2234,AUS,Australia,Mt Arthur,"MA , AUS",Mayfield,,,Tasmania,7268,2021-10-21 07:00:02
+4,2999,AUS,Australia,Mount Hicks,"MH , AUS",Wynyard,,,Tasmania,7325,2021-11-15 01:35:01
+5,2995,AUS,Australia,Kingston,"KI , AUS",Kingston,Hobart,,Tasmania,7050,2021-11-15 01:35:01
+6,2936,AUS,Australia,Kettering,"KE , AUS",Kettering,,,Tasmania,7155,2021-11-15 01:35:01
+7,3292,AUS,Australia,"Oakleigh, Victoria","OV , AUS",Hughesdale,Melbourne,,Victoria,3166,2021-11-15 01:35:01
+8,2701,AUS,Australia,O'Connor,"O' , AUS",Palmyra,,,Western Australia,6183,2021-11-15 01:35:01
+9,2556,AUS,Australia,Franklin,"FR , AUS",Franklin,,,Tasmania,7113,2021-11-15 01:35:01
+10,3354,AUS,Australia,Port Hedland,"PH , AUS",Port Hedland,Port Hedland,,Western Australia,6721,2021-11-15 01:35:02
+11,2288,AUS,Australia,Johanna,"JO , AUS",Apollo Bay,,,Victoria,3238,2021-11-15 01:35:01
+12,2637,AUS,Australia,Devonport,"DE , AUS",Devonport,,,Tasmania,,2021-11-15 01:35:01
+13,2739,AUS,Australia,Townsville,"TO , AUS",Kirwan,,,Queensland,4818,2021-11-10 14:35:01
+14,2070,AUS,Australia,"Nelson Bay,","NB , AUS",Nelson Bay,,,New South Wales,2315,2021-11-15 01:35:01
+15,2502,AUS,Australia,Scarborough,"SC , AUS",Scarborough,,,Queensland,4020,2021-11-15 01:35:01
+16,2520,AUT,Austria,Vienna,"VI , AUT",Vösendorf,Wien,,,1100,2021-11-15 01:35:01
+17,3175,AUT,Austria,Vienna,"VI , AUT",Gerasdorf bei Wien,Wien,,,1220,2021-11-15 01:35:01
+18,2798,AUT,Austria,Linz,"LI , AUT",Linz,Linz,,Oberösterreich,4020,2021-11-15 01:35:01
+19,2984,AZE,Azerbaijan,Baku,"BA , AZE",Zyrya,,Bakı İnzibati Ərazisi,Bakı,,2021-11-15 01:35:01
+20,3215,BEL,Belgium,Antwerp,"AN , BEL",Antwerpen,Antwerpen,,Antwerpen,2030,2021-11-15 00:05:02
+21,3152,BEL,Belgium,Zeebrugge,"ZE , BEL",Zeebrugge,Brugge,,West-Vlaanderen,8380,2021-11-15 01:35:01
+22,2546,BEL,Belgium,Merchtem,"ME , BEL",Nieuwpoort,,,West-Vlaanderen,8434,2021-11-15 01:35:01
+23,3075,BEL,Belgium,Aalst,"AA , BEL",Aalst,,,Oost-Vlaanderen,9308,2021-11-15 01:35:01
+24,3249,BEL,Belgium,Antwerp,"AN , BEL",Antwerpen,Antwerpen,,Antwerpen,2000,2021-11-10 16:45:02
+25,2061,BEL,Belgium,Ostend,"OS , BEL",Ostend,Oostende,,West-Vlaanderen,8400,2021-11-15 01:35:01
+26,2145,BEL,Belgium,Antwerp2,"AN , BEL",Antwerpen,Antwerpen,,Antwerpen,2030,2021-11-15 01:35:01
+27,3359,BEL,Belgium,Schoten,"SC , BEL",Schoten,,,Antwerpen,2900,2021-11-15 01:35:02
+28,2404,BEL,Belgium,Bruges,"BR , BEL",Brugge,Brugge,,West-Vlaanderen,8200,2021-11-15 01:35:01
+29,2292,BEL,Belgium,Gent,"GE , BEL",Sint-Martens-Latem,Gent,,Oost-Vlaanderen,9031,2021-11-15 01:35:01
+30,3483,BEL,Belgium,WIjnegem,"WI , BEL",Wijnegem,,,Antwerpen,2110,2021-11-15 01:35:02
+31,2981,BEL,Belgium,Oostende,"OO , BEL",Ostend,Oostende,,West-Vlaanderen,8400,2021-11-10 12:25:02
+32,2127,BEL,Belgium,Izegem,"IZ , BEL",Izegem,,,West-Vlaanderen,8870,2021-11-15 01:35:01
+33,3459,BEL,Belgium,Oostende,"OO , BEL",Ostend,Oostende,,West-Vlaanderen,8400,2021-11-15 01:35:02
+34,2276,BEL,Belgium,Schilde,"SC , BEL",Schilde,,,Antwerpen,2970,2021-11-15 01:35:01
+35,2300,BEL,Belgium,Antwerp Harbour,"AH , BEL",Schilde,,,Antwerpen,2970,2021-11-15 01:35:01
+36,3489,BRA,Brazil,Maceio,"MA , BRA",Marechal Deodoro,,Região Geográfica Intermediária de Maceió,Alagoas,57160000,2021-11-15 01:35:02
+37,2517,BRA,Brazil,Belem,"BE , BRA",Belém,Belém,Região Geográfica Intermediária de Belém,Pará,66020-610,2021-11-15 01:35:01
+38,2850,BRA,Brazil,Fortaleza,"FO , BRA",Fortaleza,Fortaleza,Região Geográfica Intermediária de Fortaleza,Ceará,60180-410,2021-11-15 01:35:01
+39,2463,CAN,Canada,Prince Rupert,"PR , CAN",Prince Rupert,Prince Rupert,,British Columbia,V8J 2B6,2021-11-15 01:35:01
+40,2042,CAN,Canada,Vancouver,"VA , CAN",Vancouver,Vancouver,,British Columbia,V5Z 2C4,2021-11-15 01:35:01
+41,2267,CAN,Canada,Dartmouth,"DA , CAN",Dartmouth,Dartmouth,,Nova Scotia,B2Y 4T5,2021-11-15 01:35:01
+42,2202,CAN,Canada,Ucluelet,"UC , CAN",Ucluelet,Ucluelet,,British Columbia,V0R 3A0,2021-11-15 01:35:01
+43,2955,CAN,Canada,Bowen Island,"BI , CAN",Bowen Island,Bowen Island Municipality,,British Columbia,V0N 1G0,2021-11-15 01:35:01
+44,2218,CAN,Canada,"Newfoundland, St.","NS , CAN",Saint-Augustin,,Labrador,Newfoundland and Labrador,,2021-11-15 01:35:01
+45,3145,CAN,Canada,Vancouver,"VA , CAN",North Vancouver,North Vancouver,,British Columbia,V7M,2021-11-15 01:35:01
+46,2253,CAN,Canada,Montreal,"MO , CAN",Kirkland,,,Québec,H9H 4P8,2021-11-15 01:35:01
+47,2821,CAN,Canada,Burnaby,"BU , CAN",Burnaby,Burnaby,,British Columbia,V5C 5W7,2021-11-15 01:35:01
+48,2818,CAN,Canada,Montreal,"MO , CAN",Montréal,Montréal,,Québec,H2V 3R5,2021-11-15 01:35:01
+49,3201,CAN,Canada,Sorel-Tracy,"SO , CAN",Mont-Saint-Hilaire,,,Québec,J0H 1S0,2021-11-15 01:35:01
+50,2660,CAN,Canada,Sorel-Tracy,"SO , CAN",Contrecoeur,,,Québec,J0L 1C0,2021-11-15 01:35:01
+51,2372,CAN,Canada,Vancouver,"VA , CAN",West End,Vancouver,,British Columbia,V6Z,2021-11-15 01:35:01
+52,2857,CAN,Canada,Vancouver,"VA , CAN",North Vancouver,Vancouver,,British Columbia,V5K,2021-11-15 01:35:01
+53,3238,CAN,Canada,East Point,"EP , CAN",Point Roberts,Southern Gulf Islands Electoral Area,,British Columbia,V0N 2Y0,2021-11-15 01:35:01
+54,3185,CAN,Canada,Halifax,"HA , CAN",Halifax,Halifax,,Nova Scotia,B3H 2P8,2021-11-15 01:35:01
+55,2700,CAN,Canada,Sorel-Tracy,"SO , CAN",Lanoraie,Sorel-Tracy,,Québec,J3R 5M7,2021-11-15 01:35:01
+56,2025,CAN,Canada,"Windsor, Ontario","WO , CAN",Windsor,Windsor,Southwestern Ontario,Ontario,N9A 5K9,2021-11-15 01:35:01
+57,2920,CAN,Canada,Burnaby,"BU , CAN",Burnaby,Burnaby,,British Columbia,V5A 1E7,2021-11-15 01:35:01
+58,3401,CAN,Canada,Longueuil,"LO , CAN",Longueuil,Longueuil,,Québec,J4H 3H6,2021-11-15 01:35:02
+59,2853,CAN,Canada,Vancouver,"VA , CAN",Point Roberts,Southern Gulf Islands Electoral Area,,British Columbia,,2021-11-15 01:35:01
+60,2019,CAN,Canada,"Victoria, BC","VB , CAN",Oak Bay,,,British Columbia,V8S 5H3,2021-11-15 01:35:01
+61,3103,CAN,Canada,Multiple Locations,"ML , CAN",Point Roberts,,,Washington,98281,2021-11-15 01:35:01
+62,2848,CAN,Canada,Victoria,"VI , CAN",Oak Bay,,,British Columbia,V8N 3X2,2021-11-15 01:35:01
+63,2593,CAN,Canada,Prince Rupert,"PR , CAN",Prince Rupert,Prince Rupert,,British Columbia,V8J 1A2,2021-11-15 01:35:01
+64,2017,CAN,Canada,Corner Brook,"CB , CAN",Corner Brook,Corner Brook,Newfoundland,Newfoundland and Labrador,A2H 4M9,2021-11-15 01:35:01
+65,2796,CAN,Canada,Victoria,"VI , CAN",Victoria,Victoria,,British Columbia,V8S 1G3,2021-11-15 01:35:01
+66,2512,CAN,Canada,Quadra Island,"QI , CAN",Campbell River,Area B (Discovery Islands/Mainland Inlets),,British Columbia,V0P 1H0,2021-11-15 01:35:01
+67,2890,CAN,Canada,Montreal,"MO , CAN",Mont-Royal,Montréal,,Québec,H2R 1W7,2021-11-15 01:35:01
+68,2676,CAN,Canada,Toronto,"TO , CAN",Toronto,Old Toronto,Golden Horseshoe,Ontario,M5H 2N2,2021-11-15 01:35:01
+69,2215,CAN,Canada,Burnaby,"BU , CAN",North Vancouver,Burnaby,,British Columbia,V5C 2H5,2021-11-10 09:50:01
+70,3083,CAN,Canada,New Westminster,"NW , CAN",New Westminster,New Westminster,,British Columbia,V3M 1E9,2021-11-15 01:35:01
+71,3248,CHL,Chile,Concon,"CO , CHL",Viña del Mar,,,Región de Valparaíso,2510513,2021-11-04 17:35:02
+72,2348,CHL,Chile,Viña del,"Vd , CHL",Viña del Mar,Viña del Mar,,Región de Valparaíso,2571546,2021-11-15 01:35:01
+73,2083,CHN,China,Yangpu,"YA , CHN",Yangpu,杨浦区,,,200082,2021-11-15 01:35:01
+74,2193,CHN,China,Xia Men,"XM , CHN",Haishiwan,,,青海省,,2021-11-15 01:35:01
+76,2044,CHN,China,Fujian,"FU , CHN",Beijing,北京市,,北京市,100010,2021-11-15 01:35:01
+77,2598,CHN,China,Beijing,"BE , CHN",Beijing,北京市,,北京市,100010,2021-11-15 01:35:01
+78,2587,CHN,China,Beijing,"BE , CHN",Longshan,,,北京市,,2021-11-15 01:35:01
+79,2113,CHN,China,Xiawan,"XI , CHN",Chongqing,渝中区,重庆市主城都市区,重庆市,,2021-09-05 18:40:01
+80,2930,CHN,China,Chongqing,"CH , CHN",Chongqing,渝中区,重庆市主城都市区,重庆市,,2021-11-15 01:35:01
+81,3394,CHN,China,Chongqing,"CH , CHN",Xiuying,秀英区,,海南省,570311,2021-11-15 01:35:02
+82,2456,CHN,China,Haikou,"HA , CHN",Zhangjiagang,张家港市,,江苏省,215600,2021-11-09 06:00:02
+83,2356,CHN,China,Zhangjiagang ,"ZH , CHN",Shenzhen,福田区,,广东省,518000,2021-11-15 01:35:01
+84,2632,CHN,China,Shenzhen,"SH , CHN",Meizhou,梅州市,,广东省,514000,2021-11-14 08:00:02
+85,2969,CHN,China,Meizhou Bay,"MB , CHN",House' s Joe Arroyo,Barranquilla,,Atlántico,80020,2021-11-15 01:35:01
+86,2866,COL,Colombia,Puerto Colombia,"PC , COL",Buenaventura,Buenaventura,,Valle del Cauca,3.88773/-77.07722,2021-11-15 01:35:01
+87,2362,COL,Colombia,Buenaventura,"BU , COL",House' s Joe Arroyo,Barranquilla,,Atlántico,080001,2021-11-15 01:35:01
+88,2443,COL,Colombia,Barranquilla,"BA , COL",Kraljevica,,,,51262,2021-11-15 01:35:01
+89,3439,HRV,Croatia,Kraljevica,"KR , HRV",Valbandon,,,,52212,2021-11-15 01:35:02
+90,2690,HRV,Croatia,"Štinjan, Pula","ŠP , HRV",Páno Polemídia,Δήμος Κάτω Πολεμιδίων,Λεμεσός,Νότια Κύπρος,4186,2021-11-15 01:35:01
+91,2524,CYP,Cyprus,Limassol,"LI , CYP",Limassol,Λεμεσός,Λεμεσός,Νότια Κύπρος,3048,2021-11-15 01:35:01
+92,2255,CYP,Cyprus,Limassol,"LI , CYP",Limassol,Λεμεσός,Λεμεσός,Νότια Κύπρος,3117,2021-11-15 01:35:01
+93,3093,CYP,Cyprus,Limassol,"LI , CYP",Skive,,,Region Midtjylland,7800,2021-11-15 01:35:01
+94,2828,DNK,Denmark,Skive,"SK , DNK",Århus,Aarhus,,Region Midtjylland,8000,2021-11-15 01:35:01
+95,2725,DNK,Denmark,Aarhus,"AA , DNK",Slagelse,,,Region Sjælland,,2021-11-15 01:35:01
+96,3424,DNK,Denmark,Holbæk,"HO , DNK",Marstal,,,Region Syddanmark,5960,2021-11-15 01:35:02
+97,3421,DNK,Denmark,Marstal,"MA , DNK",Nørresundby,Aalborg,,Region Nordjylland,9400,2021-11-15 01:35:02
+98,2400,DNK,Denmark,Norresundby,"NO , DNK",Ebeltoft,,,Region Midtjylland,8400,2021-11-15 01:35:01
+99,3417,DNK,Denmark,Ebeltoft,"EB , DNK",Korsør,,,Region Sjælland,4220,2021-11-15 01:35:02
+100,3361,DNK,Denmark,Korsør,"KO , DNK",Skibby,,,Region Sjælland,4070,2021-11-15 01:35:02
+101,2104,DNK,Denmark,Gershøj,"GE , DNK",Rønne,,,Region Hovedstaden,3700,2021-11-15 01:35:01
+102,2327,DNK,Denmark,"Roenne, Bornholm ","RB , DNK",Holeby,,,,,2021-11-15 01:35:01
+103,3497,DNK,Denmark,Rødby,"RØ , DNK",Lunderskov,,,Region Syddanmark,6640,2021-11-15 01:35:02
+104,3130,DNK,Denmark,Lunderskov,"LU , DNK",Stavtrup,Aarhus,,Region Midtjylland,8210,2021-11-15 01:35:01
+105,3179,DNK,Denmark,Aarhus,"AA , DNK",Humlebæk,,,Region Hovedstaden,3050,2021-11-15 01:35:01
+106,2058,DNK,Denmark,Humlebaek,"HU , DNK",Frederikssund,,,Region Hovedstaden,3600,2021-11-15 01:35:01
+107,2580,DNK,Denmark,Frederikssund,"FR , DNK",Haslev,,,Region Sjælland,4100,2021-11-15 01:35:01
+108,2899,DNK,Denmark,Ringsted,"RI , DNK",Nakskov,,,Region Sjælland,4900,2021-11-15 01:35:01
+109,2139,DNK,Denmark,Islands Brygge,"IB , DNK",Humlebæk,,,Region Hovedstaden,3050,2021-11-15 01:35:01
+110,2545,DNK,Denmark,Sletten,"SL , DNK",Skagen,,,Region Nordjylland,9990,2021-11-15 01:35:01
+111,2621,DNK,Denmark,Aalborg,"AA , DNK",Keila,,,,76921,2021-11-14 12:50:01
+112,2527,EST,Estonia,Vaana-Joesuu,"VA , EST",Tallinn,Tallinn,,,10415,2021-11-15 01:35:01
+113,2811,EST,Estonia,Tallinn,"TA , EST",Tabasalu,Tallinn,,,13522,2021-11-15 01:35:01
+114,3340,EST,Estonia,Tallinn,"TA , EST",Tabasalu,Tallinn,,,13521,2021-11-15 01:35:01
+115,2566,EST,Estonia,Tallinn,"TA , EST",Tallinn,Tallinn,,,11412,2021-11-15 01:35:01
+116,2479,EST,Estonia,Tallinn,"TA , EST",Tallinn,Tallinn,,,10124,2021-11-15 01:35:01
+117,3452,EST,Estonia,Tallinn,"TA , EST",Kokkola,Kokkola,Länsi- ja Sisä-Suomen aluehallintovirasto,,67800,2021-11-15 01:35:02
+118,3155,FIN,Finland,Kokkola,"KO , FIN",Ekenäs,Raseborg,Etelä-Suomen aluehallintovirasto,,10620,2021-11-15 01:35:01
+119,2190,FIN,Finland,Ekenas,"EK , FIN",Rauma,,Lounais-Suomen aluehallintovirasto,,26820,2021-11-15 01:35:01
+120,2388,FIN,Finland,Finland,"FI , FIN",Replot,,Länsi- ja Sisä-Suomen aluehallintovirasto,,65930,2021-11-15 01:35:01
+121,2481,FIN,Finland,Vaasa,"VA , FIN",Turku,Turku,Lounais-Suomen aluehallintovirasto,,20200,2021-11-15 01:35:01
+122,3054,FIN,Finland,Turku,"TU , FIN",Houtskär,,Lounais-Suomen aluehallintovirasto,,,2021-11-15 01:35:01
+123,2264,FIN,Finland,Uto,"UT , FIN",Turku,Turku,Lounais-Suomen aluehallintovirasto,,20520,2021-11-15 01:35:01
+124,2695,FIN,Finland,Turku,"TU , FIN",Kallio,Helsinki,Etelä-Suomen aluehallintovirasto,,00550,2021-11-15 01:35:01
+125,2380,FIN,Finland,Helsinki,"HE , FIN",Länsi-Turunmaa,,Lounais-Suomen aluehallintovirasto,,21630,2021-11-15 01:35:01
+126,3385,FIN,Finland,Parainen,"PA , FIN",Sarzeau,,,Bretagne,56370,2021-11-15 01:35:02
+127,2777,FRA,France,Sarzon,"SA , FRA",Vannes,,,Bretagne,56860,2021-10-18 22:30:01
+128,2299,FRA,France,Sene-Vannes,"SE , FRA",Arbonne,,,Nouvelle-Aquitaine,64210,2021-11-15 01:35:01
+129,2774,FRA,France,Bidart,"BI , FRA",Bezons,,,Île-de-France,92700,2021-11-15 01:35:01
+130,2095,FRA,France,Bezons,"BE , FRA",Étel,,,Bretagne,56410,2021-10-23 10:40:01
+131,2037,FRA,France,France,"FR , FRA",Mandelieu-la-Napoule,,,Provence-Alpes-Côte d'Azur,06210,2021-11-15 01:35:01
+132,2572,FRA,France,Mandelieu La,"ML , FRA",Vallauris,,,Provence-Alpes-Côte d'Azur,06560,2021-11-15 01:35:01
+133,2954,FRA,France,"Sophia Antipolis,","SA , FRA",Canteleu,,,Normandie,76380,2021-11-15 01:35:01
+134,2178,FRA,France,Rouen,"RO , FRA",Lanvéoc,,,Bretagne,29470,2021-11-15 01:35:01
+135,2421,FRA,France,Plougastel,"PL , FRA",Nice,Nice,,Provence-Alpes-Côte d'Azur,06108,2021-11-15 01:35:01
+136,2195,FRA,France,Nice,"NI , FRA",Saint-Georges-de-Didonne,,,Nouvelle-Aquitaine,17110,2021-02-23 21:05:01
+137,2166,FRA,France,Saint Georges,"SG , FRA",Sainte-Adresse,,,Normandie,76310,2021-11-15 01:35:01
+138,2662,FRA,France,Le Havre,"LH , FRA",Calvi,,,Corse,20260,2021-11-15 01:35:01
+139,2869,FRA,France,Calvi,"CA , FRA",Palavas-les-Flots,,,Occitanie,34250,2021-05-25 17:35:01
+140,2817,FRA,France,Palavas les,"Pl , FRA",Fontaine-la-Mallet,Le Havre,,Normandie,76600,2021-11-15 01:35:01
+141,2428,FRA,France,Le Havre,"LH , FRA",Larmor-Plage,,,Bretagne,56100,2021-11-15 01:35:01
+142,2275,FRA,France,Lorient,"LO , FRA",Port-de-Bouc,,,Provence-Alpes-Côte d'Azur,13110,2021-11-15 01:35:01
+143,2038,FRA,France,Port de,"Pd , FRA",La Rochelle,La Rochelle,,Nouvelle-Aquitaine,17000,2021-11-15 01:35:01
+144,2653,FRA,France,La Rochelle,"LR , FRA",Plouzané,,,Bretagne,29280,2021-11-15 01:35:01
+145,3353,FRA,France,Plouzane,"PL , FRA",Pérols,,,Occitanie,34130,2021-11-14 20:55:01
+146,2749,FRA,France,Carnon,"CA , FRA",Fontaine-la-Mallet,Le Havre,,Normandie,76610,2021-11-15 01:35:01
+147,3030,FRA,France,Le Havre,"LH , FRA",Arcachon,Lège-Cap-Ferret,,Nouvelle-Aquitaine,33950,2021-11-15 01:35:01
+148,2431,FRA,France,Cap Ferret,"CF , FRA",Tancarville,,,Normandie,76430,2021-11-15 01:35:01
+149,2180,FRA,France,Rouen,"RO , FRA",Brest,Brest,,Bretagne,29200,2021-11-15 01:35:01
+150,2320,FRA,France,Brest,"BR , FRA",Fécamp,,,Normandie,76400,2021-11-15 01:35:01
+151,2487,FRA,France,Fecamp,"FE , FRA",Malakoff,Paris,,Île-de-France,75007,2021-11-15 01:35:01
+152,2693,FRA,France,Paris,"PA , FRA",Noirmoutier-en-l’Île,,,Pays de la Loire,85740,2021-11-15 01:35:01
+153,3234,FRA,France,L'Epine,"L' , FRA",Sainte-Adresse,,,Normandie,76310,2021-11-15 01:35:01
+154,2093,FRA,France,Rouen,"RO , FRA",Saint-Xandre,,,Nouvelle-Aquitaine,17138,2021-11-15 01:35:01
+155,2486,FRA,France,Saint Xandre,"SX , FRA",Le Havre,Le Havre,,Normandie,7660,2021-11-15 01:35:01
+156,2335,FRA,France,Le Havre,"LH , FRA",Grasse,,,Provence-Alpes-Côte d'Azur,06130,2021-11-15 01:35:01
+157,2557,FRA,France,Grasse,"GR , FRA",Ramatuelle,,,Provence-Alpes-Côte d'Azur,83350,2021-11-15 01:35:01
+158,2405,FRA,France,Cap Camarat,"CC , FRA",Toulouse,Toulouse,,Occitanie,31000,2021-11-15 01:35:01
+159,2345,FRA,France,Toulouse,"TO , FRA",Brest,Brest,,Bretagne,29200,2021-11-15 01:35:01
+160,2972,FRA,France,Brest,"BR , FRA",Aubervilliers,,,Île-de-France,93300,2021-11-15 01:35:01
+161,2156,FRA,France,Aubervilliers,"AU , FRA",Carantec,,,Bretagne,29660,2021-11-15 01:35:01
+162,3228,FRA,France,Carantec,"CA , FRA",Roscanvel,,,Bretagne,29280,2021-11-15 01:35:01
+163,2415,FRA,France,Brest,"BR , FRA",Plogoff,,,Bretagne,29770,2021-11-15 01:35:01
+164,3162,FRA,France,Cléden-Cap-Sizun,"CL , FRA",Biot,,,Provence-Alpes-Côte d'Azur,06100,2021-11-14 23:50:02
+165,2102,FRA,France,Antibes,"AN , FRA",Brest,Brest,,Bretagne,29200,2021-11-15 01:35:01
+166,2836,FRA,France,Brest,"BR , FRA",La Rochelle,La Rochelle,,Nouvelle-Aquitaine,17000,2021-11-15 01:35:01
+167,2564,FRA,France,La Rochelle,"LR , FRA",Vannes,,,Bretagne,56000,2021-11-15 01:35:01
+168,2471,FRA,France,UBS-Vannes,"UB , FRA",Roscanvel,,,Bretagne,29280,2021-11-15 01:35:01
+169,2887,FRA,France,Plouzané,"PL , FRA",Sète,,,Occitanie,34200,2021-10-27 09:10:01
+170,2730,FRA,France,Sète,"SÈ , FRA",Melun,,,Île-de-France,77350,2021-11-15 01:35:01
+171,2960,FRA,France,Melun,"ME , FRA",La Seyne-sur-Mer,La Seyne-sur-Mer,,Provence-Alpes-Côte d'Azur,83500,2021-11-14 15:10:02
+172,2467,FRA,France,La Seyne,"LS , FRA",Elmshorn,,,Schleswig-Holstein,25336,2021-11-15 01:35:01
+173,3256,DEU,Germany,Hamburg,"HA , DEU",Dinslaken,,,Nordrhein-Westfalen,46539,2021-10-29 05:40:01
+174,2072,DEU,Germany,Walsum,"WA , DEU",Emden,,,Niedersachsen,26723,2021-11-15 01:35:01
+175,2728,DEU,Germany,Emden,"EM , DEU",Dettelbach,,,Bayern,97337,2021-11-15 01:35:01
+176,2958,DEU,Germany,Dettelbach,"DE , DEU",Wismar,Wismar,,Mecklenburg-Vorpommern,23968,2021-11-15 01:35:01
+177,2207,DEU,Germany,Wismar,"WI , DEU",Kleiner Grasbrook,Hamburg,,Hamburg,20539,2021-11-15 01:35:01
+178,2673,DEU,Germany,Hamburg,"HA , DEU",Lilienthal,Bremen,,Bremen,28359,2021-11-11 22:05:02
+179,2167,DEU,Germany,BIBA,"BI , DEU",Monheim am Rhein,,,Nordrhein-Westfalen,41539,2021-11-15 01:35:01
+181,2877,DEU,Germany,Dormagen,"DO , DEU",Tespe,,,Schleswig-Holstein,21502,2021-11-15 01:35:01
+182,2130,DEU,Germany,Lower Saxony,"LS , DEU",Rüsselsheim,,,Hessen,65428,2021-11-15 01:35:01
+183,2603,DEU,Germany,Geesthacht,"GE , DEU",Glückstadt,,,Schleswig-Holstein,25348,2021-11-15 01:35:01
+184,2216,DEU,Germany,Ruesselsheim am,"Ra , DEU",St. Georg,Hamburg,,Hamburg,20099,2021-11-15 00:05:01
+185,2176,DEU,Germany,Glueckstadt,"GL , DEU",Lingen,,,Niedersachsen,49808,2021-11-15 01:35:01
+186,3425,DEU,Germany,Hamburg,"HA , DEU",Adendorf,,,Niedersachsen,21337,2021-11-15 01:35:02
+187,2663,DEU,Germany,Lingen,"LI , DEU",Hamm,Hamm,,Nordrhein-Westfalen,59067,2021-11-15 01:35:01
+188,3366,DEU,Germany,Lüneburg,"LÜ , DEU",Heilbronn,Heilbronn,,Baden-Württemberg,74080,2021-11-15 01:35:02
+189,2600,DEU,Germany,Hamm,"HA , DEU",Mönchhagen,,,Mecklenburg-Vorpommern,18182,2021-11-15 01:35:01
+190,2717,DEU,Germany,Heilbronn,"HE , DEU",Mönchengladbach,Mönchengladbach,,Nordrhein-Westfalen,41236,2021-11-15 01:35:01
+191,3364,DEU,Germany,Mönchhagen,"MÖ , DEU",Harburg,Hamburg,,Hamburg,21073,2021-11-15 01:35:02
+192,3066,DEU,Germany,Düsseldorf,"DÜ , DEU",Wieren,,,Niedersachsen,29559,2021-11-07 00:10:01
+193,2543,DEU,Germany,Hamburg,"HA , DEU",Frankfurt am Main,Frankfurt am Main,,Hessen,60599,2021-11-15 01:35:01
+194,2186,DEU,Germany,Könau,"KÖ , DEU",Hamburg-Altstadt,Hamburg,,Hamburg,20095,2021-11-15 01:35:01
+195,2865,DEU,Germany,Frankfurt,"FR , DEU",Mönkeberg,Kiel,,Schleswig-Holstein,24149,2021-11-15 01:35:01
+196,2126,DEU,Germany,Cologne,"CO , DEU",Elmenhorst,Rostock,,Mecklenburg-Vorpommern,18119,2021-11-15 01:35:01
+197,2760,DEU,Germany,Kiel,"KI , DEU",Brühl,,,Baden-Württemberg,68782,2021-11-15 01:35:01
+198,2423,DEU,Germany,Rostock,"RO , DEU",Drochtersen,,,Niedersachsen,21706,2021-11-15 01:35:01
+199,2759,DEU,Germany,Bruehl-Baden,"BR , DEU",Karlsruhe,Karlsruhe,,Baden-Württemberg,76131,2021-11-15 01:35:01
+200,2551,DEU,Germany,"Elbe River,","ER , DEU",Mitte,Berlin,,Berlin,10178,2021-11-15 01:35:01
+201,2861,DEU,Germany,Karlsruhe,"KA , DEU",Wesel,,,Nordrhein-Westfalen,46487,2021-11-15 01:35:01
+202,2860,DEU,Germany,Berlin,"BE , DEU",Offenbach,Offenbach am Main,,Hessen,63067,2021-11-15 01:35:01
+203,2568,DEU,Germany,Wesel,"WE , DEU",Gernsheim,,,Hessen,64579,2021-11-15 01:35:01
+204,2382,DEU,Germany,Offenbach,"OF , DEU",Brandenburg an der Havel,,,Brandenburg,14772,2021-11-15 01:35:01
+205,2989,DEU,Germany,Gernsheim,"GE , DEU",Neuruppin,,,Brandenburg,16816,2021-11-15 01:35:01
+206,2858,DEU,Germany,Brandenburg,"BR , DEU",Ostseebad Kühlungsborn,,,Mecklenburg-Vorpommern,18225,2021-11-15 01:35:01
+207,2359,DEU,Germany,Neuruppin,"NE , DEU",Frankfurt am Main,Frankfurt am Main,,Hessen,60599,2021-11-15 01:35:01
+208,3496,DEU,Germany,Ostseebad Kühlungsborn,"OK , DEU",Syke,,,Niedersachsen,28857,2021-11-15 01:35:02
+209,2531,DEU,Germany,Frankfurt,"FR , DEU",Harburg,Hamburg,,Hamburg,21073,2021-11-15 01:35:01
+210,2754,DEU,Germany,Barrien,"BA , DEU",Bremerhaven,Bremerhaven,,Bremen,27568,2021-11-15 01:35:01
+211,3409,DEU,Germany,Hamburg,"HA , DEU",Offenbach,Frankfurt am Main,,Hessen,,2021-11-10 18:35:02
+212,2561,DEU,Germany,Bremerhaven,"BR , DEU",Norderney,,,Niedersachsen,26548,2021-11-15 01:35:01
+213,2856,DEU,Germany,Offenbach,"OF , DEU",Bremen,Bremen,,Bremen,28237,2021-11-15 01:35:01
+214,2805,DEU,Germany,Norderney,"NO , DEU",Plänterwald,Berlin,,Berlin,12435,2021-11-15 01:35:01
+215,2137,DEU,Germany,Bremen,"BR , DEU",Porz am Rhein,Köln,,Nordrhein-Westfalen,51143,2021-11-15 01:35:01
+216,2398,DEU,Germany,Berlin,"BE , DEU",Lemwerder,Bremen,,Bremen,28759,2021-11-15 01:35:01
+217,2513,DEU,Germany,Cologne,"CO , DEU",Bonn,Bonn,,Nordrhein-Westfalen,53111,2021-11-15 01:35:01
+218,2238,DEU,Germany,Bremen,"BR , DEU",Flörsheim,,,Hessen,65439,2021-10-12 19:35:01
+219,3281,DEU,Germany,Bonn,"BO , DEU",Wilhelmshaven,,,Niedersachsen,26382,2021-05-08 07:45:02
+220,3236,DEU,Germany,Flörsheim,"FL , DEU",Klausdorf,Kiel,,Schleswig-Holstein,24145,2021-11-15 01:35:01
+221,2747,DEU,Germany,Wilhelmshaven,"WI , DEU",Asendorf,,,Niedersachsen,21271,2021-11-15 01:35:01
+222,2228,DEU,Germany,Kiel,"KI , DEU",Altstadt Nord,Köln,,Nordrhein-Westfalen,50667,2021-11-15 01:35:01
+224,2464,DEU,Germany,Asendorf,"AS , DEU",Elsfleth,,,Niedersachsen,26931,2021-11-15 01:35:01
+225,3232,DEU,Germany,Cologne,"CO , DEU",Bremen,Bremen,,Bremen,28217,2021-11-15 01:35:01
+226,3017,DEU,Germany,Duisburg,"DU , DEU",Bremen,Bremen,,Bremen,28195,2021-11-15 01:35:01
+227,3392,DEU,Germany,Lienen,"LI , DEU",Wachtberg,,,Nordrhein-Westfalen,53343,2021-11-15 01:35:02
+228,2223,DEU,Germany,Bremen Winterhafen,"BW , DEU",Stellingen,Hamburg,,Hamburg,22525,2021-11-15 01:35:01
+229,2633,DEU,Germany,Bremen,"BR , DEU",Hamburg,Hamburg,,Hamburg,22087,2021-11-15 01:35:01
+230,3170,DEU,Germany,Bonn,"BO , DEU",Flensburg,,,Schleswig-Holstein,24937,2021-11-15 01:35:01
+231,2738,DEU,Germany,Hamburg,"HA , DEU",Ilvesheim,Mannheim,,Baden-Württemberg,68259,2021-11-15 01:35:01
+232,2413,DEU,Germany,Hamburg Alster,"HA , DEU",Rothenburgsort,Hamburg,,Hamburg,20539,2021-11-15 01:35:01
+233,2534,DEU,Germany,Flensburg,"FL , DEU",Wilhelmshaven,,,Niedersachsen,26386,2021-11-15 01:35:01
+234,3266,DEU,Germany,Mannheim,"MA , DEU",Siegburg,,,Nordrhein-Westfalen,53721,2021-11-15 01:35:01
+235,2737,DEU,Germany,Hamburg,"HA , DEU",Wismar,Wismar,,Mecklenburg-Vorpommern,23968,2021-11-15 01:35:01
+236,3097,DEU,Germany,Wilhelmshaven,"WI , DEU",Altona,Hamburg,,Hamburg,22767,2021-11-15 01:35:01
+237,2582,DEU,Germany,Siegburg,"SI , DEU",Lilienthal,Bremen,,Bremen,28309,2021-11-15 01:30:02
+238,2793,DEU,Germany,Wismar,"WI , DEU",Wedel,,,Hamburg,22559,2021-11-15 01:35:01
+239,2577,DEU,Germany,Hamburg,"HA , DEU",Bremen,Bremen,,Bremen,28279,2021-11-15 01:35:01
+240,3009,DEU,Germany,Bremen,"BR , DEU",Rummelsburg,Berlin,,Berlin,10317,2021-10-22 11:10:02
+241,2165,DEU,Germany,Hamburg,"HA , DEU",Neustadt/Süd,Köln,,Nordrhein-Westfalen,50939,2021-11-15 01:35:01
+242,3384,DEU,Germany,"Bremen, Arsten","BA , DEU",Königs Wusterhausen,,,Brandenburg,15745,2021-11-15 01:35:02
+243,2175,DEU,Germany,Berlin Rummelsburg,"BR , DEU",Rummelsburg,Berlin,,Berlin,10317,2021-11-15 01:35:01
+244,2295,DEU,Germany,Cologne,"CO , DEU",Emden,,,Niedersachsen,26723,2021-11-15 01:35:01
+245,3160,DEU,Germany,Wildau,"WI , DEU",Wremen,Bremen,,Bremen,27568,2021-11-15 01:35:01
+246,2733,DEU,Germany,Berlin,"BE , DEU",Stade,,,Niedersachsen,21683,2021-11-15 01:35:01
+247,2784,DEU,Germany,Emden,"EM , DEU",Wunstorf,,,Niedersachsen,31515,2021-11-15 01:35:01
+248,2291,DEU,Germany,Bremerhaven,"BR , DEU",Bremen,Bremen,,Bremen,28195,2021-11-15 01:35:01
+249,2403,DEU,Germany,Stadersand,"ST , DEU",Garbsen-Mitte,Hannover,,Niedersachsen,30419,2021-11-15 01:35:01
+250,2783,DEU,Germany,Wunstorf,"WU , DEU",Schülp,Schülp bei Rendsburg,,Schleswig-Holstein,24813,2021-11-15 01:35:01
+251,2110,DEU,Germany,Bremen,"BR , DEU",Albertstadt,Dresden,,Sachsen,01277,2021-11-15 01:35:01
+252,3453,DEU,Germany,Garbsen,"GA , DEU",Radebeul,Dresden,,Sachsen,01157,2021-11-15 00:20:02
+253,2584,DEU,Germany,Rendsburg,"RE , DEU",Rostock,Rostock,,Mecklenburg-Vorpommern,18059,2021-11-15 01:35:01
+254,2461,DEU,Germany,Dresden,"DR , DEU",Piraeus,Πειραιάς,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,18510,2021-11-15 01:35:01
+255,2352,DEU,Germany,Dresden,"DR , DEU",Limín Mesoyaías,,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,19000,2021-11-15 01:35:01
+256,2030,DEU,Germany,Rostock,"RO , DEU",Leondárion,Δημοτική Ενότητα Γλυκών Νερών,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,15354,2021-11-15 01:35:01
+257,3036,GRC,Greece,Piraeus,"PI , GRC",Álimos,,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,17455,2021-11-15 01:35:01
+258,2871,GRC,Greece,Athens,"AT , GRC",Néa Karváli,,Περιφέρεια Ανατολικής Μακεδονίας και Θράκης,Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης,64006,2021-11-15 01:35:01
+259,2290,GRC,Greece,Athens,"AT , GRC",Íos,,Περιφέρεια Νοτίου Αιγαίου,Αποκεντρωμένη Διοίκηση Αιγαίου,84001,2021-11-15 01:35:01
+260,2118,GRC,Greece,Alimos,"AL , GRC",Thessaloníki,Δημοτική Ενότητα Θεσαλονίκης,Περιφέρεια Κεντρικής Μακεδονίας,Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης,54627,2021-11-15 01:35:01
+261,2339,GRC,Greece,North Aegean,"NA , GRC",Glyfáda,,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,16675,2021-11-15 01:35:01
+262,2084,GRC,Greece,Ios,"IO , GRC",Athens,Αθήνα,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,10431,2021-11-15 01:35:01
+263,3197,GRC,Greece,Thessaloniki,"TH , GRC",Dhráfi,Δημοτική Ενότητα Πικερμίου,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,153 51,2021-11-15 01:35:01
+264,2237,GRC,Greece,"Athens, Glyfada","AG , GRC",Palaió Fáliro,,Περιφέρεια Αττικής,Αποκεντρωμένη Διοίκηση Αττικής,17122,2021-11-15 01:35:01
+265,2226,GRC,Greece,Athens,"AT , GRC",St Martin,,,Guernsey,GY4 6AA,2021-11-15 01:35:01
+266,2746,GRC,Greece,Rafina,"RA , GRC",Saint Sampson,Vale,,Guernsey,GY2 4PB,2021-11-15 01:35:01
+267,3344,GRC,Greece,Athens,"AT , GRC",Tsuen Wan,,,香港 Hong Kong,,2021-11-15 01:35:02
+268,2654,GGY,Guernsey,St Martin,"SM , GGY",Sai Kung,,,香港 Hong Kong,,2021-11-15 01:35:01
+269,2316,GGY,Guernsey,Guernsey,"GU , GGY",Sham Shui Po,九龍 Kowloon,,香港 Hong Kong,000000,2021-11-15 01:35:01
+270,3202,HKG,Hong Kong,Tsuen Wan,"TW , HKG",Yung Shue Wan,,,香港 Hong Kong,,2021-11-14 06:15:01
+271,3272,HKG,Hong Kong,Tseung Kwan,"TK , HKG",Tung Chung,,,香港 Hong Kong,,2021-11-15 01:35:01
+272,2177,HKG,Hong Kong,Kowloon,"KO , HKG",Mosfellsbær,Reykjavíkurborg,Höfuðborgarsvæðið,,113,2021-11-15 01:35:01
+273,2785,HKG,Hong Kong,Aberdeen,"AB , HKG",Ambon,Ambon,,Maluku,97128,2021-11-15 01:35:01
+274,3048,HKG,Hong Kong,Tung Chung,"TC , HKG",Jakarta,Daerah Khusus Ibukota Jakarta,,,10410,2021-11-15 01:35:01
+275,3302,ISL,Iceland,Reykjavik,"RE , ISL",Batang,,,Jawa Tengah,,2021-11-15 01:35:01
+277,3399,IDN,Indonesia,Ambon -,"A- , IDN",Dungarvan,,Munster,,X35 N821,2021-11-07 13:50:02
+278,3016,IDN,Indonesia,Jakarta,"JA , IDN",Kilcoole,,Leinster,,A63 K062,2021-11-15 01:35:01
+279,2897,IDN,Indonesia,Karimun Jawa,"KJ , IDN",Kinsale,,Munster,,P17 YR90,2021-11-15 01:35:01
+280,3015,IDN,Indonesia,"Balikpapan, East","BE , IDN",Clifden,,Connacht,,,2021-11-15 01:35:01
+281,2441,IRL,Ireland,Ring,"RI , IRL",Cobh,Cobh Municipal District,Munster,,P24 Y560,2021-11-15 01:35:01
+282,3304,IRL,Ireland,Newcastle,"NE , IRL",Clifden,,Connacht,,,2021-11-15 01:35:01
+283,2085,IRL,Ireland,Kinsale,"KI , IRL",Waterford,Waterford,Munster,,X91 V24Y,2021-11-15 01:35:01
+284,3053,IRL,Ireland,Renvyle,"RE , IRL",Bangor,,,Northern Ireland,BT20 5PU,2021-11-14 20:40:02
+285,2321,IRL,Ireland,Cobh,"CO , IRL",South Bank,,North East England,England,TS6 8DD,2021-11-15 01:35:01
+286,3357,IRL,Ireland,Inishbofin,"IN , IRL",Westport,,Connacht,,F28 RD39,2021-11-15 01:35:02
+287,2360,IRL,Ireland,Waterford,"WA , IRL",Newtownmountkennedy,,Leinster,,A63 A243,2021-11-15 01:35:01
+288,3104,IRL,Ireland,Bangor,"BA , IRL",Gaillimh,,Munster,,,2021-11-15 01:35:01
+289,2150,IRL,Ireland,Lackenbehy,"LA , IRL",Bantry,,Munster,,,2021-11-15 01:35:01
+290,2846,IRL,Ireland,Westport,"WE , IRL",Haifa,חיפה,נפת חיפה,מחוז חיפה,3559134,2021-11-15 01:35:01
+291,2378,IRL,Ireland,Newtownmountkennedy,"NE , IRL",Hadera,חדרה,נפת חדרה,מחוז חיפה,3852557,2021-11-15 01:35:01
+292,2569,IRL,Ireland,Galway,"GA , IRL",Tel Aviv,תל אביב-יפו,נפת תל אביב,מחוז תל אביב,6946032,2021-11-15 01:35:01
+293,2354,IRL,Ireland,Mizen Head,"MH , IRL",Haifa,חיפה,נפת חיפה,מחוז חיפה,33855,2021-11-15 00:10:02
+294,2610,ISR,Israel,Haifa,"HA , ISR",Nesher,חיפה,נפת חיפה,מחוז חיפה,3498825,2021-11-15 01:35:01
+295,2283,ISR,Israel,Haifa,"HA , ISR",Augusta,Augusta,,Sicilia,96012,2021-11-15 01:35:01
+296,2751,ISR,Israel,	Tel Aviv,"TA , ISR",La Spezia,La Spezia,,Liguria,19121,2021-11-15 00:05:02
+297,2371,ISR,Israel,Haifa,"HA , ISR",Gela,Gela,,Sicilia,93012,2021-11-15 01:35:01
+298,2893,ISR,Israel,Haifa,"HA , ISR",Licata,Licata,,Sicilia,92027,2021-11-15 01:35:01
+299,3373,ITA,Italy,Augusta,"AU , ITA",Carini,Carini,,Sicilia,90044,2021-11-15 01:35:02
+300,2169,ITA,Italy,La Spezia,"LS , ITA",Anzio,,,Lazio,00042,2021-11-15 01:35:01
+301,2521,ITA,Italy,Gela,"GE , ITA",Arola-Preazzano,,,Campania,80062,2021-11-15 01:35:01
+302,2873,ITA,Italy,Licata,"LI , ITA",San Teodoro,Genova,,Liguria,16152,2021-11-15 01:35:01
+303,2098,ITA,Italy,Palermo,"PA , ITA",Masseria Vecchia Ovest,,,Campania,,2021-11-15 01:35:01
+304,2553,ITA,Italy,Aprilia,"AP , ITA",Quercianella,,,,,2021-11-15 01:35:01
+305,3116,ITA,Italy,Sorrento,"SO , ITA",Taranto,Taranto,,Puglia,74123,2021-11-15 01:35:01
+306,2489,ITA,Italy,Messina,"ME , ITA",Milazzo,Milazzo,,Sicilia,98057,2021-11-15 01:35:01
+307,3100,ITA,Italy,Naples,"NA , ITA",Marcon-Gaggio-Colmello,,,Veneto,,2021-11-14 23:35:02
+308,2394,ITA,Italy,Livorno,"LI , ITA",San Benedetto del Tronto,,,Marche,63074,2021-11-15 01:35:01
+309,2217,ITA,Italy,Taranto,"TA , ITA",Meta,,,Campania,80062,2021-11-15 01:35:01
+310,2189,ITA,Italy,Milazzo,"MI , ITA",Yamato,横浜市,,,231-0017,2021-11-15 01:35:01
+311,2573,ITA,Italy,Venice,"VE , ITA",Aomori,,,,,2021-11-15 01:35:01
+312,3224,ITA,Italy,San Benedetto,"SB , ITA",Yokosuka,横須賀市,,,238-8550,2021-11-15 01:35:01
+313,2525,ITA,Italy,Meta (Naples),"M( , ITA",Katsuura,勝浦市,,,299-5231,2021-11-15 01:35:01
+314,2947,JPN,Japan,Yokohama (JP,"Y( , JPN",Chiba,千葉市,,,260-8722,2021-11-15 01:35:01
+315,3410,JPN,Japan,Aomori,"AO , JPN",Wakayama,和歌山市,,,640-8511,2021-11-15 01:35:02
+316,2062,JPN,Japan,Yokosuka,"YO , JPN",Ashiya,神戸市,,,6580046,2021-11-15 01:35:01
+317,3024,JPN,Japan,"Katsuura, Chiba","KC , JPN",Yokohama,横浜市,,,231-0017,2021-11-15 01:35:01
+318,2171,JPN,Japan,Chiba,"CH , JPN",Sumoto,洲本市,,,,2021-11-15 01:35:01
+319,2417,JPN,Japan,Wakayama Port,"WP , JPN",Kobe,神戸市,,,650-8570,2021-11-15 01:35:01
+320,3163,JPN,Japan,Kobe,"KO , JPN",Jeju City,제주시,,,63147,2021-11-15 01:35:01
+321,2119,JPN,Japan,Yokohama,"YO , JPN",Incheon,인천,,,22397,2021-11-15 01:35:01
+322,2326,JPN,Japan,Sumoto,"SU , JPN",Dongnae,부산,,,48058,2021-11-15 01:35:01
+323,2121,JPN,Japan,Kobe,"KO , JPN",Hongseong,,,,32204,2021-11-15 01:35:01
+324,2991,KOR,South Korea,Jejusi,"JE , KOR",Az Zawr,,,الجهراء,,2021-11-15 01:35:01
+325,3402,KOR,South Korea,Incheon,"IN , KOR",Šilalė,,Rietavo savivaldybė,Telšių apskritis,90283,2021-11-12 19:10:02
+326,3322,KOR,South Korea,Busan,"BU , KOR",Putatan,,,Sabah,89560,2021-11-15 01:35:01
+327,2391,KOR,South Korea,Pyuntaek,"PY , KOR",Cozumel,San Miguel de Cozumel,,Quintana Roo,77663,2021-11-15 01:35:01
+328,3188,KWT,Kuwait,Kuwait,"KU , KWT",Veracruz,Veracruz,,Veracruz de Ignacio de la Llave,917000,2021-11-15 01:35:01
+329,2719,LTU,Lithuania,Klaipeda,"KL , LTU",Monaco,Monaco,,,98020,2021-11-15 01:35:01
+330,2504,MYS,Malaysia,Kota Kinabalu,"KK , MYS",Saint-Roman,Monaco,,,9800,2021-11-15 01:35:01
+331,2427,MEX,Mexico,Cozumel,"CO , MEX",Casablanca,Casablanca ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء,Préfecture de Casablanca عمالة الدار البيضاء,,20552,2021-11-15 01:35:01
+332,2138,MEX,Mexico,Veracruz,"VE , MEX",Katwijk aan den Rijn,,,Zuid-Holland,2223TL,2021-11-15 01:35:01
+333,3043,MCO,Monaco,Monaco,"MO , MCO",Alphen aan den Rijn,,,Zuid-Holland,2402PP,2021-11-15 01:35:01
+334,2822,MCO,Monaco,Monaco,"MO , MCO",Papendrecht,,,Zuid-Holland,2952DD,2021-11-15 01:35:01
+335,3241,MAR,Morocco,Casablanca,"CA , MAR",Emmeloord,,,Flevoland,8304AC,2021-11-15 01:35:01
+336,2224,NLD,Netherlands,Katwijk,"KA , NLD",Franeker,,,Fryslân,8801RA,2021-11-15 01:35:01
+337,3082,NLD,Netherlands,Alphen Aan,"AA , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+338,3448,NLD,Netherlands,Alblasserdam,"AL , NLD",Warmond,,,Zuid-Holland,2361CL,2021-11-15 01:35:02
+339,3254,NLD,Netherlands,Emmeloord,"EM , NLD",Valkenburg,,,Limburg,6301EM,2021-11-15 01:35:01
+340,2775,NLD,Netherlands,Franeker,"FR , NLD",Delft,Delft,,Zuid-Holland,2611HK,2021-11-15 01:35:01
+341,2298,NLD,Netherlands,Rotterdam,"RO , NLD",Molenhoek,,,Noord-Brabant,5244GN,2021-11-15 01:35:01
+342,2497,NLD,Netherlands,Warmond,"WA , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+343,2674,NLD,Netherlands,Maastricht,"MA , NLD",Wijchen,,,Gelderland,6602BB,2021-11-15 01:35:01
+344,2381,NLD,Netherlands,Delft,"DE , NLD",Budschop,,,Limburg,6031AD,2021-11-15 01:35:01
+345,2287,NLD,Netherlands,Rosmalen,"RO , NLD",Brielle,,,Zuid-Holland,3232HB,2021-11-15 01:35:01
+346,2273,NLD,Netherlands,Rotterdam,"RO , NLD",Voldijn,,,Noord-Brabant,5582,2021-11-15 01:35:01
+347,3372,NLD,Netherlands,Wijchen,"WI , NLD",Spechtenkamp,,,Utrecht,3607XB,2021-11-15 01:35:02
+348,2483,NLD,Netherlands,Nederweert,"NE , NLD",Vreewijk,Rotterdam,,Zuid-Holland,3077AW,2021-11-15 01:35:01
+349,2878,NLD,Netherlands,Brielle,"BR , NLD",West-Terschelling,,,Fryslân,8881EC,2021-11-15 01:35:01
+350,3252,NLD,Netherlands,Waalre,"WA , NLD",Tuikwerd,,,Groningen,9934NH,2021-11-14 14:50:03
+351,3212,NLD,Netherlands,Maarssenbroek,"MA , NLD",Zaandam,Amsterdam,,Noord-Holland,1037RR,2021-11-15 01:35:01
+352,2599,NLD,Netherlands,Zwijndrecht,"ZW , NLD",Schelluinen,,,Zuid-Holland,4202MS,2021-11-15 01:35:01
+353,2771,NLD,Netherlands,West-Terschelling,"WE , NLD",Hippolytushoef,,,Noord-Holland,1777HT,2021-11-15 01:35:01
+354,2350,NLD,Netherlands,Delfzijl,"DE , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+355,2607,NLD,Netherlands,Amsterdam,"AM , NLD",Terneuzen,,,Zeeland,4537AK,2021-11-15 01:35:01
+356,2554,NLD,Netherlands,Gorinchem,"GO , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+357,2671,NLD,Netherlands,Hippolytushoef,"HI , NLD",Edam,,,Noord-Holland,1132HW,2021-11-15 01:35:01
+358,2429,NLD,Netherlands,Rotterdam,"RO , NLD",Breukelen,,,Utrecht,3631AK,2021-11-15 01:35:01
+359,3429,NLD,Netherlands,Terneuzen,"TE , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:02
+360,2232,NLD,Netherlands,Rotterdam,"RO , NLD",The Hague,Den Haag,,Zuid-Holland,2517BP,2021-11-15 01:35:01
+361,2459,NLD,Netherlands,Edam,"ED , NLD",Spijkenisse,,,Zuid-Holland,3201LW,2021-11-15 01:35:01
+362,2535,NLD,Netherlands,Nieuwersluis,"NI , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+363,2214,NLD,Netherlands,Rotterdam,"RO , NLD",Geertruidenberg,,,Noord-Brabant,4931NA,2021-11-15 01:35:01
+364,2588,NLD,Netherlands,The Hague,"TH , NLD",Lelystad,Lelystad,,Flevoland,8231JA,2021-11-15 01:35:01
+365,2402,NLD,Netherlands,Spijkenisse,"SP , NLD",Frankhuis,Zwolle,,Overijssel,8043RL,2021-11-15 01:35:01
+366,2945,NLD,Netherlands,Rotterdam,"RO , NLD",Maasbracht,,,Limburg,6051BM,2021-11-15 01:35:01
+367,2409,NLD,Netherlands,Geertruidenberg,"GE , NLD",Almelo,,,Overijssel,7607SM,2021-11-15 01:35:01
+368,2155,NLD,Netherlands,Lelystad,"LE , NLD",Hulst,,,Zeeland,4583RW,2021-11-15 01:35:01
+369,2574,NLD,Netherlands,Zwolle,"ZW , NLD",Zwolle,Zwolle,,Overijssel,8032JC,2021-11-15 01:35:01
+370,2816,NLD,Netherlands,Maasbracht,"MA , NLD",Farmsum,,,Groningen,9934AP,2021-11-15 01:35:01
+371,2244,NLD,Netherlands,Almelo,"AL , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+372,2022,NLD,Netherlands,Hulst,"HU , NLD",Gageldonk,Breda,,Noord-Brabant,4815PH,2021-11-15 01:35:01
+373,3136,NLD,Netherlands,Zwolle,"ZW , NLD",Eijsden,,,Limburg,6245CJ,2021-11-14 21:05:02
+374,2661,NLD,Netherlands,Amersfoort,"AM , NLD",Delft,Delft,,Zuid-Holland,2611EH,2021-11-15 01:35:01
+375,3199,NLD,Netherlands,Rotterdam,"RO , NLD",Zaanstad,,,Noord-Holland,1541AP,2021-11-15 01:35:01
+376,2590,NLD,Netherlands,Breda,"BR , NLD",Oostburg,,,Zeeland,4501JG,2021-11-15 01:35:01
+377,3295,NLD,Netherlands,Eijsden,"EI , NLD",Middelharnis,,,Zuid-Holland,3244AW,2021-11-15 01:35:01
+378,2815,NLD,Netherlands,Delft,"DE , NLD",Hees,Nijmegen,,Gelderland,6532XX,2021-11-15 01:35:01
+379,3135,NLD,Netherlands,Koog aan,"Ka , NLD",Oog in Al,Utrecht,,Utrecht,3553GL,2021-11-10 17:15:02
+380,2712,NLD,Netherlands,Oostburg,"OO , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+381,3360,NLD,Netherlands,Nieuwe Tonge,"NT , NLD",Hellevoetsluis,,,Zuid-Holland,3221VE,2021-11-15 01:35:02
+382,2559,NLD,Netherlands,Nijmegen,"NI , NLD",Harlingen,,,Fryslân,8862XV,2021-11-15 01:35:01
+383,2314,NLD,Netherlands,Utrecht,"UT , NLD",Sliedrecht,,,Zuid-Holland,3361GN,2021-11-15 01:35:01
+384,3412,NLD,Netherlands,Rotterdam,"RO , NLD",Dordrecht,Dordrecht,,Zuid-Holland,3311JG,2021-11-15 01:35:02
+385,2510,NLD,Netherlands,Hellevoetsluis,"HE , NLD",Amstelveen,Amsterdam,,Noord-Holland,1059,2021-11-15 01:35:01
+386,3290,NLD,Netherlands,Harlingen,"HA , NLD",Leiden,Leiden,,Zuid-Holland,2316DP,2021-11-15 01:35:01
+387,2655,NLD,Netherlands,Sliedrecht,"SL , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+388,3288,NLD,Netherlands,Dordrecht,"DO , NLD",Zierikzee,,,Zeeland,4301BC,2021-01-23 23:25:01
+389,2082,NLD,Netherlands,Amsterdam,"AM , NLD",Zoeterwoude-Dorp,Zoeterwoude,,Zuid-Holland,2381BH,2021-11-15 01:35:01
+390,3056,NLD,Netherlands,Leiden,"LE , NLD",Renesse,,,Zeeland,4325HZ,2021-11-15 01:35:01
+391,2468,NLD,Netherlands,Rotterdam,"RO , NLD",Zaamslag,,,Zeeland,4581PV,2021-11-15 01:35:01
+392,3123,NLD,Netherlands,Zierikzee,"ZI , NLD",Harlingen,,,Fryslân,8861HJ,2021-11-15 01:35:01
+393,2250,NLD,Netherlands,Zoeterwoude,"ZO , NLD",Zeist,,,Utrecht,3702GJ,2021-11-14 16:05:02
+394,3287,NLD,Netherlands,Renesse,"RE , NLD",Vollenhove,,,Flevoland,8316PV,2021-11-15 01:35:01
+395,2987,NLD,Netherlands,"Vogelwaarde, Zeeland","VZ , NLD",Diemen,Amsterdam,,Noord-Holland,1098KB,2021-11-15 01:35:01
+396,3183,NLD,Netherlands,Harlingen,"HA , NLD",Zaamslag,,,Zeeland,4543BK,2021-11-10 16:50:02
+397,2921,NLD,Netherlands,Zeist,"ZE , NLD",West-Terschelling,,,Fryslân,8881BB,2021-11-15 01:35:01
+398,2652,NLD,Netherlands,Marknesse,"MA , NLD",Lelystad,Lelystad,,Flevoland,8244EL,2021-11-15 01:35:01
+399,2278,NLD,Netherlands,Amsterdam,"AM , NLD",Frankhuis,Zwolle,,Overijssel,8043LS,2021-11-15 01:35:01
+400,3181,NLD,Netherlands,Zaamslag,"ZA , NLD",Vorstenbosch,,,Noord-Brabant,5476KT,2021-11-15 01:35:01
+401,2697,NLD,Netherlands,Wadscan AIS,"WA , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+402,3284,NLD,Netherlands,Lelystad,"LE , NLD",Rockanje,,,Zuid-Holland,3235AR,2021-11-01 07:20:02
+403,2470,NLD,Netherlands,Zwolle,"ZW , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-14 15:45:01
+404,3113,NLD,Netherlands,Vorstenbosch,"VO , NLD",Nieuwenhoorn,,,Zuid-Holland,3223HL,2021-11-06 18:50:02
+405,2916,NLD,Netherlands,Rotterdam,"RO , NLD",Amstelveen,,,Noord-Holland,1186SH,2021-11-15 01:35:01
+406,3029,NLD,Netherlands,Rockanje,"RO , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-06 17:10:01
+407,2077,NLD,Netherlands,Rotterdam,"RO , NLD",Oosterholt,,,Overijssel,8271,2021-11-15 01:35:01
+408,2097,NLD,Netherlands,Hellevoetsluis,"HE , NLD",De Hagen,,,Utrecht,4131KA,2021-11-15 01:35:01
+409,3027,NLD,Netherlands,Amstelveen,"AM , NLD",Born,,,Limburg,6121MA,2021-11-15 01:35:01
+410,2492,NLD,Netherlands,Rotterdam,"RO , NLD",Stein,,,Limburg,6171DW,2021-11-15 01:35:01
+411,2136,NLD,Netherlands,NW_Overijssel ,"NW , NLD",Hurdegaryp,,,Fryslân,9265LS,2021-11-15 01:35:01
+412,3109,NLD,Netherlands,Nieuwegein,"NI , NLD",Hattemerbroek,,,Gelderland,8091CW,2021-11-15 01:35:01
+413,2852,NLD,Netherlands,Born,"BO , NLD",Monster,,,Zuid-Holland,2684XA,2021-11-15 01:35:01
+414,2330,NLD,Netherlands,Stein,"ST , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+415,2694,NLD,Netherlands,Suwald,"SU , NLD",Heerjansdam,,,Zuid-Holland,3336,2021-11-10 13:40:02
+416,2904,NLD,Netherlands,Wezep,"WE , NLD",Wijk aan Zee,,,Noord-Holland,1975AG,2021-11-15 01:35:01
+417,3040,NLD,Netherlands,Ter Heijde,"TH , NLD",Katwijk aan den Rijn,,,Zuid-Holland,2224EM,2021-11-15 01:35:01
+418,3396,NLD,Netherlands,Rotterdam,"RO , NLD",Breskens,,,Zeeland,4511CS,2021-11-15 01:35:02
+419,2642,NLD,Netherlands,Dordrecht,"DO , NLD",Lage Mierde,,,Noord-Brabant,5085,2021-11-15 01:35:01
+420,2236,NLD,Netherlands,Ijmuiden,"IJ , NLD",Katwijk aan Zee,,,Zuid-Holland,2221RD,2021-11-15 01:35:01
+421,2086,NLD,Netherlands,Katwijk,"KA , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+422,3473,NLD,Netherlands,Breskens,"BR , NLD",Utrecht,Utrecht,,Utrecht,3564BZ,2021-11-15 01:35:02
+423,3174,NLD,Netherlands,‘S-Hertogenbosch,"‘S , NLD",Goor,,,Overijssel,7471MC,2021-11-15 01:35:01
+424,2435,NLD,Netherlands,Katwijk,"KA , NLD",Almere Stad,Marken,,Noord-Holland,,2021-11-15 01:35:01
+425,2140,NLD,Netherlands,Rotterdam,"RO , NLD",Enkhuizen,,,Flevoland,,2021-11-15 01:35:01
+426,2596,NLD,Netherlands,Utrecht,"UT , NLD",Lindenholt,Nijmegen,,Gelderland,6545AM,2021-11-15 01:35:01
+427,2239,NLD,Netherlands,Goor,"GO , NLD",Rijswijk,,,Zuid-Holland,2287VZ,2021-11-15 01:35:01
+428,2065,NLD,Netherlands,Ijsselmeer,"IJ , NLD",Harlingen,,,Fryslân,8861JJ,2021-11-15 01:35:01
+429,3172,NLD,Netherlands,IJsselmeer,"IJ , NLD",Oog in Al,Utrecht,,Utrecht,3544ZE,2021-11-15 01:35:01
+430,2135,NLD,Netherlands,Nijmegen,"NI , NLD",Renesse,,,Zeeland,4325EW,2021-03-16 18:15:01
+431,2549,NLD,Netherlands,Rijswijk,"RI , NLD",Rhoon,,,Zuid-Holland,3171PN,2021-11-15 01:35:01
+432,2112,NLD,Netherlands,Harlingen,"HA , NLD",Kadoelen,Amsterdam,,Noord-Holland,1032JB,2021-11-15 01:35:01
+433,2691,NLD,Netherlands,Utrecht,"UT , NLD",Veenoord,,,Drenthe,7833BZ,2021-11-15 01:10:01
+434,3390,NLD,Netherlands,Alphen aan,"Aa , NLD",Rhoon,,,Zuid-Holland,3171PN,2021-11-15 01:35:02
+435,2548,NLD,Netherlands,Poortugaal,"PO , NLD",Posterholt,,,Limburg,6061CS,2021-11-15 01:35:01
+436,3334,NLD,Netherlands,Amsterdam,"AM , NLD",Zaandam,,,Noord-Holland,1501ZB,2021-11-15 01:35:01
+437,2845,NLD,Netherlands,Nieuw-Amsterdam,"NI , NLD",Drachten,,,Fryslân,9202JE,2021-11-15 01:35:01
+438,2475,NLD,Netherlands,Poortugaal,"PO , NLD",Gouda,,,Zuid-Holland,2803WV,2021-11-15 01:35:01
+439,2631,NLD,Netherlands,Roermond,"RO , NLD",Duiven,,,Gelderland,6921XG,2021-11-15 01:35:01
+440,3166,NLD,Netherlands,Zaandam,"ZA , NLD",Lemmer,,,Fryslân,8531PN,2021-11-15 01:35:01
+441,2968,NLD,Netherlands,Drachten,"DR , NLD",Utrecht,Utrecht,,Utrecht,3583JB,2021-11-15 01:35:01
+442,2241,NLD,Netherlands,Gouda,"GO , NLD",Sellingen,,,Groningen,9551XK,2021-11-15 01:35:01
+443,2892,NLD,Netherlands,Duiven,"DU , NLD",Sint Jacobiparochie,St.-Jacobiparochie,,Fryslân,9079,2021-11-15 01:35:01
+444,2374,NLD,Netherlands,Lemmer,"LE , NLD",Rhoon,,,Zuid-Holland,3176PG,2021-11-15 01:35:01
+445,3264,NLD,Netherlands,Utrecht,"UT , NLD",Driebergen-Rijsenburg,,,Utrecht,3972KB,2021-11-15 01:35:01
+446,2425,NLD,Netherlands,Ter Walslage,"TW , NLD",Spechtenkamp,,,Utrecht,3607XB,2021-11-14 19:30:01
+447,2625,NLD,Netherlands,Sint Anne,"SA , NLD",Diemen,Amsterdam,,Noord-Holland,1087HJ,2021-11-15 01:35:01
+448,2231,NLD,Netherlands,Poortugaal,"PO , NLD",Spijkenisse,,,Zuid-Holland,3201CL,2021-11-15 01:35:01
+449,2734,NLD,Netherlands,Driebergen,"DR , NLD",Spijkenisse,,,Zuid-Holland,3192BJ,2021-11-15 01:35:01
+450,3007,NLD,Netherlands,Maarssen,"MA , NLD",Urk,,,Flevoland,8321TH,2021-11-15 01:35:01
+451,2346,NLD,Netherlands,Amsterdam,"AM , NLD",Brouwershaven,,,Zeeland,4316PL,2021-11-15 01:35:01
+452,2105,NLD,Netherlands,Spijkenisse,"SP , NLD",Lelystad,Lelystad,,Flevoland,8221RC,2021-11-15 01:35:01
+453,3381,NLD,Netherlands,Hoogvliet,"HO , NLD",Heerenveen,,,Fryslân,8441CB,2021-11-15 01:35:02
+454,2679,NLD,Netherlands,Urk,"UR , NLD",Megen,,,Gelderland,6629AS,2021-11-15 01:35:01
+455,2196,NLD,Netherlands,Zonnemaire,"ZO , NLD",Papendrecht,,,Zuid-Holland,3356LE,2021-10-30 09:10:01
+456,3260,NLD,Netherlands,Lelystad,"LE , NLD",Hoogland,Amersfoort,,Utrecht,3812RV,2021-11-15 01:35:01
+457,3006,NLD,Netherlands,Heerenveen,"HE , NLD",Doornenburg,,,Gelderland,6691HK,2021-11-15 01:35:01
+458,2623,NLD,Netherlands,Appeltern,"AP , NLD",Waterakkers,,,Noord-Holland,1944PG,2021-11-15 01:35:01
+459,2835,NLD,Netherlands,Papendrecht,"PA , NLD",Rijswijk,,,Zuid-Holland,2288GJ,2021-11-15 01:35:01
+460,2052,NLD,Netherlands,Amersfoort,"AM , NLD",Rotterdam,Rotterdam,,Zuid-Holland,3032AC,2021-11-15 01:35:01
+461,3159,NLD,Netherlands,Gendt,"GE , NLD",Duinzigt,Den Haag,,Zuid-Holland,2597AK,2021-11-15 01:35:01
+462,2678,NLD,Netherlands,Beverwijk,"BE , NLD",Marken,Marken,,Noord-Holland,1156,2021-11-15 01:35:01
+463,2961,NLD,Netherlands,Rijswijk,"RI , NLD",Schipluiden,Delft,,Zuid-Holland,2625NZ,2021-11-15 01:35:01
+464,3004,NLD,Netherlands,Rotterdam,"RO , NLD",Lobith,,,Gelderland,6917AB,2021-11-15 01:35:01
+465,2347,NLD,Netherlands,The Hague,"TH , NLD",Bosch en Duin,,,Utrecht,3707NH,2021-11-02 18:50:01
+466,3086,NLD,Netherlands,Andijk,"AN , NLD",Kamperland,,,Zeeland,4351AS,2021-11-15 01:35:01
+467,2831,NLD,Netherlands,Delft,"DE , NLD",Posterholt,,,Limburg,6061CB,2021-11-15 01:35:01
+468,2220,NLD,Netherlands,Tolkamer,"TO , NLD",De Domp,,,Fryslân,8604CA,2021-11-15 01:35:01
+469,2379,NLD,Netherlands,Zeist,"ZE , NLD",Tauranga,Tauranga,,Bay of Plenty,3143,2021-11-15 01:35:01
+470,3317,NLD,Netherlands,Veere,"VE , NLD",Picton,,,Marlborough,7220,2021-11-15 01:35:01
+471,2303,NLD,Netherlands,Posterholt,"PO , NLD",Murrays Bay,Hibiscus and Bays,,Auckland,0630,2021-11-15 01:35:01
+472,2782,NLD,Netherlands,Sneek,"SN , NLD",Tauranga,Tauranga,,Bay of Plenty,3143,2021-11-15 01:35:01
+473,2611,NZL,New Zealand,Tauranga,"TA , NZL",Tauranga,Tauranga,,Bay of Plenty,3149,2021-11-15 01:35:01
+474,2770,NZL,New Zealand,Marlborough Sounds,"MS , NZL",Wellington,Wellington,,Wellington,6145,2021-11-15 01:35:01
+475,2114,NZL,New Zealand,Auckland,"AU , NZL",Ngaruawahia,,,Waikato,3771,2021-11-15 01:35:01
+476,2188,NZL,New Zealand,Tauranga,"TA , NZL",Picton,,,Marlborough,,2021-11-15 01:35:01
+477,2544,NZL,New Zealand,Tauranga,"TA , NZL",Lower Hutt,Lower Hutt,,Wellington,5010,2021-11-15 01:35:01
+478,2761,NZL,New Zealand,Wellington,"WE , NZL",Sandvika,,,,1337,2021-11-15 01:35:01
+479,2518,NZL,New Zealand,Waikato,"WA , NZL",Straumen,,,,7670,2021-11-15 01:35:01
+480,2926,NZL,New Zealand,Nikau Bay,"NB , NZL",Hopen,,,,7268,2021-11-15 01:35:01
+481,2830,NZL,New Zealand,Wellington,"WE , NZL",Lyngdal,,,,4586,2021-11-15 01:35:01
+482,3052,NOR,Norway,Sandvika,"SA , NOR",Larvik,,,,3257,2021-11-15 01:35:01
+483,2829,NOR,Norway,Inderoy,"IN , NOR",Trondheim,,,,7010,2021-11-15 01:35:01
+484,2257,NOR,Norway,Titran,"TI , NOR",Bodø,Bodø,,,8003,2021-11-07 23:00:01
+485,2581,NOR,Norway,Korshamn,"KO , NOR",Svortland,,,,5430,2021-11-15 01:35:01
+486,2560,NOR,Norway,Larvik,"LA , NOR",Stavanger,Stavanger,,,4036,2021-11-15 01:35:01
+487,3151,NOR,Norway,Trondheim,"TR , NOR",Skudeneshavn,,,,4280,2021-11-15 01:35:01
+488,3370,NOR,Norway,Bodo,"BO , NOR",Moss,,,,1519,2021-11-15 01:35:02
+489,3247,NOR,Norway,Bremnes,"BR , NOR",Stavanger,Stavanger,,,4019,2021-10-13 08:05:01
+490,2221,NOR,Norway,Stavanger,"ST , NOR",Haugesund,,,,5527,2021-11-15 01:35:01
+491,2764,NOR,Norway,Skudeneshavn,"SK , NOR",Haugesund,,,,5514,2021-11-15 01:35:01
+492,2586,NOR,Norway,"Jeloy, Moss","JM , NOR",Moss,,,,1518,2021-11-15 01:35:01
+493,3296,NOR,Norway,Stavanger,"ST , NOR",Kristiansund,,,,6507,2021-11-15 01:35:01
+494,3065,NOR,Norway,Haugesund,"HA , NOR",Slemmestad,,,,3478,2021-11-15 01:35:01
+495,3242,NOR,Norway,Haugesund,"HA , NOR",Sandnes,,,,4306,2021-11-15 01:35:01
+496,3198,NOR,Norway,"Jeloy, Moss","JM , NOR",Kabelvåg,,,,8513,2021-11-15 01:35:01
+497,2198,NOR,Norway,Kristiansund,"KR , NOR",Sandefjord,,,,3241,2021-11-15 01:35:01
+498,3134,NOR,Norway,Nærsnes,"NÆ , NOR",Rypefjord,,,,,2021-11-15 01:35:01
+499,2141,NOR,Norway,Sandnes,"SA , NOR",Sistranda,,,,7252,2021-11-15 01:35:01
+500,3196,NOR,Norway,Straumnes,"ST , NOR",Solfjellsjøen,,,,8764,2021-11-15 00:10:02
+501,2705,NOR,Norway,Sandefjord,"SA , NOR",Husøya,,,,,2021-11-15 01:35:01
+502,2928,NOR,Norway,Hammerfest,"HA , NOR",Kristiansund,,,,6517,2021-11-15 01:35:01
+503,2174,NOR,Norway,Knutshaugen,"KN , NOR",Tromsø,Tromsø,,,9015,2021-11-15 01:35:01
+504,2051,NOR,Norway,Lovund,"LO , NOR",Borgheim,,,,3143,2021-11-15 01:35:01
+505,2063,NOR,Norway,Traena,"TR , NOR",Vestbygd,,,,4563,2021-11-15 01:35:01
+506,2384,NOR,Norway,Kristiansund,"KR , NOR",Oslo,Oslo,,,0250,2021-11-15 01:35:01
+507,2982,NOR,Norway,Tromso,"TR , NOR",Knarvik,Bergen,,,5108,2021-11-15 01:35:01
+508,2211,NOR,Norway,Kjopmannskjaer,"KJ , NOR",Berger,,,,3060,2021-11-07 02:00:01
+509,2506,NOR,Norway,Lista,"LI , NOR",Kristiansand,,,,4626,2021-11-15 01:35:01
+510,2462,NOR,Norway,Oslo,"OS , NOR",Fredrikstad,,,,1684,2021-11-15 01:35:01
+511,3349,NOR,Norway,Hordvik,"HO , NOR",Oslo,Oslo,,,0015,2021-11-15 01:35:02
+512,2804,NOR,Norway,Oslo,"OS , NOR",Lillesand,,,,,2021-11-15 01:35:01
+513,2453,NOR,Norway,Kristiansand,"KR , NOR",Hauge i Dalane,,,,4381,2021-11-15 01:35:01
+514,2341,NOR,Norway,Papper,"PA , NOR",Brøstadbotn,,,,9311,2021-11-15 01:35:01
+515,2979,NOR,Norway,Oslo,"OS , NOR",Haugesund,,,,5518,2021-11-15 01:35:01
+516,2122,NOR,Norway,Homborsund,"HO , NOR",Ålesund,,,,6004,2021-11-15 01:35:01
+517,3171,NOR,Norway,Sokndal,"SO , NOR",Moi,,,,4460,2021-11-15 01:35:01
+518,2562,NOR,Norway,Brostadbotn,"BR , NOR",Trondheim,,,,7067,2021-11-15 01:35:01
+519,2689,NOR,Norway,Haugesund,"HA , NOR",Rognan,,,,8253,2021-11-15 01:35:01
+520,2430,NOR,Norway,Ålesund,"ÅL , NOR",Río Abajo,Pueblo Nuevo,,Panamá,620,2021-11-15 01:35:01
+521,3331,NOR,Norway,Moi,"MO , NOR",Imus,Bacoor,,Cavite,4102,2021-11-14 10:10:03
+522,2366,NOR,Norway,Trondheim,"TR , NOR",Sambayanihan People's Village,Parañaque,Southern Manila District,,1708,2021-11-15 01:35:01
+523,2393,NOR,Norway,Rognan,"RO , NOR",Gdańsk,Gdańsk,,województwo pomorskie,80-170,2021-11-15 01:35:01
+524,2542,PAN,Panama,Panama City,"PC , PAN",Chwaszczyno,Gdynia,,województwo pomorskie,81-603,2021-11-15 01:35:01
+525,2810,PHL,Philippines,Imus,"IM , PHL",Szczecin,Szczecin,,województwo zachodniopomorskie,71-742,2021-11-15 01:35:01
+526,3400,PHL,Philippines,Paranaque,"PA , PHL",Sopot,,,województwo pomorskie,80-358,2021-11-15 01:35:02
+527,2163,POL,Poland,Gdańsk-Suchanino,"GD , POL",Szczecin,Szczecin,,województwo zachodniopomorskie,71-010,2021-11-07 16:45:01
+528,2031,POL,Poland,Gdynia,"GD , POL",Szczecin,Szczecin,,województwo zachodniopomorskie,,2021-11-15 01:35:01
+529,2043,POL,Poland,Szczecin-Golecin,"SZ , POL",Szczecin,Szczecin,,województwo zachodniopomorskie,71-446,2021-11-15 01:35:01
+530,3168,POL,Poland,Gdańsk,"GD , POL",Szczecin,Szczecin,,województwo zachodniopomorskie,70-842,2021-11-15 01:35:01
+531,3013,POL,Poland,Szczecin,"SZ , POL",Sines,Sines,,,7520-202,2021-11-15 01:35:01
+532,3226,POL,Poland,Szczecin,"SZ , POL",Ribeira Grande,Ribeira Grande,,,9600-533,2021-11-15 01:35:01
+533,3095,POL,Poland,Szczecin,"SZ , POL",Ericeira,,,,2655-400,2021-11-15 01:35:01
+534,3220,POL,Poland,"Szczecin, Dąbie","SD , POL",Ericeira,,,,2640-419,2021-11-15 01:35:01
+535,2281,PRT,Portugal,Sines,"SI , PRT",Azeitão,Setúbal,,,2925-547,2021-11-15 01:35:01
+536,2059,PRT,Portugal,Azores,"AZ , PRT",Azeitão,Setúbal,,,2925-547,2021-11-15 01:35:01
+537,3205,PRT,Portugal,Carvoeira,"CA , PRT",Silves,Silves,,,8300,2021-11-12 10:20:02
+538,2252,PRT,Portugal,Mafra,"MA , PRT",Matosinhos,Matosinhos,,,4450-017,2021-11-15 01:35:01
+539,3299,PRT,Portugal,Azeitão,"AZ , PRT",Porto Salvo,,,,2744-016,2021-11-15 01:35:01
+540,2498,PRT,Portugal,Azeitão,"AZ , PRT",Lisbon,Lisboa,,,1150-227 PENA,2021-11-15 01:35:01
+541,2205,PRT,Portugal,Silves,"SI , PRT",Ponta Delgada,Ponta Delgada,,,9501-901,2021-11-15 01:35:01
+542,2509,PRT,Portugal,Matosinhos,"MA , PRT",Leça da Palmeira,Matosinhos,,,4451-901,2021-11-15 01:35:01
+543,2419,PRT,Portugal,Porto Salvo,"PS , PRT",Lisbon,Lisboa,,,1000-032,2021-11-15 01:35:01
+544,3386,PRT,Portugal,Lisbon,"LI , PRT",La Possession,,,La Réunion,97419,2021-11-15 01:35:02
+545,2242,PRT,Portugal,Ponta Delgada,"PD , PRT",Constanţa,Constanța,,,900070,2021-11-15 01:35:01
+546,2385,PRT,Portugal,Porto,"PO , PRT",Constanţa,Constanța,,,900426,2021-11-15 01:35:01
+547,2183,PRT,Portugal,Lisbon,"LI , PRT",Moscow,Москва,,Москва,103073,2021-11-15 01:35:01
+548,3280,REU,Reunion,La Possession,"LP , REU",Vasyl'evsky Ostrov,Санкт-Петербург,,Санкт-Петербург,199178,2021-11-15 01:35:01
+549,2696,ROU,Romania,Constanta Gara,"CG , ROU",Novorossiysk,Новороссийск,,Краснодарский край,353910,2021-11-15 01:35:01
+550,2328,ROU,Romania,Constanta,"CO , ROU",Lomonosov,,,Санкт-Петербург,198412,2021-05-27 06:45:02
+551,2331,RUS,Russia,Moscow,"MO , RUS",Kaliningrad,Калининград,,Калининградская область,236001,2021-03-19 05:50:01
+552,2087,RUS,Russia,Saint Petersburg,"SP , RUS",Dzerzhinsk,,,Иркутская область,664038,2021-09-04 05:40:01
+553,2424,RUS,Russia,Novorossiysk,"NO , RUS",Murmansk,Мурманск,,Мурманская область,183038,2021-11-15 01:35:01
+554,2034,RUS,Russia,Lomonosov,"LO , RUS",Strogino,Москва,,Москва,125363,2021-11-15 01:35:01
+555,2219,RUS,Russia,Kaliningrad,"KA , RUS",Nizhniy Novgorod,Нижний Новгород,,Нижегородская область,603086,2021-11-15 01:35:01
+556,3057,RUS,Russia,Irkutsk,"IR , RUS",Vladivostok,Владивосток,,Приморский край,690000,2021-11-15 01:35:01
+557,2516,RUS,Russia,Murmansk,"MU , RUS",Ashitkovo,,,Московская область,140251,2021-11-15 01:35:01
+558,3282,RUS,Russia,Moscow,"MO , RUS",Vistino,,,Ленинградская область,188477,2021-11-14 06:25:02
+559,2210,RUS,Russia,Nizhny Novogorod,"NN , RUS",Murmansk,Мурманск,,Мурманская область,183040,2021-11-15 01:35:01
+560,3332,RUS,Russia,Vladivostok,"VL , RUS",Koolbaai,,,,46226,2021-11-15 01:35:01
+561,2891,RUS,Russia,Zolotovo,"ZO , RUS",Nguékhokh,,Département de M'bour,,38168,2021-10-26 09:45:02
+562,2334,RUS,Russia,Ust-Luga,"US , RUS",Singapore,Singapore,,,439865,2021-11-15 01:35:01
+563,2732,RUS,Russia,Murmansk,"MU , RUS",Singapore,Singapore,,,098411,2021-11-15 01:35:01
+564,2270,MAF,Saint-Martin,Simpson Bay,"SB , MAF",Singapore,,,,425763,2021-11-15 01:35:01
+565,2106,SEN,Senegal,Ngaparou,"NG , SEN",Singapore,Singapore,,,469983,2021-11-15 01:35:01
+566,3080,SGP,Singapore,Singapore,"SI , SGP",Singapore,,,,,2021-11-15 01:35:01
+567,2997,SGP,Singapore,Keppel Bay,"KB , SGP",Kampung Pasir Gudang Baru,,,,540123,2021-11-15 01:35:01
+568,2519,SGP,Singapore,Singapore,"SI , SGP",Singapore,Singapore,,,,2021-06-17 05:45:02
+569,2855,SGP,Singapore,Singapore,"SI , SGP",Singapore,Singapore,,,307954,2021-11-15 01:35:01
+570,2748,SGP,Singapore,Singapore,"SI , SGP",Singapore,Singapore,,,449035,2021-07-23 09:45:01
+571,2851,SGP,Singapore,Singapore,"SI , SGP",Singapore,Singapore,,,578774,2021-11-15 01:35:01
+572,2088,SGP,Singapore,Singapore,"SI , SGP",Dunajská Lužná,Miloslavov,,Bratislavský kraj,90042,2021-11-15 01:35:01
+573,2902,SGP,Singapore,Singapore,"SI , SGP",Kozina,,,,6216,2021-11-15 01:35:01
+574,2351,SGP,Singapore,Singapore,"SI , SGP",Sunset Beach,,,Western Cape,7441,2021-11-15 01:35:01
+575,2886,SGP,Singapore,Singapore,"SI , SGP",Claremont,Cape Town,,Western Cape,7708,2021-11-15 01:35:01
+576,2485,SVK,Slovakia,Miloslavov,"MI , SVK",Durban,Durban,,KwaZulu-Natal,4025,2021-11-15 01:35:01
+577,2344,SVN,Slovenia,Koper,"KO , SVN",Durban,,,KwaZulu-Natal,4319,2021-11-15 01:35:01
+578,2511,ZAF,South Africa,Cape Town,"CT , ZAF",San Pedro del Pinatar,,Región de Murcia,Región de Murcia,30740,2021-11-15 01:35:01
+579,2807,ZAF,South Africa,Cape Town,"CT , ZAF",Alboraya,València,València / Valencia,Comunitat Valenciana,46022,2021-07-07 02:25:01
+580,2132,ZAF,South Africa,Durban,"DU , ZAF",Colunga,,Asturias / Asturies,Asturias / Asturies,33330,2021-11-15 01:35:01
+581,2790,ZAF,South Africa,Umhlanga,"UM , ZAF",Santander,Santander,,Cantabria,39005,2021-11-15 01:35:01
+582,2729,ESP,Spain,Murcia,"MU , ESP",Alboraya,València,València / Valencia,Comunitat Valenciana,46022,2021-11-15 01:35:01
+583,2959,ESP,Spain,Valencia,"VA , ESP",Palma,Palma,,Illes Balears,07014,2021-11-15 01:35:01
+584,2302,ESP,Spain,Llastres,"LL , ESP",Málaga,Málaga,Málaga,Andalucía,29005,2021-11-15 01:35:01
+585,3375,ESP,Spain,Santander,"SA , ESP",Tapia de Casariego,València,València / Valencia,Comunitat Valenciana,46011,2021-11-14 23:20:02
+586,3437,ESP,Spain,Valencia,"VA , ESP",Alboraya,,,Galicia,,2021-11-15 01:35:02
+587,2146,ESP,Spain,Palma de,"Pd , ESP",Baiona,,Barcelona,Catalunya,08860,2021-11-15 01:35:01
+588,3209,ESP,Spain,Malaga,"MA , ESP",Castelldefels,Almería,Almería,Andalucía,04007,2021-11-15 01:35:01
+589,3303,ESP,Spain,Lugo,"LU , ESP",Almería,,Santa Cruz de Tenerife,,38678,2021-11-15 01:35:01
+590,3428,ESP,Spain,Valencia,"VA , ESP",Adeje,Málaga,Málaga,Andalucía,29009,2021-11-15 01:35:02
+591,2720,ESP,Spain,Vigo Bay,"VB , ESP",Málaga,,,Galicia,36300,2021-11-15 01:35:01
+592,2602,ESP,Spain,Castelldefels,"CA , ESP",Baiona,Santa Cruz de Tenerife,Santa Cruz de Tenerife,,38002,2021-11-15 01:35:01
+593,2325,ESP,Spain,Almeria,"AL , ESP",Santa Cruz de Tenerife,Las Palmas de Gran Canaria,Las Palmas,,35008,2021-11-15 01:35:01
+594,3139,ESP,Spain,"Canary Islands,","CI , ESP",Las Palmas de Gran Canaria,A Coruña,,Galicia,15011,2021-11-15 01:35:01
+595,3245,ESP,Spain,Málaga,"MÁ , ESP",A Coruña,,Cádiz,Andalucía,11360,2021-11-14 16:15:02
+596,3298,ESP,Spain,Baiona,"BA , ESP",San Enrique de Guadiaro,,Tarragona,Catalunya,43540,2021-11-12 01:10:02
+597,2147,ESP,Spain,S/C de,"Sd , ESP",Sant Carles de la Ràpita,Málaga,Málaga,Andalucía,29005,2021-11-15 01:35:01
+598,3291,ESP,Spain,Las Palmas,"LP , ESP",Málaga,,Región de Murcia,Región de Murcia,30720,2021-11-15 01:35:01
+599,3239,ESP,Spain,A Coruña,"AC , ESP",Santiago de la Ribera,Oviedo,Asturias / Asturies,Asturias / Asturies,33009,2021-11-14 23:25:02
+600,2922,ESP,Spain,Alcaidesa,"AL , ESP",Oviedo,Santa Cruz de Tenerife,Santa Cruz de Tenerife,,38008,2021-11-15 01:35:01
+601,2367,ESP,Spain,Sant Carles,"SC , ESP",Santa Cruz de Tenerife,,,,,2021-11-15 01:35:01
+602,3480,ESP,Spain,Malaga,"MA , ESP",Vilanova i la Geltrú,,,Euskadi,40102,2021-11-15 01:35:02
+603,2076,ESP,Spain,Murcia,"MU , ESP",Plogoff,,Málaga,Andalucía,29640,2021-11-15 01:35:01
+604,2526,ESP,Spain,Oviedo,"OV , ESP",Axpe-San Bartolome,,Santa Cruz de Tenerife,,38379,2021-11-15 01:35:01
+605,3273,ESP,Spain,Santa Cruz,"SC , ESP",Fuengirola,Las Palmas de Gran Canaria,Las Palmas,,35017,2021-11-15 01:35:01
+606,2240,ESP,Spain,Vilanova i,"Vi , ESP",La Matanza de Acentejo,Barcelona,Barcelona,Catalunya,08001,2021-11-15 01:35:01
+607,3336,ESP,Spain,Coruña,"CO , ESP",Las Palmas de Gran Canaria,,,Occitanie,11100,2021-10-15 13:20:02
+608,2469,ESP,Spain,Sollube -,"S- , ESP",Vallcarca,,,,131 52,2021-11-15 01:35:01
+609,3465,ESP,Spain,Fuengirola,"FU , ESP",Narbonne,Stockholm,,,111 21,2021-11-15 01:35:02
+610,2683,ESP,Spain,La Matanza,"LM , ESP",Nacka,,,,14831,2021-11-14 22:55:01
+611,2624,ESP,Spain,Las Palmas,"LP , ESP",Stockholm,,,,590 95,2021-11-15 01:35:01
+612,2962,ESP,Spain,Barcelona,"BA , ESP",Ösmo,,,,44447,2021-11-15 01:35:01
+613,3318,ESP,Spain,Getxo,"GE , ESP",Västervik,,,,17266,2021-11-15 01:35:01
+614,2319,SWE,Sweden,Stockholm,"ST , SWE",Stenungsund,Göteborg,,,41279,2021-11-15 01:35:01
+615,2032,SWE,Sweden,Stockholm,"ST , SWE",Sundbyberg,,,,423 36,2021-11-15 01:35:01
+616,2451,SWE,Sweden,Segersang,"SE , SWE",Göteborg,,,,,2021-11-15 01:35:01
+617,2956,SWE,Sweden,Loftahammar,"LO , SWE",Andalen,,,,60246,2021-11-14 19:55:01
+618,3371,SWE,Sweden,Stenungsund,"ST , SWE",Oskarshamn,Stockholm,,,111 29,2021-10-10 18:10:02
+619,2604,SWE,Sweden,Sundbyberg,"SU , SWE",Norrköping,Göteborg,,,411 03,2021-11-15 01:35:01
+620,2767,SWE,Sweden,Göteborg,"GÖ , SWE",Gamla Stan,Stockholm,,,112 67,2021-11-15 01:35:01
+621,2355,SWE,Sweden,"Torslanda, Gothenburg ","TG , SWE",Göteborg,,,,47580,2021-11-15 01:35:01
+622,2109,SWE,Sweden,Oskarshamn,"OS , SWE",Kungsholmen,,,,13038,2021-11-14 11:10:01
+623,2192,SWE,Sweden,Norrköping,"NO , SWE",Öckerö,,,,46153,2021-11-15 01:35:01
+624,2124,SWE,Sweden,Stockholm,"ST , SWE",Stavsnäs,,,,764 56,2021-10-24 16:25:01
+625,2011,SWE,Sweden,Gothenburg,"GO , SWE",Trollhättan,Karlskrona,,,37123,2021-11-15 01:35:01
+626,3068,SWE,Sweden,Stockholm,"ST , SWE",Älmsta,Göteborg,,,426 79,2021-11-15 01:35:01
+627,2164,SWE,Sweden,"Goteborg, West","GW , SWE",Karlskrona,,,,222 29,2021-11-15 01:35:01
+628,3200,SWE,Sweden,Täby,"TÄ , SWE",Majorna,,,,,2021-11-15 01:35:01
+629,2988,SWE,Sweden,Trollhättan,"TR , SWE",Lund,,,,46193,2021-11-15 01:35:01
+630,2752,SWE,Sweden,Grisslehamn,"GR , SWE",Krokek,Göteborg,,,41258,2021-11-15 01:35:01
+631,2262,SWE,Sweden,Karlskrona,"KA , SWE",Vargön,,,,,2021-11-15 01:35:01
+632,3406,SWE,Sweden,Gothenburg,"GO , SWE",Göteborg,,,,134 62,2021-11-15 01:35:02
+633,3285,SWE,Sweden,Lund,"LU , SWE",Röbäck,,,,139 72,2021-11-15 01:35:01
+634,2342,SWE,Sweden,Ostra Husby,"OH , SWE",Brunn,,,,134 64,2021-11-15 01:35:01
+635,2450,SWE,Sweden,Trollhattan,"TR , SWE",Hölö,,,,149 41,2021-11-15 01:35:01
+636,2505,SWE,Sweden,Göteborg,"GÖ , SWE",Hemmesta,Nordmalings distrikt,,,91441,2021-11-15 01:35:01
+637,2476,SWE,Sweden,Norrmjöle,"NO , SWE",Nynäshamn,,,,41265,2021-11-15 01:35:01
+638,3176,SWE,Sweden,Näsudden Ingarö,"NI , SWE",Nordmaling,,,,,2021-11-15 01:35:01
+639,3345,SWE,Sweden,Stockholm,"ST , SWE",Mölndal,,,,19270,2021-11-15 01:35:02
+640,2304,SWE,Sweden,Ingarostrand,"IN , SWE",Norrtälje,,,,42941,2021-11-15 01:35:01
+641,3471,SWE,Sweden,Wik-Inn Marina,"WM , SWE",Sollentuna,Göteborg,,,417631,2021-11-15 01:35:02
+642,2978,SWE,Sweden,Rundvik,"RU , SWE",Särö,Härnösands domkyrkodistrikt,,,87160,2021-11-15 01:35:01
+643,2977,SWE,Sweden,Krokslätt,"KR , SWE",Majorna,,,,61631,2021-11-15 01:35:01
+644,2266,SWE,Sweden,Sodersvik,"SO , SWE",Härnösand,,,,134 61,2021-11-15 01:35:01
+645,3466,SWE,Sweden,Sollentuna,"SO , SWE",Åby,,,,19631,2021-11-15 01:35:02
+646,3270,SWE,Sweden,Gothenburg -,"G- , SWE",Saltsjöbaden,,,,46233,2021-11-15 01:35:01
+647,3464,SWE,Sweden,Gothenburg,"GO , SWE",Kungsängen,,,Basel-Landschaft,4133,2021-11-15 01:35:02
+648,3265,SWE,Sweden,Härnösand,"HÄ , SWE",Vänersborg,,,,52452,2021-11-15 01:35:01
+649,2628,SWE,Sweden,Nyköping,"NY , SWE",Pratteln,高雄市,,,806,2021-11-15 01:35:01
+650,2494,SWE,Sweden,Ingarö,"IN , SWE",Funtana,,,臺灣省,31061,2021-11-14 21:55:01
+651,2480,SWE,Sweden,Kungsangen,"KU , SWE",Kaohsiung,高雄市,,,801,2021-11-15 01:35:01
+652,2203,SWE,Sweden,Vanersborg,"VA , SWE",Zhubei,,,臺灣省,202301,2021-11-15 01:35:01
+653,2434,CHE,Switzerland,Pratteln,"PR , CHE",Kaohsiung,,,臺灣省,20044,2021-11-15 01:35:01
+654,3144,CHE,Switzerland,Bern,"BE , CHE",Keelung,高雄市,,,802,2021-11-12 19:50:02
+655,3154,TWN,Taiwan,Kaohsiung,"KA , TWN",Keelung,,,臺灣省,20224,2021-11-15 01:35:01
+656,3308,TWN,Taiwan,Chutung,"CH , TWN",Kaohsiung,กรุงเทพมหานคร,,กรุงเทพมหานคร,10110,2021-11-15 01:35:01
+657,2338,TWN,Taiwan,Kaohsiung,"KA , TWN",Keelung,Port of Spain,,,190130,2021-11-15 01:35:01
+658,3046,TWN,Taiwan,"Keelung, National","KN , TWN",Din Daeng,,,Diego Martin,,2021-11-15 01:35:01
+659,2794,TWN,Taiwan,Keelung,"KE , TWN",Port of Spain,,,,,2021-11-15 01:35:01
+660,2353,TWN,Taiwan,Kaohsiung,"KA , TWN",Diego Martin,,,,34122,2021-11-15 01:35:01
+661,2592,TWN,Taiwan,"Keelung, National","KN , TWN",Akhisar,Одеса,,Одеська область,65012,2021-11-15 01:35:01
+662,2983,THA,Thailand,Bangkok,"BA , THA",Eminönü,Миколаїв,,Миколаївська область,54000-54490,2021-11-15 01:35:01
+663,3492,TTO,Trinidad and Tobago,Port of,"Po , TTO",Odessa,دبي,,دبي,55050,2021-11-15 01:35:02
+664,2370,TTO,Trinidad and Tobago,Chaguaramas,"CH , TTO",Mykolayiv,,North East England,England,TS24 0RY,2021-11-15 01:35:01
+665,2111,TUR,Turkey,Göcek,"GÖ , TUR",Dubai,,North East England,England,NE66 3NB,2021-11-15 01:35:01
+666,3012,TUR,Turkey,Istanbul,"IS , TUR",Middlesbrough,Southampton,South East England,England,SO17 1NR,2021-11-10 17:15:02
+667,2401,UKR,Ukraine,Odessa,"OD , UKR",Lesbury,Arun,South East England,England,PO22 0AJ,2021-11-15 01:35:01
+668,2310,UKR,Ukraine,Nikolaev,"NI , UKR",Southampton,East Hampshire,South East England,England,GU34 1LL,2021-11-15 01:35:01
+669,2703,ARE,United Arab Emirates,Dubai,"DU , ARE",Barnham,East Suffolk,East of England,England,NR32 1XH,2021-11-14 22:50:02
+670,2885,GBR,United Kingdom,Hartlepool,"HA , GBR",Alton,Thanet,South East England,England,CT10,2021-11-15 01:35:01
+671,2116,GBR,United Kingdom,Alnmouth,"AL , GBR",Lowestoft,,,Scotland,EH21 7DY,2021-11-15 01:35:01
+672,2883,GBR,United Kingdom,Southampton,"SO , GBR",Broadstairs,,Yorkshire and the Humber,England,HU13 0SP,2021-11-15 01:35:01
+673,2045,GBR,United Kingdom,Portsmouth,"PO , GBR",Musselburgh,,,Cymru / Wales,LL54 7RR,2021-11-15 01:35:01
+674,2825,GBR,United Kingdom,Alton,"AL , GBR",Kirk Ella,,,Scotland,KY5 9QH,2021-11-15 01:35:01
+675,3033,GBR,United Kingdom,Norwich,"NO , GBR",Talysarn,East Suffolk,East of England,England,NR33 7NB,2021-11-15 01:35:01
+676,2313,GBR,United Kingdom,"Broadstairs, Kent","BK , GBR",Lochgelly,East Lindsey,East Midlands,England,LN11 9RZ,2021-11-15 01:35:01
+677,2876,GBR,United Kingdom,Musselburgh,"MU , GBR",Kessingland,,North East England,England,NE24 3UH,2021-11-15 01:35:01
+678,3051,GBR,United Kingdom,Hessle,"HE , GBR",Louth,,Yorkshire and the Humber,England,YO22 4RR,2021-11-15 01:35:01
+679,3072,GBR,United Kingdom,Caernarfon,"CA , GBR",Blyth,,,Northern Ireland,BT24 8XR,2021-11-15 01:35:01
+680,2514,GBR,United Kingdom,Lochgelly,"LO , GBR",Whitby,,,Cymru / Wales,SA73 3RS,2021-11-15 01:35:01
+681,2953,GBR,United Kingdom,"Lowestoft, Suffolk","LS , GBR",Utsira,Brighton,South East England,England,BN1 1EE,2021-11-15 01:35:01
+682,2206,GBR,United Kingdom,Cleethorpes,"CL , GBR",Ballynahinch,Thanet,South East England,England,CT12 5FN,2021-11-15 01:35:01
+683,2540,GBR,United Kingdom,Blyth,"BL , GBR",Milford Haven,,South East England,England,PO12 4FF,2021-11-15 01:35:01
+684,2439,GBR,United Kingdom,Robin Hoods,"RH , GBR",Brighton,,,Scotland,PA37 1QR,2021-11-14 21:55:01
+685,2107,GBR,United Kingdom,Aberdeen,"AB , GBR",Birchington-on-Sea,,,Scotland,PA47 7SZ,2021-08-22 11:00:02
+686,2411,GBR,United Kingdom,"Ballynahinch, N.Ireland","BN , GBR",Portsmouth,,,Scotland,HS6 5HE,2021-11-15 01:35:01
+687,2558,GBR,United Kingdom,Gelliswick,"GE , GBR",Oban,,North West England,England,L2 4TZ,2021-11-15 01:35:01
+688,3137,GBR,United Kingdom,Brighton,"BR , GBR",Isle of Islay,,,Northern Ireland,BT30 9SR,2021-11-15 01:35:01
+689,3244,GBR,United Kingdom,Manston,"MA , GBR",Isle of North Uist,,,Scotland,PA16 8BP,2021-11-15 01:35:01
+690,2716,GBR,United Kingdom,Gosport,"GO , GBR",Birkenhead,,,Scotland,,2021-11-15 01:35:01
+691,2260,GBR,United Kingdom,Oban,"OB , GBR",Killyleagh,,South West England,England,BH10 4BQ,2021-11-15 01:35:01
+692,2286,GBR,United Kingdom,Isle of,"Io , GBR",Kilcreggan,City of London,Greater London,England,EC3N 1LH,2021-11-15 01:35:01
+693,3363,GBR,United Kingdom,"Scotland, North","SN , GBR",Wick,London,Greater London,England,E14 4ED,2021-11-15 01:25:02
+694,2020,GBR,United Kingdom,Liverpool,"LI , GBR",Bournemouth,,,Northern Ireland,BT19 6TH,2021-11-15 01:35:01
+695,3243,GBR,United Kingdom,Killyleagh,"KI , GBR",City of London,Vale of White Horse,South East England,England,OX12 9FE,2021-11-15 01:35:01
+696,2713,GBR,United Kingdom,"Scotland, Greenock","SG , GBR",Canary Wharf,Hull,Yorkshire and the Humber,England,HU1 2BE,2021-11-15 01:35:01
+697,2133,GBR,United Kingdom,Caithness (Scotland),"C( , GBR",Bangor,,South East England,England,PO16 8AL,2021-11-14 22:25:01
+698,3063,GBR,United Kingdom,Bournemouth,"BO , GBR",Wantage,,North East England,England,TD15 2AW,2021-11-15 01:35:01
+699,2055,GBR,United Kingdom,London &,"L& , GBR",Kingston upon Hull,,,New Mexico,,2021-11-15 01:35:01
+700,3416,GBR,United Kingdom,London,"LO , GBR",Wickham,,South East England,England,PO9 1QH,2021-11-15 01:35:02
+701,2862,GBR,United Kingdom,"Bangor, County","BC , GBR",Berwick-Upon-Tweed,,,Scotland,EH21 7DG,2021-11-15 01:35:01
+702,2309,GBR,United Kingdom,ABXAIS,"AB , GBR",Lordsburg,,South East England,England,PO16 0LE,2021-11-15 01:35:01
+703,2477,GBR,United Kingdom,Humber Dock,"HD , GBR",Waterlooville,London,Greater London,England,SW19 2RR,2021-11-15 01:35:01
+704,2708,GBR,United Kingdom,Fareham,"FA , GBR",Musselburgh,,,,JE3 5FP,2021-11-15 01:35:01
+705,2478,GBR,United Kingdom,Tweedmouth,"TW , GBR",Wickham,,,Scotland,IV49 9BD,2021-11-11 14:15:02
+706,2333,GBR,United Kingdom,TEST-EP,"TE , GBR",Mitcham,,,Scotland,IV42 8QE,2021-11-15 01:35:01
+707,2060,GBR,United Kingdom,Solent,"SO , GBR",Saint Helier,,South West England,England,BH19 2AT,2021-11-15 01:35:01
+708,3356,GBR,United Kingdom,Musselburgh,"MU , GBR",Portree,,South East England,England,PO12 3UD,2021-11-15 01:35:02
+709,2808,GBR,United Kingdom,Fareham,"FA , GBR",Portree,,East of England,England,CO2 7JD,2021-11-15 01:35:01
+710,2103,GBR,United Kingdom,London,"LO , GBR",Poole,Adur,South East England,England,BN43 6HD,2021-11-15 00:10:02
+711,3055,GBR,United Kingdom,Jersey,"JE , GBR",Portsmouth,,Yorkshire and the Humber,England,YO21 1QE,2021-10-31 12:00:02
+712,2583,GBR,United Kingdom,Broadford,"BR , GBR",Irvine,City of Edinburgh,,Scotland,EH7 4HG,2021-11-15 01:35:01
+713,2438,GBR,United Kingdom,"Scotland, Broadford","SB , GBR",Shoreham-by-Sea,Rochester,,New York,14604,2021-11-15 01:35:01
+714,2159,GBR,United Kingdom,Swanage,"SW , GBR",Whitby,,South West England,England,TR7 3JW,2021-11-15 01:35:01
+715,2474,GBR,United Kingdom,Gosport,"GO , GBR",Loanhead,,South West England,England,TQ4 7SB,2021-11-15 01:35:01
+716,2233,GBR,United Kingdom,Colchester,"CO , GBR",Gates-North Gates,South Hams,South West England,England,TQ7 3DW,2021-11-14 21:40:01
+717,3351,GBR,United Kingdom,Shoreham,"SH , GBR",Newquay,East Suffolk,East of England,England,NR33 7QP,2021-11-15 01:35:02
+718,2854,GBR,United Kingdom,Whitby,"WH , GBR",Paignton,East Suffolk,East of England,England,NR32 1XH,2021-11-14 23:10:01
+719,2647,GBR,United Kingdom,Edinburgh,"ED , GBR",Salcombe,,South East England,England,ME4 6NR,2021-11-07 20:15:01
+720,2447,GBR,United Kingdom,Rochester,"RO , GBR",Kessingland,,East of England,England,NR30 4DN,2021-11-15 01:35:01
+721,2131,GBR,United Kingdom,Newquay-Cornwall,"NE , GBR",Lowestoft,East Suffolk,East of England,England,IP11 7NS,2021-11-15 01:35:01
+722,2472,GBR,United Kingdom,Devon,"DE , GBR",Chatham,,North West England,England,CH42 5LW,2021-11-03 22:15:01
+723,2980,GBR,United Kingdom,Bolt Head,"BH , GBR",Caister-on-Sea,,,England,,2021-11-14 16:05:02
+724,2903,GBR,United Kingdom,Parkfield,"PA , GBR",Shotley Gate,,,Scotland,DD10 0LA,2021-05-11 14:55:02
+725,2021,GBR,United Kingdom,Suffolk,"SU , GBR",Birkenhead,Bristol,South West England,England,BS11,2021-11-15 01:35:01
+726,2799,GBR,United Kingdom,Kent,"KE , GBR",Tintagel,Gravesham,South East England,England,DA12 1EW,2019-03-12 21:15:03
+727,2297,GBR,United Kingdom,Great Yarmouth,"GY , GBR",Saint Cyrus,,South West England,England,TQ1 3SF,2021-11-01 15:05:01
+728,2073,GBR,United Kingdom,Felixstowe ,"FE , GBR",Easton-in-Gordano,,,Scotland,AB42 1LE,2021-11-15 01:35:01
+729,3387,GBR,United Kingdom,Birkenhead,"BI , GBR",Chadwell St Mary,,,Scotland,KW15 1TY,2021-11-15 01:35:02
+730,2896,GBR,United Kingdom,Bude,"BU , GBR",Cockington,London,Greater London,England,NW6 7PY,2021-11-15 00:05:02
+731,2120,GBR,United Kingdom,Gourdon ,"GO , GBR",Peterhead,,,Scotland,PA19 1BA,2021-11-15 01:35:01
+732,2312,GBR,United Kingdom,Bristol,"BR , GBR",Orkney,,South West England,England,BH15 1LT,2021-11-15 01:35:01
+733,2843,GBR,United Kingdom,Gravesend,"GR , GBR",Belsize Park,,North West England,England,CH45 7PS,2021-11-15 01:35:01
+734,2522,GBR,United Kingdom,Torquay,"TO , GBR",Wemyss Bay,,South East England,England,PO1 1DZ,2021-11-15 01:35:01
+735,2160,GBR,United Kingdom,"Scotland, Peterhead","SP , GBR",Poole,East Suffolk,East of England,England,NR32 4EL,2021-11-15 01:35:01
+736,2066,GBR,United Kingdom,Orkney,"OR , GBR",Wallasey,,North West England,England,CH41 6ES,2021-11-15 01:35:01
+737,2736,GBR,United Kingdom,London,"LO , GBR",Portsmouth,,,Scotland,HS2 0SW,2020-05-15 08:20:02
+738,2410,GBR,United Kingdom,Gourock,"GO , GBR",Lowestoft,Forest of Dean,South West England,England,GL15 4,2021-11-15 01:35:01
+739,2377,GBR,United Kingdom,Poole,"PO , GBR",Birkenhead,North Norfolk,East of England,England,NR26 8RR,2021-11-15 01:35:01
+740,3096,GBR,United Kingdom,Wirral,"WI , GBR",Isle of Lewis,Aberdeen City,,Scotland,AB25 3SY,2021-11-15 01:35:01
+741,2839,GBR,United Kingdom,Portsmouth,"PO , GBR",Lydney,Aberdeen City,,Scotland,AB11 5PW,2021-11-15 01:35:01
+742,2735,GBR,United Kingdom,Lowestoft,"LO , GBR",Sheringham,,South West England,England,PL10 1LL,2021-11-15 01:35:01
+743,2967,GBR,United Kingdom,Birkenhead,"BI , GBR",Aberdeen,,South East England,England,PO14 3AH,2021-11-15 01:35:01
+744,2142,GBR,United Kingdom,Isle of,"Io , GBR",Aberdeen,,South East England,England,PO6 2NN,2021-11-15 01:35:01
+745,2837,GBR,United Kingdom,Oldcroft,"OL , GBR",Millbrook,,South East England,England,PO12 2TR,2021-11-15 01:35:01
+746,2681,GBR,United Kingdom,Sheringham,"SH , GBR",Lee-on-the-Solent,,East of England,England,IP1 2AN,2021-11-15 01:35:01
+747,2191,GBR,United Kingdom,Aberdeen,"AB , GBR",Waterlooville,New Forest,South East England,England,SO45 5GL,2021-11-15 01:35:01
+748,2964,GBR,United Kingdom,Aberdeen,"AB , GBR",Ryde,,,Maine,04843,2021-10-13 17:40:02
+749,3329,GBR,United Kingdom,Plymouth,"PL , GBR",Bramford,,,Texas,77573,2021-11-15 01:35:01
+750,2054,GBR,United Kingdom,Solent,"SO , GBR",Southampton,Gloucester,,Massachusetts,01930-3540,2021-11-15 01:35:01
+751,3259,GBR,United Kingdom,Portsmouth,"PO , GBR",Carmel,Seattle,,Washington,98101,2021-11-15 01:35:01
+752,3377,GBR,United Kingdom,Gosport,"GO , GBR",El Lago,,,Texas,77539,2021-11-12 14:45:02
+753,2053,GBR,United Kingdom,Ipswich,"IP , GBR",Gloucester,Vacaville,,California,95688,2021-11-15 01:35:01
+754,3257,GBR,United Kingdom,"Hythe, Hampshire","HH , GBR",Seattle,Deltona,,Florida,32738,2021-11-15 01:35:01
+755,2448,USA,United States,Camden,"CA , USA",Bacliff,Seattle,,Washington,98199,2021-11-15 01:35:01
+756,2047,USA,United States,Galveston Bay,"GB , USA",Hartley,Long Beach,,California,90846,2021-11-15 01:35:01
+757,3219,USA,United States,"Gloucester, Massachusetts","GM , USA",Deltona,Miami,,Florida,33132,2021-10-30 08:40:02
+758,2369,USA,United States,Seattle,"SE , USA",Seattle,Berkeley,,California,94704,2021-11-15 01:35:01
+759,2614,USA,United States,Kingwood,"KI , USA",Lakewood,,,Florida,32953,2021-11-15 01:35:01
+760,2033,USA,United States,Bodega Bay,"BB , USA",Miami Beach,,,Washington,98642,2021-11-15 01:35:01
+761,3309,USA,United States,Florida,"FL , USA",Berkeley,Melbourne,,Florida,32901,2021-11-15 01:35:01
+762,2296,USA,United States,Seattle,"SE , USA",Cocoa,,,California,92078,2021-11-15 01:35:01
+763,3081,USA,United States,"California, Long","CL , USA",Ridgefield,,,Florida,33037,2021-11-14 21:20:02
+764,2484,USA,United States,Biscayne Bay,"BB , USA",West Melbourne,Seattle,,Washington,98101,2021-11-15 01:35:01
+765,3253,USA,United States,"Berkeley, California","BC , USA",Lake San Marcos,,,Washington,,2021-10-19 20:30:02
+766,3213,USA,United States,"Merritt Island,","MI , USA",North Key Largo,,,California,93106,2021-11-15 01:35:01
+767,2727,USA,United States,Washingotn,"WA , USA",Seattle,,,Michigan,49740,2021-11-15 01:35:01
+768,2957,USA,United States,Melbourne,"ME , USA",Shelton,,,Michigan,48098,2021-11-15 01:35:01
+769,2249,USA,United States,San Diego,"SD , USA",Isla Vista,,,Michigan,49417,2021-11-15 01:35:01
+770,2827,USA,United States,Key Largo,"KL , USA",Bay Harbor,Cape Coral,,Florida,33904,2021-11-15 01:35:01
+771,2726,USA,United States,Seattle,"SE , USA",West Bloomfield Township,Fort Lauderdale,,Florida,33308,2021-11-15 01:35:01
+772,2390,USA,United States,Shelton Washington,"SW , USA",Comstock Northwest,,,Washington,,2021-11-15 01:35:01
+773,3307,USA,United States,Santa Barbara,"SB , USA",Cape Coral,,,Tennessee,38365,2021-11-15 01:35:01
+774,3079,USA,United States,Petoskey,"PE , USA",Lauderdale-by-the-Sea,,,Maryland,20723-6099,2021-11-15 01:35:01
+775,2157,USA,United States,Michigan,"MI , USA",Oak Bay,Baltimore,,Maryland,21202,2021-11-15 00:15:01
+776,3250,USA,United States,"Grand Haven,","GH , USA",Olivet,Pompano Beach,,Florida,33060,2021-01-30 09:25:02
+777,3210,USA,United States,Florida,"FL , USA",Riverside,,,Florida,32903,2021-11-15 01:35:01
+778,2134,USA,United States,"Fort Lauderdale,","FL , USA",Baltimore,,,Washington,98320,2021-08-22 15:20:01
+779,2722,USA,United States,Salish Sea,"SS , USA",Pompano Beach,,,Virginia,22180,2021-11-15 01:35:01
+780,3369,USA,United States,"Pickwick Dam,","PD , USA",Indialantic,,,Florida,32507,2021-11-15 01:35:02
+781,2449,USA,United States,Johns Hopkins,"JH , USA",Seabeck,Anacortes,,Washington,98221,2021-11-15 00:10:02
+782,2666,USA,United States,Baltimore,"BA , USA",Woodburn,New Orleans,,Louisiana,70130,2021-11-15 01:35:01
+783,2305,USA,United States,Chattanooga,"CH , USA",Orange Beach,Tampa,,Florida,33602:33605,2021-11-15 01:35:01
+784,3367,USA,United States,"Florida, Indialantic","FI , USA",Anacortes,Miami,,Florida,33132,2021-11-15 01:35:02
+785,3069,USA,United States,Dabob Bay,"DB , USA",New Orleans,,,California,94965,2021-11-15 01:20:03
+786,2200,USA,United States,"Vienna, VW","VV , USA",Tampa,,,Alaska,99546,2021-11-15 01:35:01
+787,3141,USA,United States,Pensacola,"PE , USA",Miami,Monterey,,California,93940,2021-11-02 15:00:02
+788,2950,USA,United States,"Anacortes, WA","AW , USA",Sausalito,Baltimore,,Maryland,21224,2021-11-15 01:35:01
+789,2056,USA,United States,New Orleans,"NO , USA",Dutch Harbor,,,California,94920,2021-11-15 01:35:01
+790,2765,USA,United States,Tampa,"TA , USA",Monterey,,,Maryland,21075:21090,2021-11-15 01:35:01
+791,2579,USA,United States,Miami,"MI , USA",Baltimore,,,North Carolina,28412,2021-11-15 01:35:01
+792,2028,USA,United States,At Sea,"AS , USA",Belvedere,,,New York,14172,2021-11-15 01:35:01
+793,2048,USA,United States,"Adak, Alaska","AA , USA",Elkridge,New York,,New York,11217,2021-11-14 03:50:01
+794,2187,USA,United States,"Canada, Monterey","CM , USA",Sea Breeze,South San Francisco,,California,94083,2021-11-15 01:35:01
+795,2023,USA,United States,"Baltimore, Maryland","BM , USA",Niagara Falls,,,Pennsylvania,16415,2021-11-15 01:35:01
+796,2426,USA,United States,San Francisco,"SF , USA",Financial District,,,New York,13118,2021-11-15 01:35:01
+797,2247,USA,United States,"Hanover, Maryland ","HM , USA",Brisbane,,,California,94501,2021-11-15 01:35:01
+798,2016,USA,United States,Carolina Beach,"CB , USA",Lawrence Park,,,Maryland,21012,2021-11-15 01:35:01
+799,2932,USA,United States,"New York,","NY , USA",Cortland West,Fort Lauderdale,,Florida,33301,2019-05-06 06:45:03
+800,2272,USA,United States,Brooklyn NY,"BN , USA",Oakland,New Orleans,,Louisiana,70131,2021-11-15 01:35:01
+801,2812,USA,United States,San Francisco,"SF , USA",Arnold,,,Florida,32086,2021-11-15 01:35:01
+802,3413,USA,United States,Fairview,"FA , USA",Fort Lauderdale,,,New Jersey,07020,2021-11-15 01:35:02
+803,2657,USA,United States,Niles,"NI , USA",Terrytown,,,Delaware,19720,2021-11-14 22:50:02
+804,2036,USA,United States,"Alameda, CA","AC , USA",Saint Augustine Shores,Baltimore,,Maryland,21214,2021-10-08 06:25:02
+805,2529,USA,United States,"Arnold, MD","AM , USA",Morningside Heights,,,New Jersey,08008,2021-11-15 01:35:01
+806,2990,USA,United States,Fort Lauderdale,"FL , USA",New Castle,,,Georgia,31402,2021-11-15 01:35:01
+807,2757,USA,United States,New Orleans,"NO , USA",Parkville,,,Virginia,22435,2021-11-15 01:35:01
+808,2550,USA,United States,St. Augustine,"SA , USA",Surf City,,,Florida,32566,2021-11-14 22:55:01
+809,3133,USA,United States,Edgewater,"ED , USA",Savannah,Duluth,,Minnesota,55802,2021-11-15 00:55:01
+810,2100,USA,United States,New Castle,"NC , USA",Lexington Park,,,Florida,33037,2021-11-15 01:35:01
+811,2756,USA,United States,Baltimore,"BA , USA",Navarre,,,California,94965,2021-11-15 01:35:01
+812,2235,USA,United States,Harvey Cedars,"HC , USA",Superior,,,Rhode Island,02886,2021-11-15 01:35:01
+813,2537,USA,United States,"Savannah, Georgia","SG , USA",Key Largo,,,Washington,,2021-11-15 01:35:01
+814,2466,USA,United States,"Callao, VA","CV , USA",Sausalito,,,Louisiana,,2021-11-15 01:25:02
+815,2172,USA,United States,Navarre FL,"NF , USA",Warwick,,,New York,12583,2021-11-15 00:45:01
+816,2495,USA,United States,"Duluth, MN","DM , USA",Friday Harbor,,,Mississippi,39183,2021-11-15 01:35:01
+817,2530,USA,United States,"Key Largo,","KL , USA",Groves,,,Florida,32580,2021-11-11 23:40:01
+818,2806,USA,United States,San Francisco,"SF , USA",Saugerties South,,,Louisiana,70339,2021-11-15 01:35:01
+819,2197,USA,United States,"Warwick, Rhode","WR , USA",Vicksburg,New York,,New York,10010,2021-11-15 01:35:01
+820,3487,USA,United States,Friday Harbor,"FH , USA",Valparaiso,,,New York,14063,2021-11-15 01:35:02
+821,2650,USA,United States,"Sabine Pass,","SP , USA",Morgan City,San Diego,,California,92093,2021-11-15 01:35:01
+822,2229,USA,United States,New York,"NY , USA",Gramercy Park,,,Florida,34221,2021-11-15 01:35:01
+823,3110,USA,United States,Vicksburg,"VI , USA",Jamestown West,San Francisco,,California,94122-1515,2021-11-15 01:35:01
+824,2906,USA,United States,Valparaiso,"VA , USA",La Jolla,,,Florida,32578,2021-11-14 13:45:01
+825,2802,USA,United States,"Morgan City,","MC , USA",Palmetto,Parkersburg,,West Virginia,26102,2021-11-15 01:35:01
+826,3045,USA,United States,New York,"NY , USA",Noe Valley,Seattle,,Washington,98107,2021-11-15 01:35:01
+827,2646,USA,United States,"Arkwright, NY","AN , USA",Niceville,San Francisco,,California,94123,2021-11-15 01:35:01
+828,3479,USA,United States,San Diego,"SD , USA",Belpre,,,Michigan,49779,2021-11-15 01:35:02
+829,3235,USA,United States,Palmetto,"PA , USA",Seattle,San Diego,,California,92147,2021-11-15 01:35:01
+830,2800,USA,United States,San Francisco,"SF , USA",Chinatown,,,Alaska,,2021-11-15 01:35:01
+831,2149,USA,United States,"Niceville, FL","NF , USA",Thessalon,San Francisco,,California,94118-1316,2021-11-15 01:35:01
+832,3011,USA,United States,"Belpre, Ohio","BO , USA",Coronado,,,Washington,98250,2021-11-15 01:35:01
+833,2744,USA,United States,Seattle,"SE , USA",Cordova,Seattle,,Washington,98109,2021-11-15 01:35:01
+834,3342,USA,United States,San Francisco,"SF , USA",Noe Valley,,,Alaska,,2021-11-15 01:35:01
+835,2383,USA,United States,"Rogers City,","RC , USA",Friday Harbor,,,Rhode Island,02818,2021-11-14 16:55:01
+836,2639,USA,United States,San Diego,"SD , USA",Seattle,Baton Rouge,,Louisiana,70808,2021-11-15 01:35:01
+837,2692,USA,United States,"Anchorage, Alaska","AA , USA",Unalaska,,,California,90755,2021-11-10 02:55:02
+838,2742,USA,United States,San Francisco,"SF , USA",Exeter,,,Washington,98365,2021-11-15 01:35:01
+839,2343,USA,United States,Friday Harbor,"FH , USA",Baton Rouge,,,United States Virgin Islands,00802,2021-11-15 01:35:01
+840,3101,USA,United States,Seattle,"SE , USA",Signal Hill,Memphis,,Tennessee,38127,1970-01-01 00:00:00
+841,3469,USA,United States,Dutch Harbor,"DH , USA",Port Ludlow,,,Connecticut,06825,2021-11-14 19:10:01
+842,3271,USA,United States,"East Greenwich,","EG , USA",Charlotte Amalie,Los Angeles,,California,90731,2021-10-16 09:40:02
+843,3231,USA,United States,"Baton Rouge,","BR , USA",Memphis,,,Florida,33004,2021-11-15 01:35:01
+844,2797,USA,United States,Signal Hill,"SH , USA",Bridgeport,,,Florida,33469,2021-11-15 01:35:01
+845,3230,USA,United States,"Port Ludlow,","PL , USA",San Pedro,,,Alabama,,2021-11-15 01:35:01
+846,2436,USA,United States,"Treehouse, Virgin","TV , USA",Dania Beach,,,Wisconsin,54814,2021-11-15 01:35:01
+847,3098,USA,United States,Orleans,"OR , USA",Jupiter,Everett,,Washington,98203,2021-11-15 01:35:01
+848,2014,USA,United States,Fairfield,"FA , USA",Butler,Towson,,Maryland,21204,2021-11-15 01:35:01
+849,2597,USA,United States,San Pedro,"SP , USA",Washburn,San Francisco,,California,94123,2021-11-15 01:35:01
+850,2277,USA,United States,Dania Beach,"DB , USA",Mukilteo,,,New York,10543,2021-11-15 01:35:01
+851,2308,USA,United States,"Jupiter, FL","JF , USA",Towson,Jersey City,,New Jersey,07302,2021-11-15 01:35:01
+852,2685,USA,United States,Alabama,"AL , USA",Chinatown,,,Mississippi,,2021-10-16 04:05:02
+853,2092,USA,United States,Bayfield,"BA , USA",Byram,Los Angeles,,California,90049,2021-11-15 01:35:01
+854,3460,USA,United States,"Everett, Washington","EW , USA",Financial District,,,Washington,98498,2021-11-15 01:35:02
+855,3225,USA,United States,Baltimore,"BA , USA",Vicksburg,,,Washington,98166,2021-04-10 15:20:02
+856,2161,USA,United States,San Francisco,"SF , USA",Westwood,,,New Jersey,08065,2021-11-15 01:35:01
+857,3261,USA,United States,Mamaroneck,"MA , USA",Lakewood,,,New Jersey,08730,2021-11-15 01:35:01
+858,2408,USA,United States,"Jersey City,","JC , USA",Normandy Park,,,Washington,98110-5238,2021-11-15 01:35:01
+859,2148,USA,United States,Vicksburg,"VI , USA",Cinnaminson,,,Tennessee,38320,2021-11-09 06:00:02
+860,3455,USA,United States,Los Angeles,"LA , USA",Dover Beaches North,,,California,94941,2021-11-15 01:35:02
+861,3223,USA,United States,Lakewood,"LA , USA",Bainbridge Island,Seattle,,Washington,98107,2021-11-15 01:35:01
+862,2282,USA,United States,Seattle,"SE , USA",New Johnsonville,Seattle,,Washington,98101,2021-11-15 01:35:01
+863,2329,USA,United States,Riverton,"RI , USA",Strawberry,New York,,New York,11201,2021-11-15 01:35:01
+864,3380,USA,United States,Brielle,"BR , USA",Seattle,San Francisco,,California,94111,2021-11-15 01:35:02
+865,3092,USA,United States,Bainbridge Island,"BI , USA",Seattle,,,Texas,77642,2021-11-15 01:35:01
+866,3454,USA,United States,"Tennessee, Eva","TE , USA",Financial District,,,Minnesota,55122,2021-11-15 01:35:02
+867,3221,USA,United States,"Mill Valley,","MV , USA",Chinatown,Cagliari - Casteddu,,Sardegna,09129,2021-11-15 01:35:01
+868,2057,USA,United States,Seattle,"SE , USA",Groves,Montevideo,,Montevideo,11800,2021-11-15 01:35:01
+869,2035,USA,United States,Seattle,"SE , USA",Elko New Market,Hải Phòng,,,,2021-11-15 01:35:01
+870,3001,USA,United States,Brooklyn,"BR , USA",Cagliari,,,,756604,2021-11-15 01:35:01
+871,3376,USA,United States,San Francisco,"SF , USA",Montevideo,,,,,2021-11-15 01:35:02
+872,2619,USA,United States,Groves,"GR , USA",Núi Đối,,,,,2021-11-15 01:35:01
+873,3157,USA,United States,Minnesota,"MI , USA",Quận Bốn,,,,,2021-11-12 19:50:02
+879,2656,unknown,unknown,Cagliari,"CA , unknown",,,,,,2021-11-15 01:35:01
+884,2389,URY,Uruguay,Montevideo,"MO , URY",,,,,,2021-11-15 01:35:01
+885,3314,VNM,Vietnam,Hanoi,"HA , VNM",,,,,,2021-05-05 12:00:02
+886,2040,VNM,Vietnam,HCMC,"HC , VNM",,,,,,2021-11-15 01:35:01
