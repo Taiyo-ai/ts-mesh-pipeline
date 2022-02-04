@@ -1,0 +1,6 @@
+gdeltdoc
+tldextract
+pandas
+pycountry
+pycountry-convert
+geopy
