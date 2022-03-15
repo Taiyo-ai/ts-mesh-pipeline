@@ -1,0 +1,133 @@
+country_1,Time_Stamp
+Argentina,Q:AR:P:A:A
+Argentina,Q:AR:P:A:B
+Argentina,Q:AR:P:A:C
+Austria,Q:AT:P:A:A
+Austria,Q:AT:P:A:B
+Austria,Q:AT:P:A:C
+Australia,Q:AU:P:A:A
+Australia,Q:AU:P:A:B
+Australia,Q:AU:P:A:C
+Belgium,Q:BE:P:A:A
+Belgium,Q:BE:P:A:B
+Belgium,Q:BE:P:A:C
+Brazil,Q:BR:P:A:A
+Brazil,Q:BR:P:A:B
+Brazil,Q:BR:P:A:C
+Canada,Q:CA:P:A:A
+Canada,Q:CA:P:A:B
+Canada,Q:CA:P:A:C
+Switzerland,Q:CH:P:A:A
+Switzerland,Q:CH:P:A:B
+Switzerland,Q:CH:P:A:C
+Chile,Q:CL:P:A:A
+Chile,Q:CL:P:A:B
+Chile,Q:CL:P:A:C
+China,Q:CN:P:A:A
+China,Q:CN:P:A:B
+China,Q:CN:P:A:C
+Colombia,Q:CO:P:A:A
+Colombia,Q:CO:P:A:B
+Colombia,Q:CO:P:A:C
+Czech Republic,Q:CZ:P:A:A
+Czech Republic,Q:CZ:P:A:B
+Czech Republic,Q:CZ:P:A:C
+Germany,Q:DE:P:A:A
+Germany,Q:DE:P:A:B
+Germany,Q:DE:P:A:C
+Denmark,Q:DK:P:A:A
+Denmark,Q:DK:P:A:B
+Denmark,Q:DK:P:A:C
+Spain,Q:ES:P:A:A
+Spain,Q:ES:P:A:B
+Spain,Q:ES:P:A:C
+Finland,Q:FI:P:A:A
+Finland,Q:FI:P:A:B
+Finland,Q:FI:P:A:C
+France,Q:FR:P:A:A
+France,Q:FR:P:A:B
+France,Q:FR:P:A:C
+United Kingdom,Q:GB:P:A:A
+United Kingdom,Q:GB:P:A:B
+United Kingdom,Q:GB:P:A:C
+Greece,Q:GR:P:A:A
+Greece,Q:GR:P:A:B
+Greece,Q:GR:P:A:C
+Hong Kong SAR,Q:HK:P:A:A
+Hong Kong SAR,Q:HK:P:A:B
+Hong Kong SAR,Q:HK:P:A:C
+Hungary,Q:HU:P:A:A
+Hungary,Q:HU:P:A:B
+Hungary,Q:HU:P:A:C
+Indonesia,Q:ID:P:A:A
+Indonesia,Q:ID:P:A:B
+Indonesia,Q:ID:P:A:C
+Ireland,Q:IE:P:A:A
+Ireland,Q:IE:P:A:B
+Ireland,Q:IE:P:A:C
+Israel,Q:IL:P:A:A
+Israel,Q:IL:P:A:B
+Israel,Q:IL:P:A:C
+India,Q:IN:P:A:A
+India,Q:IN:P:A:B
+India,Q:IN:P:A:C
+Italy,Q:IT:P:A:A
+Italy,Q:IT:P:A:B
+Italy,Q:IT:P:A:C
+Japan,Q:JP:P:A:A
+Japan,Q:JP:P:A:B
+Japan,Q:JP:P:A:C
+Korea,Q:KR:P:A:A
+Korea,Q:KR:P:A:B
+Korea,Q:KR:P:A:C
+Luxembourg,Q:LU:P:A:A
+Luxembourg,Q:LU:P:A:B
+Luxembourg,Q:LU:P:A:C
+Mexico,Q:MX:P:A:A
+Mexico,Q:MX:P:A:B
+Mexico,Q:MX:P:A:C
+Malaysia,Q:MY:P:A:A
+Malaysia,Q:MY:P:A:B
+Malaysia,Q:MY:P:A:C
+Netherlands,Q:NL:P:A:A
+Netherlands,Q:NL:P:A:B
+Netherlands,Q:NL:P:A:C
+Norway,Q:NO:P:A:A
+Norway,Q:NO:P:A:B
+Norway,Q:NO:P:A:C
+New Zealand,Q:NZ:P:A:A
+New Zealand,Q:NZ:P:A:B
+New Zealand,Q:NZ:P:A:C
+Poland,Q:PL:P:A:A
+Poland,Q:PL:P:A:B
+Poland,Q:PL:P:A:C
+Portugal,Q:PT:P:A:A
+Portugal,Q:PT:P:A:B
+Portugal,Q:PT:P:A:C
+Russia,Q:RU:P:A:A
+Russia,Q:RU:P:A:B
+Russia,Q:RU:P:A:C
+Saudi Arabia,Q:SA:P:A:A
+Saudi Arabia,Q:SA:P:A:B
+Saudi Arabia,Q:SA:P:A:C
+Sweden,Q:SE:P:A:A
+Sweden,Q:SE:P:A:B
+Sweden,Q:SE:P:A:C
+Singapore,Q:SG:P:A:A
+Singapore,Q:SG:P:A:B
+Singapore,Q:SG:P:A:C
+Thailand,Q:TH:P:A:A
+Thailand,Q:TH:P:A:B
+Thailand,Q:TH:P:A:C
+Turkey,Q:TR:P:A:A
+Turkey,Q:TR:P:A:B
+Turkey,Q:TR:P:A:C
+United States,Q:US:P:A:A
+United States,Q:US:P:A:B
+United States,Q:US:P:A:C
+Euro area,Q:XM:P:A:A
+Euro area,Q:XM:P:A:B
+Euro area,Q:XM:P:A:C
+South Africa,Q:ZA:P:A:A
+South Africa,Q:ZA:P:A:B
+South Africa,Q:ZA:P:A:C
