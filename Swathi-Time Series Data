@@ -1,0 +1,42 @@
+import os
+import re
+import requests
+import pandas as pd
+import time
+from datetime import datetime, date
+from bs4 import BeautifulSoup as soup
+from urllib.request import Request, urlopen
+import numpy as np
+pip install -U dataprep
+from dataprep.clean import clean_country
+
+class Google_Modility:
+  def __init__(self, **kwargs):
+    self.config = kwargs.get("config")
+
+  def google_link(self):
+    # Accessing CSV file from google mobility index
+    url = "https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv"
+    response = requests.get(url)
+    response.status_code
+    response.headers
+    file_name = "googledata.csv"
+    with open(file_name, "wb") as f:
+      f.write(response.content)
+      os.listdir()
+    df_google = pd.read_csv('googledata.csv')
+    df_google.rename(columns = {'iso_3166_2_code':'iso_3166_1_code'}, inplace = True)
+
+  def google_proprocessing(self):
+    df =pd.DataFrame()
+    df_google = pd.read_csv('googledata.csv')
+
+    # Convert country codes to ISO 3166-1 alpha3 
+    df_google.rename(columns = {'iso_3166_2_code':'iso_3166_1_code'}, inplace = True)
+    df = clean_country(df_google, "country_region", output_format="alpha-3")
+    df_google['iso_3166_1_code'] = df['country_region_clean']  
+
+  def geocoding(self):
+    sub_df = df_google[(df_google['country_region']=='United States')]
+    sub_df.loc[:,'date'] = pd.to_datetime(sub_df.loc[:,'date'])
+    sub_df = sub_df.sort_values('date', ascending= True)
