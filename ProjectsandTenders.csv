@@ -1,0 +1,39 @@
+,country_name,country_code_2,country_code,region
+0,Identifier,,,
+1,aug_id,ID generated for unique identification,This resembles {source}_{original_id},
+2,original_id,ID originally provided by the data source,,If this ID is not present it is to be generated from the asset name or title
+3,project_or_tender,Asset type Identifier,"P = Project, T = Tender",
+4,Basic Specs,,,
+5,name,Name or Title of the asset,,
+6,description,Any descriptive information present about the asset,Can come from basic description or abstract or development objective. The source may use different synonyms for description,We may also keep the similar sounding fields as secondary fields where description if present becomes primary one
+7,source,Source Abbr.,,
+8,Status and Stages,,,
+9,status,Status of the asset provided by data source,Has to be present or to be generated if not,
+10,identified_status,Status identified after mapping orginal statuses from the source data,,
+11,Budget/Estimated Cost/Asset valuation,,,
+12,budget,The cost/investment or estimate cost/investment for a project or tender in USD,,
+13,Links and URLs,,,
+14,url,Link to the microsite of the asset,,
+15,document_urls,Link(s) to the asset's e-document,Can have multiple links so a list can be maintained if applicable for the respective source,
+16,Sector/Subsector or Industry Type,,,
+17,sector,Sector name originally present on source,list,"Can be named industry, category, sector, product_category"
+18,subsector,Subsector name originally present on source,list,"Can be named sub_category, subsector, product_sub_category"
+19,identified_sector,Sectors identified by rule based system,,Mismapping is highly possible
+20,identified_subsector,Subsectors identified by rule based system,,Mismapping is highly possible
+21,identified_sector_subsector_tuple,Sector and subsector pairs identified by on rule based system,,Mismapping is highly possible
+22,keywords,Important keywords identified from overall textual content present about the asset,Includes both tags for sector and subsector and some other technical keywords,
+23,entities,Important keywords identified from overall textual content present about the asset,More details please,Yet to be classified
+24,Location Information,,,
+25,country_name,The short country name,Should not be the official name For eg: Republic of India (this should be converted to India),
+26,country_code,ISO 3166-1 alpha-3 country codes,,
+27,region_name,,According to standards followed by WorldBank,
+28,region_code,3 ISO format,3 digit region codes followed by World Bank,
+29,state,State Name,Generated after geocoding.It may or may not get identified,"If the location value has multiple places listed in it then only the first one may be recognized in geocoding. If the location is descriptive and covering a larger area or region, for eg. Chambal River Valley then such locations may not be identified or get mislabeled with the one with approximately matching name. In such cases we use the coordinates of the most country, state, county or whatever precise info we can look upto"
+30,county,County/District Name,Generated after geocoding. It may or may not get identified,
+31,locality,Nearest locality,Generated after geocoding. It may or may not get identified,
+32,nieghbourhood,,Generated after geocoding. It may or may not get identified,
+33,location,The exact or approx. location,May or may not be given by the source,
+34,map_coordinates,Geographical Coordinates in decimal degree system,"[ [ latitude, longitude ], ... ] or [] if None for standardized data as GeoJSON in Elasticsearch",If only map coordinates are given then these can reverse geocoded upto city level For more information have a look here
+35,Critical Dates,,,
+36,timestamps,All the timestamps are in format YYYY-MM-DD HH:MM:SS,"'epublished_date': '2021-08-23 16:00:00', 'epublished_date_': '2021-08-23 16:00:00', 'tender_opening_date': '2021-09-15 11:00:00', 'bid_opening_date': '2021-09-15 11:00:00', 'bid_submission_start_date': '2021-09-07 11:00:00', 'bid_submission_closing_date': '2021-09-14 11:00:00', 'bid_submission_end_date': '2021-09-14 11:00:00', 'document_download_start_date': '2021-08-23 16:00:00', 'document_download_end_date': '2021-09-14 11:00:00'",Should be precise upto atleast YYYY-MM-DD. For edge cases in can only have year
+37,timestamp_range,Min and Max timestamp for a document,"'min': '2021-08-23 16:00:00', 'max': '2021-09-15 11:00:00'",Should be precise upto atleast YYYY-MM-DD. For edge cases in can only have year
