@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+datacommons==1.4.3
+datacommons_pandas==0.0.3
+geopy==2.2.0
+pandas==1.3.5
+requests==2.25.1
