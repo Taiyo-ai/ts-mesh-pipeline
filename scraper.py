@@ -50,26 +50,31 @@ class Scrapper:
         else:
             total_tenders.append(tend)
 
+    '''Let's get the api link to scrap data from graph '''
+    tender_info_link = []
+    for link in countries_link[5:38]:
+        href = link.get('href')
+        tender_info_link.append(href[1:3])
+
+    '''Let's make post request country by country to get json data '''   
+    year = []
+    print('Getting json data please wait ')
+    for ch in tender_info_link:
+        new  = requests.post(f'https://opentender.eu/api/{ch}/home/stats', json = {'lang': 'en'}).json()
+        year.append(new['data']['histogram'])
+
     '''Page by Page Country and Total years in a formatted dictionary'''
-    year = {}
     eu = {}
-    print('Script is running please wait...')
+    print('Setting the data please wait...')
     for i in range(len(links)):
         res = requests.get(links[i])
         page = res.text
         read = BeautifulSoup(page, 'html.parser')
         country = read.find_all('span')
     
-        years = read.find(class_ = 'x axis')
-        num = years.find_all('title') 
+        eu[country[2].text] = year[i]
     
-        for sp in num:
-            year[sp.text] = 0
-        
-        
-        eu[country[2].text] = year
-    
-    print('Thank you! Results are here!!')
+    print('Thank you! The Data is ready.')
 
     '''Data Prepration using pandas '''
 
