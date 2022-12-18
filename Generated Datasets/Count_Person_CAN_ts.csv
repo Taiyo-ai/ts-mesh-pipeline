@@ -1,0 +1,894 @@
+,place,1996,2001,2006,2009,2011,2012,2013,2014,2016,2016,2018,2019,2020,2021,county_name,sample_frequency,timestamps,name,units,url,domain,country_code,country_name,original_id,aug_id
+0,wikidataId/Q1000316,,,,,,,,,2743.0,,,,,,Springhill,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1000316,0
+1,wikidataId/Q1001461,,,,,,,,,3708.0,,,,,,Raymond,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1001461,1
+2,wikidataId/Q1001646,,,,,344.0,,,,,,,,,,Faro,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1001646,2
+3,wikidataId/Q1001810,,,,,,,,,613.0,,,,,,Haines Junction,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1001810,3
+4,wikidataId/Q1001811,,,,,,,,,72.0,,,,,,Burwash Landing,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1001811,4
+5,wikidataId/Q1004103,,,,,,,,,9706.0,,,,,,Stratford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1004103,5
+6,wikidataId/Q1004113,,,,,,,,,5101.0,,,,,,Westlock,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1004113,6
+7,wikidataId/Q1004121,,,,,,,,,989.0,,,,,,Killam,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1004121,7
+8,wikidataId/Q1004125,,,,,,,,,824.0,,,,,,Daysland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1004125,8
+9,wikidataId/Q1004192,,,,,,,,,58520.0,,,,,,Saint Boniface,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1004192,9
+10,wikidataId/Q1006756,,,,,,,,,2580.0,,,,,,Shippagan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1006756,10
+11,wikidataId/Q1007418,,,,,,,,,19440.0,,,,,,Cobourg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1007418,11
+12,wikidataId/Q1007509,,,,,,,,,15892.0,,,,,,Greater Napanee,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1007509,12
+13,wikidataId/Q1008802,,,,,,,,,2620.0,,,,,,Sexsmith,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1008802,13
+14,wikidataId/Q1009247,,,,,,,,,5351.0,,,,,,Smithers,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1009247,14
+15,wikidataId/Q1009713,,,,,,,,,6664.0,,,,,,Shediac,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1009713,15
+16,wikidataId/Q1009832,,,,,,,,,7847.0,,,,,,Innisfail,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1009832,16
+17,wikidataId/Q1010790,,,,,,,,,8943.0,,,,,,Qualicum Beach,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1010790,17
+18,wikidataId/Q1012625,,,,,,,,,12978.0,,,,,,Dawson Creek,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1012625,18
+19,wikidataId/Q1012991,,,,,,,,,7982.0,,,,,,Drumheller,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1012991,19
+20,wikidataId/Q1013015,,,,,,,,,5600.0,,,,,,Redcliff,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1013015,20
+21,wikidataId/Q1013150,,,,,,,,,1993.0,,,,,,Mattawa,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1013150,21
+22,wikidataId/Q1014088,,,,,172.0,,,,,,,,,,Tsiigehtchic,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1014088,22
+23,wikidataId/Q1015639,,,,,12220.0,,,,,,,,,,Prince Rupert,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1015639,23
+24,wikidataId/Q1016692,,,,,,,,,9882.0,,,,,,Hinton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1016692,24
+25,wikidataId/Q1017477,,,,,,,,,25599.0,,,,,,Courtenay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1017477,25
+26,wikidataId/Q1017691,,,,,,,,,14961.0,,,,,,Cold Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1017691,26
+27,wikidataId/Q1018239,,,,,,,,,10278.0,,,,,,Selkirk,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1018239,27
+28,wikidataId/Q1018257,,,,,,,,,14828.0,,,,,,"Comox, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1018257,28
+29,wikidataId/Q1018271,,,,,,,,,11258.0,,,,,,Estevan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1018271,29
+30,wikidataId/Q1018325,,,,,,,,,13756.0,,,,,,Strathmore,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1018325,30
+31,wikidataId/Q1018643,,,,,,,,,4107.0,,,,,,Red Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1018643,31
+32,wikidataId/Q1018711,,,,,,,,,3186.0,,,,,,Pictou,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1018711,32
+33,wikidataId/Q1018959,,,,,,,,,5348.0,,,,,,Cornwall,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1018959,33
+34,wikidataId/Q1019096,,,,,,,,,957.0,,,,,,"Hartland, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1019096,34
+35,wikidataId/Q1019496,,,,,,,,,33890.0,,,,,,Moose Jaw,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1019496,35
+36,wikidataId/Q1020179,,,,,,,,,3708.0,,,,,,Golden,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1020179,36
+37,wikidataId/Q1020218,,,,,,,,,2828.0,,,,,,Princeton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1020218,37
+38,wikidataId/Q1021766,,,,,,,,,2842.0,,,,,,Rankin Inlet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1021766,38
+39,wikidataId/Q1022127,,,,,,,,,17678.0,,,,,,Port Alberni,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1022127,39
+40,wikidataId/Q1022731,,,,,,,,,7235.0,,,,,,Drayton Valley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1022731,40
+41,wikidataId/Q1025947,,,,,,,,,790.0,,,,,,Watson Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1025947,41
+42,wikidataId/Q1025990,,,,,,,,,7139.0,,,,,,Merritt,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1025990,42
+43,wikidataId/Q1026779,,,,,,,,,8039.0,,,,,,Castlegar,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1026779,43
+44,wikidataId/Q1027634,,,,,,,,,8292.0,,,,,,Kapuskasing,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1027634,44
+45,wikidataId/Q1030509,,,,,,,,,35138.0,,,,,,Campbell River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1030509,45
+46,wikidataId/Q1030568,,,,,,,,,6883.0,,,,,,Campbellton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1030568,46
+47,wikidataId/Q1035422,,,,,,,,,4248.0,,,,,,Caraquet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1035422,47
+48,wikidataId/Q1035637,,,,,,,,,301.0,,,,,,"Carcross, Yukon",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1035637,48
+49,wikidataId/Q1041701,,,,,,,,,11901.0,,,,,,Carleton Place,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1041701,49
+50,wikidataId/Q1043492,,,,,,,,,493.0,,,,,,Carmacks,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1043492,50
+51,wikidataId/Q1053984,,,,,,,,,16814.0,,,,,,Central Saanich,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1053984,51
+52,wikidataId/Q1055838,,,,,,,,,14451.0,,,,,,Brooks,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1055838,52
+53,wikidataId/Q10566,,,,,,,,,246376.0,,,,,,Saskatoon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q10566,53
+54,wikidataId/Q1070783,,,,,,,,,437.0,,,,,,Chesterfield Inlet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1070783,54
+55,wikidataId/Q1075086,,,,,,,,,13882.0,,,,,,Pembroke,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1075086,55
+56,wikidataId/Q1095333,,,,,,,,,1202.0,,,,,,Claremont,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1095333,56
+57,wikidataId/Q1099089,,,,,,,,,1508.0,,,,,,Carlyle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1099089,57
+58,wikidataId/Q1099134,,,,,2219.0,,,,,,,,,,Canora,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1099134,58
+59,wikidataId/Q1099427,,,,,1126.0,,,,,,,,,,Carnduff,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1099427,59
+60,wikidataId/Q1105163,,,,,,,,,,,,,,34467.0,Cochrane,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1105163,60
+61,wikidataId/Q1113057,,,,,,,,,16859.0,,,,,,Colwood,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1113057,61
+62,wikidataId/Q112975,,,,,,,,,2964.0,,,,,,Enderby,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q112975,62
+63,wikidataId/Q1134451,,,,,,,,,372.0,,,,,,Central Butte,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1134451,63
+64,wikidataId/Q1134786,,,,,,,,,973.0,,,,,,Carrot River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1134786,64
+65,wikidataId/Q1135242,,,,,359.0,,,,,,,,,,Choiceland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1135242,65
+66,wikidataId/Q1138837,,,,,,,,,20047.0,,,,,,Cranbrook,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1138837,66
+67,wikidataId/Q1139747,,,,,,,,,5351.0,,,,,,Creston,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1139747,67
+68,wikidataId/Q1142330,,,,,,,,,8524.0,,,,,,"Crystal Beach, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1142330,68
+69,wikidataId/Q1143653,,,,,,,,,3753.0,,,,,,Cumberland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1143653,69
+70,wikidataId/Q11483763,,,,,,,,,4605.0,,,,,,Gibsons,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q11483763,70
+71,wikidataId/Q115788,,,,,,,,,35342.0,,,,,,Langford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q115788,71
+72,wikidataId/Q1173008,,,,,,,,,8457.0,,,,,,Dauphin,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1173008,72
+73,wikidataId/Q117978,,,,,,,,,785.0,,,,,,Gilbert Plains,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q117978,73
+74,wikidataId/Q117998,,,,,,,,,1145.0,,,,,,Winnipeg Beach,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q117998,74
+75,wikidataId/Q118259,,,,,,,,,1265.0,,,,,,Gillam,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q118259,75
+76,wikidataId/Q1207513,,,,,,,,,29993.0,,,,,,Leduc,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1207513,76
+77,wikidataId/Q1208051,,,,,,,,,5159.0,,,,,,Gananoque,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1208051,77
+78,wikidataId/Q1257381,,,,,,,,,2993.0,,,,,,"Houston, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1257381,78
+79,wikidataId/Q1259274,,,,,,,,,10200.0,,,,,,"Sechelt, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1259274,79
+80,wikidataId/Q1265347,,,,,,,,,4944.0,,,,,,Duncan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1265347,80
+81,wikidataId/Q1276220,,,,,,,,,5708.0,,,,,,Vegreville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1276220,81
+82,wikidataId/Q1305726,,,,,,,,,7425.0,,,,,,"Kimberley, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1305726,82
+83,wikidataId/Q1336,,,,,,,,,48664.0,,,,,,Rimouski,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1336,83
+84,wikidataId/Q1341278,,,,,,,,,3273.0,,,,,,Marathon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1341278,84
+85,wikidataId/Q1362758,,,,,,,,,7981.0,,,,,,Kirkland Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1362758,85
+86,wikidataId/Q1363726,,,,,,,,,28881.0,,,,,,Okotoks,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1363726,86
+87,wikidataId/Q1369892,,,,,,,,,18573.0,,,,,,Pitt Meadows,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1369892,87
+88,wikidataId/Q1370641,,,,,,,,,598.0,,,,,,Qikiqtarjuaq,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1370641,88
+89,wikidataId/Q1380418,,,,,475.0,,,,,,,,,,Colonsay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1380418,89
+90,wikidataId/Q1381013,,,,,1402.0,,,,,,,,,,Creighton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1381013,90
+91,wikidataId/Q1381546,,,,,453.0,,,,,,,,,,Craik,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1381546,91
+92,wikidataId/Q1381553,,,,,770.0,,,,,,,,,,Cudworth,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1381553,92
+93,wikidataId/Q1381557,,,,,579.0,,,,,,,,,,Cupar,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1381557,93
+94,wikidataId/Q1383701,,,,,,,,,4174.0,,,,,,"New Maryland, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1383701,94
+95,wikidataId/Q1386148,,,500.0,,,,,,,,,,,,"Tête Jaune Cache, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1386148,95
+96,wikidataId/Q138841,,,,,20783.0,,,,,,,,,,Beloeil,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q138841,96
+97,wikidataId/Q138973,,,,,,,,,2114.0,,,,,,Ste. Anne,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q138973,97
+98,wikidataId/Q138976,,,,,1023.0,,,,,,,,,,Ste. Rose du Lac,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q138976,98
+99,wikidataId/Q138997,,,,,,,,,5050.0,,,,,,Montreal West,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q138997,99
+100,wikidataId/Q139019,,,,,9485.0,,,,,,,,,,Bois-des-Filion,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139019,100
+101,wikidataId/Q139027,,,,,,,,,3752.0,,,,,,Beaupré,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139027,101
+102,wikidataId/Q139046,,,,,4091.0,,,,,,,,,,Berthierville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139046,102
+103,wikidataId/Q139088,,,,,,,,,20276.0,,,,,,Mount Royal,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139088,103
+104,wikidataId/Q139094,,,,,298.0,,,,,,,,,,Belleterre,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139094,104
+105,wikidataId/Q139101,,,,,7153.0,,,,,,,,,,Hampstead,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139101,105
+106,wikidataId/Q139104,,,,,,,,,85721.0,,,,,,Brossard,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139104,106
+107,wikidataId/Q139109,,,,,12011.0,,,,,,,,,,Beauharnois,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139109,107
+108,wikidataId/Q1391099,,,,,,,,,5039.0,,,,,,Almonte,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1391099,108
+109,wikidataId/Q139190,,,,,,,,,111575.0,,,,,,Terrebonne,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139190,109
+110,wikidataId/Q139229,,,,,144746.0,,,,,,,,,,Saguenay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139229,110
+111,wikidataId/Q139231,,,,,,,,,7146.0,,,,,,Baie-Saint-Paul,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139231,111
+112,wikidataId/Q139398,,,,,,,,,239700.0,,,,,,Longueuil,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139398,112
+113,wikidataId/Q139406,,,,,18200.0,,,,,,,,,,Mont-Saint-Hilaire,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139406,113
+114,wikidataId/Q139415,,,,,5419.0,,,,,,,,,,Windsor,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139415,114
+115,wikidataId/Q139422,,,,,6354.0,,,,,,,,,,Beauceville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139422,115
+116,wikidataId/Q139427,,,,,,,,,84965.0,,,,,,Repentigny,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139427,116
+117,wikidataId/Q139437,,,,,,,,,21861.0,,,,,,Saint-Lambert,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139437,117
+118,wikidataId/Q139473,,,,,,,,,161323.0,,,,,,Sherbrooke,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139473,118
+119,wikidataId/Q139474,,,,,,,,,26884.0,,,,,,Boisbriand,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139474,119
+120,wikidataId/Q139497,,,,,,,,,20312.0,,,,,,Westmount,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139497,120
+121,wikidataId/Q139503,,,,,,,,,3823.0,,,,,,Baie-D'Urfé,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139503,121
+122,wikidataId/Q139568,,,,,,,,,56363.0,,,,,,Blainville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139568,122
+123,wikidataId/Q139588,,,,,,,,,32448.0,,,,,,Côte-Saint-Luc,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139588,123
+124,wikidataId/Q139654,,,,,,,,,21536.0,,,,,,Baie-Comeau,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139654,124
+125,wikidataId/Q139694,,,,,,,,,3232.0,,,,,,Richmond,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139694,125
+126,wikidataId/Q139714,,,,,6322.0,,,,,,,,,,Amqui,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q139714,126
+127,wikidataId/Q1409290,,,,,,,,,358.0,,,,,,"Harvey Station, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1409290,127
+128,wikidataId/Q141366,,,,,5438.0,,,,,,,,,,Saint-Pie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141366,128
+129,wikidataId/Q141371,,,,,2844.0,,,,,,,,,,Saint-Gabriel,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141371,129
+130,wikidataId/Q141378,,,,,6688.0,,,,,,,,,,Plessisville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141378,130
+131,wikidataId/Q141385,,,,,12171.0,,,,,,,,,,Prévost,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141385,131
+132,wikidataId/Q141389,,,,,,,,,10756.0,,,,,,Notre-Dame-de-l'Île-Perrot,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141389,132
+133,wikidataId/Q141393,,,,,14384.0,,,,,,,,,,Dolbeau-Mistassini,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141393,133
+134,wikidataId/Q141399,,,,,105.0,,,,,,,,,,L'Île-Cadieux,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141399,134
+135,wikidataId/Q141403,,,,,,,,,13657.0,,,,,,Lavaltrie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141403,135
+136,wikidataId/Q141406,,,,,2307.0,,,,,,,,,,Léry,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141406,136
+137,wikidataId/Q141410,,,,,7517.0,,,,,,,,,,Louiseville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141410,137
+138,wikidataId/Q141415,,,,,7209.0,,,,,,,,,,Brownsburg-Chatham,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141415,138
+139,wikidataId/Q141420,,,,,10094.0,,,,,,,,,,Marieville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141420,139
+140,wikidataId/Q141426,,,,,251.0,,,,,,,,,,Lac-Saint-Joseph,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141426,140
+141,wikidataId/Q141430,,,,,1526.0,,,,,,,,,,Matagami,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141430,141
+142,wikidataId/Q141445,,,,,5165.0,,,,,,,,,,Hudson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141445,142
+143,wikidataId/Q141452,,,,,2502.0,,,,,,,,,,Disraeli,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141452,143
+144,wikidataId/Q141492,,,,,,,,14990.0,,,,,,,Sainte-Anne-des-Plaines,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141492,144
+145,wikidataId/Q141500,,,,,,,,,4958.0,,,,,,Sainte-Anne-de-Bellevue,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141500,145
+146,wikidataId/Q141505,,,,,44154.0,,,,,,,,,,Saint-Eustache,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141505,146
+147,wikidataId/Q141511,,,,,10278.0,,,,,,,,,,Saint-Félicien,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141511,147
+148,wikidataId/Q141522,,,,,,,46264.0,,,,,,,,Châteauguay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141522,148
+149,wikidataId/Q141536,,,,,2355.0,,,,,,,,,,Gracefield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141536,149
+150,wikidataId/Q141542,,,,,12438.0,,,,,,,,,,Bécancour,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141542,150
+151,wikidataId/Q141547,,,,,6252.0,,,,,,,,,,Contrecœur,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141547,151
+152,wikidataId/Q141551,,,,,,,,,14558.0,,,,,,Pincourt,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141551,152
+153,wikidataId/Q141558,,,,,3991.0,,,,,,,,,,Carleton-sur-Mer,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141558,153
+154,wikidataId/Q141565,,,,,6319.0,,,,,,,,,,Sainte-Catherine-de-la-Jacques-Cartier,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141565,154
+155,wikidataId/Q141576,,,,,2734.0,,,,,,,,,,Macamic,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141576,155
+156,wikidataId/Q141584,,,,,13080.0,,,,,,,,,,Saint-Colomban,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141584,156
+157,wikidataId/Q141590,,,,,10503.0,,,,,,,,,,L'Île-Perrot,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141590,157
+158,wikidataId/Q141595,,,,,7828.0,,,,,,,,,,Nicolet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141595,158
+159,wikidataId/Q141599,,,,,3051.0,,,,,,,,,,Dégelis,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141599,159
+160,wikidataId/Q141605,,,,,,,,,2474.0,,,,,,Fermont,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141605,160
+161,wikidataId/Q141613,,,,,4722.0,,,,,,,,,,Saint-Joseph-de-Beauce,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141613,161
+162,wikidataId/Q141618,,,,,607.0,,,,,,,,,,Métis-sur-Mer,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141618,162
+163,wikidataId/Q141623,,,,,8450.0,,,,,,,,,,Otterburn Park,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141623,163
+164,wikidataId/Q141627,,,,,2775.0,,,,,,,,,,Bonaventure,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141627,164
+165,wikidataId/Q141635,,,,,2996.0,,,,,,,,,,Cap-Santé,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141635,165
+166,wikidataId/Q141639,,,,,,,,,7200.0,,,,,,Donnacona,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141639,166
+167,wikidataId/Q141645,,,,,2595.0,,,,,,,,,,Ville-Marie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141645,167
+168,wikidataId/Q141652,,,,,,,,,13565.0,,,,,,Sainte-Marie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141652,168
+169,wikidataId/Q141658,,,,,2458.0,,,,,,,,,,Causapscal,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141658,169
+170,wikidataId/Q141663,,,,,3198.0,,,,,,,,,,Paspébiac,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141663,170
+171,wikidataId/Q141693,,,,,213.0,,,,,,,,,,Schefferville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141693,171
+172,wikidataId/Q141699,,,,,,,,,28534.0,,,,,,Sept-Îles,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141699,172
+173,wikidataId/Q141705,,,,,,,,,12823.0,,,,,,Amos,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141705,173
+174,wikidataId/Q141711,,,,,,,,,38117.0,,,,,,Vaudreuil-Dorion,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141711,174
+175,wikidataId/Q141717,,,,,,,,,6281.0,,,,,,Mont-Joli,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141717,175
+176,wikidataId/Q141724,,,,,69598.0,,,,,,,,,,Saint-Jérôme,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141724,176
+177,wikidataId/Q141731,,,,,,,,,45309.0,,,,,,Victoriaville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141731,177
+178,wikidataId/Q141738,,,,,,,,,10223.0,,,,,,Sainte-Agathe-des-Monts,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141738,178
+179,wikidataId/Q141743,,,,,8330.0,,,,,,,,,,Farnham,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141743,179
+180,wikidataId/Q141748,,,,,42491.0,,,,,,,,,,Mascouche,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141748,180
+181,wikidataId/Q141754,,,,,20065.0,,,,,,,,,,L'Assomption,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141754,181
+182,wikidataId/Q141760,,,,,19621.0,,,,,,,,,,Joliette,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141760,182
+183,wikidataId/Q141764,,,,,,,,,2444.0,,,,,,Huntingdon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141764,183
+184,wikidataId/Q141769,,,,,,,,,11001.0,,,,,,La Tuque,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141769,184
+185,wikidataId/Q141777,,,,,3930.0,,,,,,,,,,Maniwaki,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141777,185
+186,wikidataId/Q141783,,,,,6651.0,,,,,,,,,,Port-Cartier,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141783,186
+187,wikidataId/Q141804,,,,,,,,,42334.0,,,,,,Rouyn-Noranda,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141804,187
+188,wikidataId/Q141810,,,,,,,,,422993.0,,,,,,Laval,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141810,188
+189,wikidataId/Q141813,,,,,2349.0,,,,,,,,,,Valcourt,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141813,189
+190,wikidataId/Q141844,,,,,,,,,276245.0,,,,,,Gatineau,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141844,190
+191,wikidataId/Q141873,,,,,,,,,59614.0,,,,,,Saint-Hyacinthe,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141873,191
+192,wikidataId/Q141881,,,,,,,,,66222.0,,,,,,Granby,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141881,192
+193,wikidataId/Q141903,,,,,15163.0,,,,,,,,,,Gaspé,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141903,193
+194,wikidataId/Q141918,,,,,,,,,7504.0,,,,,,Chibougamau,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141918,194
+195,wikidataId/Q141921,,,,,,,,,50513.0,,,,,,Mirabel,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141921,195
+196,wikidataId/Q141924,,,,,40753.0,,,,,,,,,,Boucherville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141924,196
+197,wikidataId/Q141927,,,,,2854.0,,,,,,,,,,Sainte-Anne-de-Beaupré,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141927,197
+198,wikidataId/Q141933,,,,,7719.0,,,,,,,,,,La Sarre,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141933,198
+199,wikidataId/Q141937,,,,,31862.0,,,,,,,,,,Val-d'Or,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141937,199
+200,wikidataId/Q141940,,,,,,,,,68601.0,,,,,,Drummondville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141940,200
+201,wikidataId/Q141943,,,,,17553.0,,,,,,,,,,Deux-Montagnes,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141943,201
+202,wikidataId/Q141946,,,,,11491.0,,,,,,,,,,Montmagny,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141946,202
+203,wikidataId/Q141954,,,,,10227.0,,,,,,,,,,Roberval,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141954,203
+204,wikidataId/Q141957,,,,,,,,,5.0,,,,,,L'Île-Dorval,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141957,204
+205,wikidataId/Q141960,,,,,,,,,7656.0,,,,,,Acton Vale,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141960,205
+206,wikidataId/Q141963,,,,,,,,,18980.0,,,,,,Dorval,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141963,206
+207,wikidataId/Q141968,,,,,2000.0,,,,,,,,,,Kingsey Falls,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141968,207
+208,wikidataId/Q141973,,,,,30904.0,,,,,,,,,,Alma,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141973,208
+209,wikidataId/Q141977,,,,,,,,,98036.0,,,,,,Saint-Jean-sur-Richelieu,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141977,209
+210,wikidataId/Q141980,,,,,50060.0,,,,,,,,,,Shawinigan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141980,210
+211,wikidataId/Q141983,,,,,7649.0,,,,,,,,,,Bromont,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141983,211
+212,wikidataId/Q141987,,,,,2684.0,,,,,,,,,,Bedford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141987,212
+213,wikidataId/Q141991,,,,,3312.0,,,,,,,,,,Percé,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141991,213
+214,wikidataId/Q141995,,,,,25709.0,,,,,,,,,,Thetford Mines,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141995,214
+215,wikidataId/Q141998,,,,,,,,,48889.0,,,,,,Dollard-des-Ormeaux,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q141998,215
+216,wikidataId/Q142001,,,,,,,,,4126.0,,,,,,Château-Richer,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142001,216
+217,wikidataId/Q142004,,,,,25358.0,,,,,,,,,,Magog,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142004,217
+218,wikidataId/Q142010,,,,,,,,,34755.0,,,,,,Sorel‐Tracy,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142010,218
+219,wikidataId/Q142014,,,,,20994.0,,,,,,,,,,Varennes,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142014,219
+220,wikidataId/Q142017,,,,,5853.0,,,,,,,,,,Charlemagne,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142017,220
+221,wikidataId/Q142020,,,,,5932.0,,,,,,,,,,Lac-Mégantic,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142020,221
+222,wikidataId/Q142024,,,,,19447.0,,,,,,,,,,Rivière-du-Loup,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142024,222
+223,wikidataId/Q142029,,,,,14462.0,,,,,,,,,,Matane,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142029,223
+224,wikidataId/Q142035,,,,,,,,,19324.0,,,,,,Beaconsfield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142035,224
+225,wikidataId/Q142039,,,,,,,,,,,,42410.0,,,Salaberry-de-Valleyfield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142039,225
+226,wikidataId/Q142044,,,,,5686.0,,,,,,,,,,Saint-Césaire,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142044,226
+227,wikidataId/Q142053,,,,,,,,,8698.0,,,,,,Coaticook,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142053,227
+228,wikidataId/Q142058,,,,,13779.0,,,,,,,,,,Mont-Laurier,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142058,228
+229,wikidataId/Q142064,,,,,,,,,27359.0,,,,,,Saint-Constant,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142064,229
+230,wikidataId/Q142069,,,,,,,,,,,,30857.0,,,Chambly,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142069,230
+231,wikidataId/Q142072,,,,,17463.0,,,,,,,,,,Saint-Lin–Laurentides,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142072,231
+232,wikidataId/Q142076,,,,,,,,,21047.0,,,,,,Candiac,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142076,232
+233,wikidataId/Q142082,,,,,,,,,9646.0,,,,,,Mont-Tremblant,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142082,233
+234,wikidataId/Q142087,,,,,26025.0,,,,,,,,,,Sainte-Thérèse,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142087,234
+235,wikidataId/Q142092,,,,,23357.0,,,,,,,,,,La Prairie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142092,235
+236,wikidataId/Q142097,,,,,9615.0,,,,,,,,,,Saint-Raymond,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142097,236
+237,wikidataId/Q142102,,,,,18141.0,,,,,,,,,,Saint-Augustin-de-Desmaures,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142102,237
+238,wikidataId/Q142107,,,,,12489.0,,,,,,,,,,Cowansville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142107,238
+239,wikidataId/Q142113,,,,,,,,,8271.0,,,,,,La Malbaie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142113,239
+240,wikidataId/Q142117,,,,,,,,,20151.0,,,,,,Kirkland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142117,240
+241,wikidataId/Q142151,,,,,3456.0,,,,,,,,,,Trois-Pistoles,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142151,241
+242,wikidataId/Q14215161,,,,,,,,,1061.0,,,,,,Eston,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q14215161,242
+243,wikidataId/Q142156,,,,,30104.0,,,,,,,,,,Sainte-Julie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142156,243
+244,wikidataId/Q142162,,,,,,,,,9352.0,,,,,,Lorraine,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142162,244
+245,wikidataId/Q142165,,,,,2685.0,,,,,,,,,,Saint-Pamphile,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142165,245
+246,wikidataId/Q142170,,,,,16736.0,,,,,,,,,,Saint-Basile-le-Grand,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142170,246
+247,wikidataId/Q142174,,,,,,,,,2431.0,,,,,,Témiscaming,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142174,247
+248,wikidataId/Q142180,,,,,7462.0,,,,,,,,,,Delson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142180,248
+249,wikidataId/Q142182,,,,,3118.0,,,,,,,,,,Clermont,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142182,249
+250,wikidataId/Q142190,,,,,16762.0,,,,,,,,,,Sainte-Catherine,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142190,250
+251,wikidataId/Q142192,,,,,,,,,13115.0,,,,,,Mercier,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142192,251
+252,wikidataId/Q142196,,,,,14294.0,,,,,,,,,,Rosemère,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142196,252
+253,wikidataId/Q142206,,,,,7703.0,,,,,,,,,,Chandler,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142206,253
+254,wikidataId/Q142211,,,,,1613.0,,,,,,,,,,Fossambault-sur-le-Lac,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142211,254
+255,wikidataId/Q142218,,,,,16745.0,,,,,,,,,,L'Ancienne-Lorette,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142218,255
+256,wikidataId/Q142222,,,,,657.0,,,,,,,,,,Duparquet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142222,256
+257,wikidataId/Q142225,,,,,58.0,,,,,,,,,,Barkmere,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142225,257
+258,wikidataId/Q142229,,,,,3471.0,,,,,,,,,,Dunham,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142229,258
+259,wikidataId/Q1422308,,,,,,,,,776.0,,,,,,Radium Hot Springs,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1422308,259
+260,wikidataId/Q142233,,,,,466.0,,,,,,,,,,Lac-Sergent,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142233,260
+261,wikidataId/Q142239,,,,,5171.0,,,,,,,,,,Cookshire-Eaton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142239,261
+262,wikidataId/Q142243,,,,,3741.0,,,,,,,,,,East Angus,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142243,262
+263,wikidataId/Q142246,,,,,5609.0,,,,,,,,,,Brome Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142246,263
+264,wikidataId/Q142250,,,,,12551.0,,,,,,,,,,Lachute,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142250,264
+265,wikidataId/Q142255,,,,,598.0,,,,,,,,,,Lac-Delage,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142255,265
+266,wikidataId/Q142262,,,,,1610.0,,,,,,,,,,Chapais,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142262,266
+267,wikidataId/Q142267,,,,,1053.0,,,,,,,,,,Desbiens,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142267,267
+268,wikidataId/Q142271,,,,,,,,,31380.0,,,,,,Pointe-Claire,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142271,268
+269,wikidataId/Q142279,,,,,,,,,2187.0,,,,,,Lebel-sur-Quévillon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142279,269
+270,wikidataId/Q142284,,,,,2770.0,,,,,,,,,,Pohénégamook,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142284,270
+271,wikidataId/Q142289,,,,,,,,,4410.0,,,,,,Waterloo,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142289,271
+272,wikidataId/Q142295,,,,,3810.0,,,,,,,,,,New Richmond,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142295,272
+273,wikidataId/Q142301,,,,,4645.0,,,,,,,,,,Rivière-Rouge,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142301,273
+274,wikidataId/Q142306,,,,,5467.0,,,,,,,,,,Richelieu,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142306,274
+275,wikidataId/Q142313,,,,,8723.0,,,,,,,,,,Pont-Rouge,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142313,275
+276,wikidataId/Q142320,,,,,2862.0,,,,,,,,,,Saint-Marc-des-Carrières,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142320,276
+277,wikidataId/Q142325,,,,,4097.0,,,,,,,,,,Métabetchouan–Lac-à-la-Croix,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142325,277
+278,wikidataId/Q142333,,,,,26107.0,,,,,,,,,,Saint-Bruno-de-Montarville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142333,278
+279,wikidataId/Q142345,,,,,3270.0,,,,,,,,,,Forestville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142345,279
+280,wikidataId/Q142355,,,,,4266.0,,,,,,,,,,La Pocatière,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142355,280
+281,wikidataId/Q142360,,,,,2623.0,,,,,,,,,,Cap-Chat,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142360,281
+282,wikidataId/Q142365,,,,,547.0,,,,,,,,,,Scotstown,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142365,282
+283,wikidataId/Q142370,,,,,,,,,2818.0,,,,,,Thurso,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142370,283
+284,wikidataId/Q142375,,,,,2857.0,,,,,,,,,,Stanstead,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142375,284
+285,wikidataId/Q142379,,,,,2953.0,,,,,,,,,,Senneterre,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142379,285
+286,wikidataId/Q142386,,,,,3880.0,,,,,,,,,,Saint-Tite,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142386,286
+287,wikidataId/Q142391,,,,,,,,,9462.0,,,,,,Carignan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142391,287
+288,wikidataId/Q142397,,,,,4766.0,,,,,,,,,,Warwick,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142397,288
+289,wikidataId/Q142402,,,,,3137.0,,,,,,,,,,Normandin,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142402,289
+290,wikidataId/Q142405,,,,,1721.0,,,,,,,,,,Saint-Ours,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142405,290
+291,wikidataId/Q142408,,,,,764.0,,,,,,,,,,Murdochville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142408,291
+292,wikidataId/Q142421,,,,,2028.0,,,,,,,,,,Waterville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142421,292
+293,wikidataId/Q142426,,,,,,,,,19889.0,,,,,,Saint-Lazare,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142426,293
+294,wikidataId/Q142430,,,,,,,,,3187.0,,,,,,Portneuf,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142430,294
+295,wikidataId/Q142436,,,,,,,,,18074.0,,,,,,Sainte-Marthe-sur-le-Lac,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142436,295
+296,wikidataId/Q142446,,,,,2463.0,,,,,,,,,,Saint-Basile,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142446,296
+297,wikidataId/Q142451,,,,,3490.0,,,,,,,,,,Saint-Pascal,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142451,297
+298,wikidataId/Q142456,,,,,,,,,1642.0,,,,,,Saint‐Joseph‐de‐Sorel,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142456,298
+299,wikidataId/Q142466,,,,,5096.0,,,,,,,,,,Témiscouata-sur-le-Lac,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142466,299
+300,wikidataId/Q142475,,,,,8868.0,,,,,,,,,,Notre-Dame-des-Prairies,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142475,300
+301,wikidataId/Q142481,,,,,4070.0,,,,,,,,,,Danville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142481,301
+302,wikidataId/Q142490,,,,,,,,,4392.0,,,,,,Neuville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142490,302
+303,wikidataId/Q142500,,,,,2740.0,,,,,,,,,,Sainte-Marguerite-du-Lac-Masson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142500,303
+304,wikidataId/Q142504,,,,,7265.0,,,,,,,,,,Saint-Rémi,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142504,304
+305,wikidataId/Q142516,,,,,5693.0,,,,,,,,,,Princeville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142516,305
+306,wikidataId/Q142521,,,,,3906.0,,,,,,,,,,Sutton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142521,306
+307,wikidataId/Q142560,,,,,12137.0,,,,,,,,,,Sainte-Adèle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142560,307
+308,wikidataId/Q1425657,,,,,,,,,1826.0,,,,,,Dalmeny,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1425657,308
+309,wikidataId/Q142566,,,,,3449.0,,,,,,,,,,Malartic,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142566,309
+310,wikidataId/Q1427108,,,647.0,,,,,,,,,,,,Dundurn,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1427108,310
+311,wikidataId/Q1427885,,,,,1025.0,,,,,,,,,,Davidson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1427885,311
+312,wikidataId/Q1427938,,,610.0,,,,,,,,,,,,Duck Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1427938,312
+313,wikidataId/Q1427945,,,,,,,,,573.0,,,,,,Cut Knife,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1427945,313
+314,wikidataId/Q1427949,,,,,,,,,1038.0,,,,,,Delisle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1427949,314
+315,wikidataId/Q142969,,,,,3456.0,,,,,,,,,,Grande-Rivière,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q142969,315
+316,wikidataId/Q1430715,,,,,,,,,470.0,,,,,,Whatì,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1430715,316
+317,wikidataId/Q143227,,,,,31173.0,,,,,,,,,,Saint-Georges,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q143227,317
+318,wikidataId/Q143360,,,,,9881.0,,,,,,,,,,Saint-Sauveur,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q143360,318
+319,wikidataId/Q1435042,,,,,,,,,30180.0,,,,,,LaSalle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1435042,319
+320,wikidataId/Q1438546,,,,,,,,,7739.0,,,,,,Fort Frances,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1438546,320
+321,wikidataId/Q1438931,,,,,,,,,12514.0,,,,,,Parksville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1438931,321
+322,wikidataId/Q1455440,,,,,,,,,17187.0,,,,,,Petawawa,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1455440,322
+323,wikidataId/Q1493315,,,,,,,,,278.0,,,,,,Gamèti,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1493315,323
+324,wikidataId/Q1498488,,,,,,,,,481.0,,,,,,"Morley, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1498488,324
+325,wikidataId/Q1520502,,,449.0,,,,,,,,,,,,Eatonia,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1520502,325
+326,wikidataId/Q1521430,,,,,,,,,503.0,,,,,,Eastend,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1521430,326
+327,wikidataId/Q153470,,,,,,,,,627.0,,,,,,Pilot Mound,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q153470,327
+328,wikidataId/Q1542518,,,,,2102.0,,,,,,,,,,Grand Bend,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1542518,328
+329,wikidataId/Q1542954,,,,,,,,,3571.0,,,,,,Grande Cache,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1542954,329
+330,wikidataId/Q1576700,,,,,,,,,7688.0,,,,,,Hanover,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1576700,330
+331,wikidataId/Q1586275,,,,,,,,,1468.0,,,,,,Harrison Hot Springs,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1586275,331
+332,wikidataId/Q1592082,,,,,,,,,313.0,,,,,,Hazelton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1592082,332
+333,wikidataId/Q1614488,,,,,,,,,1937.0,,,,,,Manitouwadge,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1614488,333
+334,wikidataId/Q1639696,,,,,,,,,16343.0,,,,,,Yorkton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1639696,334
+335,wikidataId/Q163977,,,,,,,,,6651.0,,,,,,Slave Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q163977,335
+336,wikidataId/Q1642364,,,,,,,,,40902.0,,,,,,Woodstock,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1642364,336
+337,wikidataId/Q165174,,,,,,,,,1980.0,,,,,,100 Mile House,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q165174,337
+338,wikidataId/Q1659757,,,,,,,,,2246.0,,,,,,Gimli,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1659757,338
+339,wikidataId/Q1664593,,,,,1562.0,,,,,,,,,,"Royston, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1664593,339
+340,wikidataId/Q16740,,,,,,,,,82256.0,,,,,,Maple Ridge,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q16740,340
+341,wikidataId/Q1674013,,,,,,,,,295.0,,,,,,"Iskut, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1674013,341
+342,wikidataId/Q1688270,,,,,706.0,,,,,,,,,,Paquetville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1688270,342
+343,wikidataId/Q1693101,,,,,,,,,1743.0,,,,,,Shelburne,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1693101,343
+344,wikidataId/Q169348,,,,,,,,,107.0,,,,,,Zeballos,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q169348,344
+345,wikidataId/Q1718869,,,,,,,,,5428.0,,,,,,Peachland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1718869,345
+346,wikidataId/Q1723761,,,,,,,,,1082.0,,,,,,Naujaat,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1723761,346
+347,wikidataId/Q1727611,,,,,,,,,2574.0,,,,,,Pemberton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1727611,347
+348,wikidataId/Q1736159,,,,,,,,,1481.0,,,,,,Moosonee,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1736159,348
+349,wikidataId/Q1743233,,,,,,,,,249.0,,,,,,"Tagish, Yukon",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743233,349
+350,wikidataId/Q1743462,,,,,,,,,2564.0,,,,,,High Prairie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743462,350
+351,wikidataId/Q1743545,,,,,,,,,3585.0,,,,,,Cardston,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743545,351
+352,wikidataId/Q1743575,,,,,,,,,6635.0,,,,,,Rocky Mountain House,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743575,352
+353,wikidataId/Q1743603,,,,,,,,,2998.0,,,,,,Fairview,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743603,353
+354,wikidataId/Q1743694,,,,,,,,,811.0,,,,,,Sedgewick,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743694,354
+355,wikidataId/Q1743705,,,,,,,,,13584.0,,,,,,High River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743705,355
+356,wikidataId/Q1743833,,,,,,,,,13057.0,,,,,,Lacombe,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743833,356
+357,wikidataId/Q1743848,,,,,,,,,1774.0,,,,,,Lamont,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743848,357
+358,wikidataId/Q1743949,,,,,,,,,5268.0,,,,,,Didsbury,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743949,358
+359,wikidataId/Q1743985,,,,,,,,,6842.0,,,,,,Peace River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1743985,359
+360,wikidataId/Q1744021,,,,,,,,,17189.0,,,,,,Stony Plain,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744021,360
+361,wikidataId/Q1744046,,,,,,,,,3642.0,,,,,,Pincher Creek,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744046,361
+362,wikidataId/Q1744063,,,,,,,,,7229.0,,,,,,Ponoka,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744063,362
+363,wikidataId/Q1744077,,,,,,,,,1998.0,,,,,,Provost,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744077,363
+364,wikidataId/Q1744143,,,,,,,,,2181.0,,,,,,Nanton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744143,364
+365,wikidataId/Q1744192,,,,,,,,,995.0,,,,,,Spirit River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744192,365
+366,wikidataId/Q1744205,,,,,,,,,964.0,,,,,,Smoky Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744205,366
+367,wikidataId/Q1744221,,,,,,,,,1047.0,,,,,,Falher,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1744221,367
+368,wikidataId/Q1745995,,,,,,,,,5827.0,,,,,,St. Paul,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1745995,368
+369,wikidataId/Q1746019,,,,,,,,,5952.0,,,,,,Stettler,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1746019,369
+370,wikidataId/Q1746026,,,,,,,,,9848.0,,,,,,Morinville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1746026,370
+371,wikidataId/Q1746071,,,,,,,,,1352.0,,,,,,Two Hills,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1746071,371
+372,wikidataId/Q1746129,,,,,,,,,1917.0,,,,,,Vulcan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1746129,372
+373,wikidataId/Q1746566,,,,,,,,,3780.0,,,,,,Claresholm,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1746566,373
+374,wikidataId/Q1779015,,,,,,,,,10664.0,,,,,,Nelson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1779015,374
+375,wikidataId/Q1801144,,,,,,,,,36611.0,,,,,,Lakeshore,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1801144,375
+376,wikidataId/Q1805026,,,,,,,,,1165.0,,,,,,Langenburg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1805026,376
+377,wikidataId/Q1805495,,,1233.0,,,,,,,,,,,,Lanigan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1805495,377
+378,wikidataId/Q1808502,,,,,,,,,7709.0,,,,,,Trail,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1808502,378
+379,wikidataId/Q18168315,,,,,3000.0,,,,,,,,,,Midhurst,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q18168315,379
+380,wikidataId/Q1827312,,,,,,,,,1334.0,,,,,,Lions Bay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1827312,380
+381,wikidataId/Q1850051,,,,,,,,,3881.0,,,,,,Bancroft,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1850051,381
+382,wikidataId/Q1857914,,,,,,,,,701.0,,,,,,McLennan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1857914,382
+383,wikidataId/Q1861474,,,,,,,,,722.0,,,,,,Mulgrave,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1861474,383
+384,wikidataId/Q1864950,,,,,,,,,7530.0,,,,,,"Listowel, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1864950,384
+385,wikidataId/Q1866018,,,1919.0,,,,,,,,,,,,Fort Qu'Appelle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1866018,385
+386,wikidataId/Q1878805,,436.0,,,,,,,,,,,,,Nokomis,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1878805,386
+387,wikidataId/Q1885050,,,,,,,,,1036.0,,,,,,Mahone Bay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1885050,387
+388,wikidataId/Q1885163,,,,,582.0,,,,,,,,,,Bruce Mines,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1885163,388
+389,wikidataId/Q1886298,,,,,,,,,4077.0,,,,,,Carstairs,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1886298,389
+390,wikidataId/Q1893229,,,,,,,,,7547.0,,,,,,Revelstoke,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1893229,390
+391,wikidataId/Q1893562,,,,,2485.0,,,,,,,,,,Moosomin,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1893562,391
+392,wikidataId/Q1904137,,,,,,,,,9645.0,,,,,,Martensville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1904137,392
+393,wikidataId/Q1904521,,,,,,,,,11020.0,,,,,,Warman,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1904521,393
+394,wikidataId/Q1908610,,,,,,,,,827.0,,,,,,Milk River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1908610,394
+395,wikidataId/Q1909185,,,,,,,,,313.0,,,,,,Lemberg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1909185,395
+396,wikidataId/Q1909230,,,,,617.0,,,,,,,,,,Balcarres,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1909230,396
+397,wikidataId/Q1909256,,,,,,,,,1765.0,,,,,,Balgonie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1909256,397
+398,wikidataId/Q1909386,,,337.0,,,,,,,,,,,,Bengough,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1909386,398
+399,wikidataId/Q1909440,,,,,780.0,,,,,,,,,,Bienfait,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1909440,399
+400,wikidataId/Q1909612,,,,,639.0,,,,,,,,,,Big River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1909612,400
+401,wikidataId/Q1909957,,,,,1064.0,,,,,,,,,,Birch Hills,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1909957,401
+402,wikidataId/Q1910004,,,,,,,,,499.0,,,,,,Blaine Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1910004,402
+403,wikidataId/Q1910658,,,,,83.0,,,,,,,,,,Fleming,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1910658,403
+404,wikidataId/Q1910937,,,,,176.0,,,,,,,,,,Francis,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1910937,404
+405,wikidataId/Q1911125,,,,,216.0,,,,,,,,,,Govan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911125,405
+406,wikidataId/Q1911166,,,,,,,,,1099.0,,,,,,Grenfell,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911166,406
+407,wikidataId/Q1911249,,,,,407.0,,,,,,,,,,Hafford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911249,407
+408,wikidataId/Q1911281,,,,,,,,,874.0,,,,,,"Hague, Saskatchewan",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911281,408
+409,wikidataId/Q1911299,,,,,522.0,,,,,,,,,,Hanley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911299,409
+410,wikidataId/Q1911442,,,,,,,,,856.0,,,,,,Herbert,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911442,410
+411,wikidataId/Q1911477,,,,,1504.0,,,,,,,,,,Hudson Bay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911477,411
+412,wikidataId/Q1911671,,,,,,,,,1910.0,,,,,,Indian Head,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911671,412
+413,wikidataId/Q1911758,,,,,,,,,1945.0,,,,,,Millet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1911758,413
+414,wikidataId/Q1914775,,,622.0,,,,,,,,,,,,Ituna,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1914775,414
+415,wikidataId/Q1914814,,,,,,,,,,,,988.0,,,Kelvington,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1914814,415
+416,wikidataId/Q1914825,,,,,1061.0,,,,,,,,,,Kerrobert,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1914825,416
+417,wikidataId/Q1914835,,,,,,,,,4597.0,,,,,,Kindersley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1914835,417
+418,wikidataId/Q1914869,,,,,743.0,,,,,,,,,,Kinistino,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1914869,418
+419,wikidataId/Q1914949,,,423.0,,,,,,,,,,,,Kyle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1914949,419
+420,wikidataId/Q1914981,,,,,,,,,382.0,,,,,,Lafleche,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1914981,420
+421,wikidataId/Q1915082,,,,,,,,,1496.0,,,,,,Langham,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915082,421
+422,wikidataId/Q1915126,,,,,967.0,,,,,,,,,,Lashburn,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915126,422
+423,wikidataId/Q1915145,,,,,,,,,863.0,,,,,,Leader,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915145,423
+424,wikidataId/Q1915203,,,,,427.0,,,,,,,,,,Leroy,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915203,424
+425,wikidataId/Q1915278,,,,,,,,,1824.0,,,,,,Lumsden,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915278,425
+426,wikidataId/Q1915299,,,,,566.0,,,,,,,,,,Luseland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915299,426
+427,wikidataId/Q1915322,,,,,1415.0,,,,,,,,,,Macklin,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915322,427
+428,wikidataId/Q1915344,,,,,1156.0,,,,,,,,,,Maidstone,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915344,428
+429,wikidataId/Q1915371,,,,,,,,,2084.0,,,,,,Maple Creek,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915371,429
+430,wikidataId/Q1915390,,,,,533.0,,,,,,,,,,Marshall,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915390,430
+431,wikidataId/Q1915411,,,,,562.0,,,,,,,,,,Midale,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915411,431
+432,wikidataId/Q1915440,,,,,,,,,699.0,,,,,,Milestone,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915440,432
+433,wikidataId/Q1915492,,,,,240.0,,,,,,,,,,Morse,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915492,433
+434,wikidataId/Q1915513,,,,,,,,,360.0,,,,,,Mossbank,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915513,434
+435,wikidataId/Q1915528,,,690.0,,,,,,,,,,,,Naicam,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915528,435
+436,wikidataId/Q1915543,,,,,,,,,4401.0,,,,,,Nipawin,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1915543,436
+437,wikidataId/Q1916300,,485.0,,,,,,,,,,,,,Norquay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916300,437
+438,wikidataId/Q1916323,,,,,,,,,403.0,,,,,,Ogema,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916323,438
+439,wikidataId/Q1916342,,,,,,,,,1237.0,,,,,,Osler,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916342,439
+440,wikidataId/Q1916369,,,,,,,,,2279.0,,,,,,Outlook,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916369,440
+441,wikidataId/Q1916400,,,,,,,,,1328.0,,,,,,Oxbow,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916400,441
+442,wikidataId/Q1916471,,,,,605.0,,,,,,,,,,Ponteix,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916471,442
+443,wikidataId/Q1916498,,,,,855.0,,,,,,,,,,Porcupine Plain,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916498,443
+444,wikidataId/Q1916627,,,,,668.0,,,,,,,,,,Qu'Appelle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916627,444
+445,wikidataId/Q1916651,,,,,505.0,,,,,,,,,,Radisson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916651,445
+446,wikidataId/Q1916667,,,,,860.0,,,,,,,,,,Radville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916667,446
+447,wikidataId/Q1916714,,,,,975.0,,,,,,,,,,Redvers,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916714,447
+448,wikidataId/Q1916747,,,,,1081.0,,,,,,,,,,Regina Beach,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916747,448
+449,wikidataId/Q1916811,,,869.0,,,,,,,,,,,,Rocanville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916811,449
+450,wikidataId/Q1916837,,,,,400.0,,,,,,,,,,Rockglen,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916837,450
+451,wikidataId/Q1916845,,,,,296.0,,,,,,,,,,Rose Valley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916845,451
+452,wikidataId/Q1916875,,,,,,,,,2451.0,,,,,,Rosetown,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916875,452
+453,wikidataId/Q1916905,,,,,,,,,540.0,,,,,,Rouleau,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916905,453
+454,wikidataId/Q1916940,,,110.0,,,,,,,,,,,,Scott,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916940,454
+455,wikidataId/Q1916970,,,,,,,,,1699.0,,,,,,Shaunavon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916970,455
+456,wikidataId/Q1916992,,,,,,,,,119.0,,,,,,Sintaluta,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1916992,456
+457,wikidataId/Q1917001,,,,,778.0,,,,,,,,,,Southey,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917001,457
+458,wikidataId/Q1917032,,,,,916.0,,,,,,,,,,Spiritwood,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917032,458
+459,wikidataId/Q1917066,,525.0,,,,,,,,,,,,,Springside,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917066,459
+460,wikidataId/Q1917109,,,,,590.0,,,,,,,,,,St. Brieux,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917109,460
+461,wikidataId/Q1917214,,,,,716.0,,,,,,,,,,St. Walburg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917214,461
+462,wikidataId/Q1917229,,,,,460.0,,,,,,,,,,Star City,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917229,462
+463,wikidataId/Q1917272,,,,,752.0,,,,,,,,,,Strasbourg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917272,463
+464,wikidataId/Q1917290,,,,,620.0,,,,,,,,,,Sturgis,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917290,464
+465,wikidataId/Q1917345,,,,,3180.0,,,,,,,,,,Tisdale,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917345,465
+466,wikidataId/Q1917360,,,,,525.0,,,,,,,,,,Turtleford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917360,466
+467,wikidataId/Q1917423,,,322.0,,,,,,,,,,,,Vonda,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917423,467
+468,wikidataId/Q1917448,,,,,1306.0,,,,,,,,,,Wadena,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917448,468
+469,wikidataId/Q1917479,,,,,985.0,,,,,,,,,,Wakaw,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917479,469
+470,wikidataId/Q1917497,,,,,1035.0,,,,,,,,,,Waldheim,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917497,470
+471,wikidataId/Q1917505,,354.0,,,,,,,,,,,,,Wapella,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917505,471
+472,wikidataId/Q1917524,,,,,,,,,1865.0,,,,,,Watrous,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917524,472
+473,wikidataId/Q1917538,,,,,,,,,697.0,,,,,,Watson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917538,473
+474,wikidataId/Q1917553,,,,,543.0,,,,,,,,,,Wawota,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917553,474
+475,wikidataId/Q1917576,,,,,,,,,3099.0,,,,,,White City,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917576,475
+476,wikidataId/Q1917595,,,,,,,,,860.0,,,,,,Whitewood,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917595,476
+477,wikidataId/Q1917621,,,,,1301.0,,,,,,,,,,Wilkie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917621,477
+478,wikidataId/Q1917640,,,,,286.0,,,,,,,,,,Willow Bunch,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917640,478
+479,wikidataId/Q1917681,,,,,864.0,,,,,,,,,,Wolseley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917681,479
+480,wikidataId/Q1917692,,,,,,,,,1732.0,,,,,,Wynyard,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917692,480
+481,wikidataId/Q1917717,,,,,,,,,478.0,,,,,,Yellow Grass,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917717,481
+482,wikidataId/Q1917781,,,,,,,,,80.0,,,,,,Zealandia,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1917781,482
+483,wikidataId/Q1930,,,,,,,,,934243.0,,,,,,Ottawa,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1930,483
+484,wikidataId/Q1930444,,,,,,,,,406.0,,,,,,Granum,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1930444,484
+485,wikidataId/Q1950648,,,,,,,,,23120.0,,,,,,Mount Pearl,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1950648,485
+486,wikidataId/Q1966925,,,,,,,,,9223.0,,,,,,Oromocto,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1966925,486
+487,wikidataId/Q1973819,,,,,,,,,3729.0,,,,,,Rossland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1973819,487
+488,wikidataId/Q1981683,,,,,,,,,517.0,,,,,,"Neustadt, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1981683,488
+489,wikidataId/Q1982768,,,,,,,,,9920.0,,,,,,Temiskaming Shores,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1982768,489
+490,wikidataId/Q1982775,,,,,5135.0,,,,,,,,,,New Minas,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1982775,490
+491,wikidataId/Q1993247,,,,,,,,,1642.0,,,,,,Nipigon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1993247,491
+492,wikidataId/Q1994373,,,,,,,,,4288.0,,,,,,"Beresford, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q1994373,492
+493,wikidataId/Q2000769,,,,,,,,,11249.0,,,,,,North Saanich,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2000769,493
+494,wikidataId/Q200166,,,,,,,,,233222.0,,,,,,Kitchener,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q200166,494
+495,wikidataId/Q2002394,,,,,,,,,4964.0,,,,,,Grand Bay–Westfield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2002394,495
+496,wikidataId/Q2003126,,,,,,,,,1216.0,,,,,,Irricana,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2003126,496
+497,wikidataId/Q201351,,,,,,,,,1053.0,,,,,,Clyde River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q201351,497
+498,wikidataId/Q2028824,,,,,,,,,5331.0,,,,,,Sackville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2028824,498
+499,wikidataId/Q202973,,,,,,,,,123798.0,,,,,,Kingston,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q202973,499
+500,wikidataId/Q203122,,,,,,,,,11854.0,,,,,,Whistler,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q203122,500
+501,wikidataId/Q2039207,,,,,,,,,10753.0,,,,,,Williams Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2039207,501
+502,wikidataId/Q204442,,,,,,,,,5249.0,,,,,,Fernie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q204442,502
+503,wikidataId/Q2046751,,,,,,,,,14816.0,,,,,,Sylvan Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2046751,503
+504,wikidataId/Q2058,,,,,,,,,25085.0,,,,,,Whitehorse,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2058,504
+505,wikidataId/Q2061,,,,,,,,,19569.0,,,,,,Yellowknife,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2061,505
+506,wikidataId/Q2067514,,,,,,,,,9879.0,,,,,,Quesnel,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2067514,506
+507,wikidataId/Q2071178,,,,,,,,,2361.0,,,,,,Bouctouche,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2071178,507
+508,wikidataId/Q2071232,,,,,,,,,1285.0,,,,,,Lamèque,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2071232,508
+509,wikidataId/Q2082,,,,,,,,,108860.0,,,,,,St. John's,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2082,509
+510,wikidataId/Q2093074,,,,,,,,,1452.0,,,,,,Elk Point,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2093074,510
+511,wikidataId/Q2104736,,,,,,,,,2064.0,,,,,,Port McNeill,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2104736,511
+512,wikidataId/Q2105198,,,,,,,,,6578.0,,,,,,Devon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2105198,512
+513,wikidataId/Q211867,,,,,,,,,,,166000.0,,,,Oshawa,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q211867,513
+514,wikidataId/Q2120077,,,,,,,,,435.0,,,,,,Whale Cove,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2120077,514
+515,wikidataId/Q2126898,,,,,,,,,1619.0,,,,,,Kensington,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2126898,515
+516,wikidataId/Q2127,,,,,,,,,36094.0,,,,,,Charlottetown,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2127,516
+517,wikidataId/Q2128700,,,,,,,,,2967.0,,,,,,Fort Macleod,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2128700,517
+518,wikidataId/Q2138,,,,,,,,,58220.0,,,,,,Fredericton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2138,518
+519,wikidataId/Q2141,,,,,,,,,403131.0,,,,,,Halifax,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2141,519
+520,wikidataId/Q2143987,,,,,,,,,8223.0,,,,,,Renfrew,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2143987,520
+521,wikidataId/Q2146186,,,,,,,,,2081.0,,,,,,Tofield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2146186,521
+522,wikidataId/Q2167346,,,,,,,,,1053.0,,,,,,Souris,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2167346,522
+523,wikidataId/Q2184124,,,,,,,,,8671.0,,,,,,"Minto, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2184124,523
+524,wikidataId/Q2205332,,322.0,,,,,,,,,,,,,Wilcox,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2205332,524
+525,wikidataId/Q2205395,,,,,239.0,,,,,,,,,,Young,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2205395,525
+526,wikidataId/Q2210557,,,,,,,,,1345.0,,,,,,Legal,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2210557,526
+527,wikidataId/Q2219667,,,,,,,,,6408.0,,,,,,Parry Sound,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2219667,527
+528,wikidataId/Q22500975,,,,,,,,,705.0,,,,,,Churchill Falls,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q22500975,528
+529,wikidataId/Q2270394,,,,,,,,,5070.0,,,,,,Hearst,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2270394,529
+530,wikidataId/Q2273431,,,,,,,,,5321.0,,,,,,Cochrane,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2273431,530
+531,wikidataId/Q2290339,,,,,,,,,1001.0,,,,,,Oyen,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2290339,531
+532,wikidataId/Q2291491,,,,,,,,,2509.0,,,,,,"Berwick, Nova Scotia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2291491,532
+533,wikidataId/Q23021,,,,,,,,,20155.0,,,,,,Fort St. John,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q23021,533
+534,wikidataId/Q23025,,,,,,,,,100418.0,,,,,,Red Deer,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q23025,534
+535,wikidataId/Q2306577,,,,,,,,,2983.0,,,,,,Crossfield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2306577,535
+536,wikidataId/Q2320312,,,,,16000.0,,,,,,,,,,Tracadie–Sheila,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2320312,536
+537,wikidataId/Q232226,,,,,,,,,,,,,142146.0,,Kelowna,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q232226,537
+538,wikidataId/Q2326975,,,,,,,,,3214.0,,,,,,Port Hawkesbury,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2326975,538
+539,wikidataId/Q2356021,,,,,,,,,1320.0,,,,,,Mayerthorpe,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2356021,539
+540,wikidataId/Q2358467,,,,,,,,,4415.0,,,,,,"St. Stephen, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2358467,540
+541,wikidataId/Q2362623,,,,,1056.0,,,,,,,,,,Saint-Georges-de-Clarenceville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2362623,541
+542,wikidataId/Q2364972,,,,,,,,,24512.0,,,,,,Clarence-Rockland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2364972,542
+543,wikidataId/Q2373358,,,,,,,,,31166.0,,,,,,Orillia,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2373358,543
+544,wikidataId/Q2376218,,,,,,,,,852.0,,,,,,Mundare,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2376218,544
+545,wikidataId/Q2385189,,,,,,,,,2194.0,,,,,,"Saint-Quentin, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2385189,545
+546,wikidataId/Q2395416,,,,,2037.0,,,,,,,,,,Tatamagouche,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2395416,546
+547,wikidataId/Q2401355,,,,,,,,,1125.0,,,,,,Eckville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2401355,547
+548,wikidataId/Q240864,,,,,,,,,11659.0,,,,,,"Rothesay, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q240864,548
+549,wikidataId/Q2415848,,,,,,,,,15872.0,,,,,,Tillsonburg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2415848,549
+550,wikidataId/Q2428683,,,,,,,,,5930.0,,,,,,Perth,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2428683,550
+551,wikidataId/Q2450865,,,,,,,,,1916.0,,,,,,Morris,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2450865,551
+552,wikidataId/Q2450886,,,,,,,,,4609.0,,,,,,Neepawa,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2450886,552
+553,wikidataId/Q2462444,,,,,125.0,,,,,,,,,,Two and One-Half Mile Village,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2462444,553
+554,wikidataId/Q2484356,,,,,,,,,10408.0,,,,,,View Royal,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2484356,554
+555,wikidataId/Q2485745,,,,,,,,,795.0,,,,,,Rainbow Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2485745,555
+556,wikidataId/Q2493627,,,,,,,,,1308.0,,,,,,Bruderheim,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2493627,556
+557,wikidataId/Q2508161,,,,,,,,,1021.0,,,,,,Valemount,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2508161,557
+558,wikidataId/Q2532991,,,,,,,,,19667.0,,,,,,"Riverview, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2532991,558
+559,wikidataId/Q2559651,,,,,,,,,5228.0,,,,,,Woodstock,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2559651,559
+560,wikidataId/Q2568572,,,,,,,,,1118.0,,,,,,Cobalt,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2568572,560
+561,wikidataId/Q2576413,,,,,,,,,50.0,,,,,,"Piapot, Saskatchewan",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2576413,561
+562,wikidataId/Q2584775,,,,,647.0,,,,,,,,,,Winnipegosis,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2584775,562
+563,wikidataId/Q2593164,,,,,,,,,2228.0,,,,,,Calmar,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2593164,563
+564,wikidataId/Q2599367,,,,,,,,,386.0,,,,,,Killarney,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2599367,564
+565,wikidataId/Q264075,,,,,,,,,,,,27304.0,,,Dieppe,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q264075,565
+566,wikidataId/Q2642428,,,,,13321.0,,,,,,,,,,Saint-Charles-Borromée,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2642428,566
+567,wikidataId/Q2645708,,,,,232.0,,,,,,,,,,"Alma, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2645708,567
+568,wikidataId/Q2650984,,,,,,,,,3159.0,,,,,,Gibbons,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2650984,568
+569,wikidataId/Q2651028,,,,,,,,,8215.0,,,,,,Coaldale,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2651028,569
+570,wikidataId/Q266929,,,9989.0,,,,,,,,,,,,"Iberville, Quebec",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q266929,570
+571,wikidataId/Q268103,,,,,,,,,30710.0,,,,,,Fort Erie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q268103,571
+572,wikidataId/Q2695763,,,,,2031.0,,,,,,,,,,"Fort Albany, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2695763,572
+573,wikidataId/Q271730,,,,,,,,,141397.0,,,,,,Abbotsford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q271730,573
+574,wikidataId/Q2739451,,,,,,,,,1558.0,,,,,,Ashcroft,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2739451,574
+575,wikidataId/Q2745103,,,,,4815.0,,,,,,,,,,Armstrong,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2745103,575
+576,wikidataId/Q2747793,,,,,,,,,9328.0,,,,,,Blackfalds,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2747793,576
+577,wikidataId/Q276115,,,,,,,,,129.0,,,,,,Grise Fiord,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q276115,577
+578,wikidataId/Q277461,,,,,,,,,4083.0,,,,,,"Niverville, Manitoba",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q277461,578
+579,wikidataId/Q2782497,,,,,,,,,2688.0,,,,,,La Ronge,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2782497,579
+580,wikidataId/Q2798556,,,,,,,,,554.0,,,,,,Hardisty,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2798556,580
+581,wikidataId/Q280702,,,,,,,,,3455.0,,,,,,Powassan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q280702,581
+582,wikidataId/Q281128,,,,,522.0,,,,,,,,,,Minitonas,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q281128,582
+583,wikidataId/Q281266,,,416.0,,,,,,,,,,,,Rapid City,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q281266,583
+584,wikidataId/Q281311,,,,,,,,,1089.0,,,,,,Lac du Bonnet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q281311,584
+585,wikidataId/Q281649,,,,,,,,,2449.0,,,,,,Minnedosa,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q281649,585
+586,wikidataId/Q2821567,,,,,391.0,,,,,,,,,,Abercorn,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2821567,586
+587,wikidataId/Q282363,,,,,,,,,3391.0,,,,,,Invermere,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q282363,587
+588,wikidataId/Q284160,,,,,,,,,389.0,,,,,,Kimmirut,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q284160,588
+589,wikidataId/Q284300,,,,,,,,,55.0,,,,,,"Destruction Bay, Yukon",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q284300,589
+590,wikidataId/Q286048,,,,,,,,,9075.0,,,,,,New Glasgow,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q286048,590
+591,wikidataId/Q2874907,,,,,,,,,7492.0,,,,,,Aylmer,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2874907,591
+592,wikidataId/Q2892162,,,,,,,,,241.0,,,,,,Bay L'Argent,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2892162,592
+593,wikidataId/Q2894839,,,,,1548.0,,,,,,,,,,Belledune,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2894839,593
+594,wikidataId/Q2910716,,,,,,,,,724.0,,,,,,Borden-Carleton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2910716,594
+595,wikidataId/Q291278,,13179.0,,,,,,,,,,,,,Grand-Mère,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q291278,595
+596,wikidataId/Q2918116,,,,,,,,,1029.0,,,,,,Onoway,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2918116,596
+597,wikidataId/Q2922719,,,,,,,,,,39371.0,,,,,Bowmanville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2922719,597
+598,wikidataId/Q2923610,,,,,,,,,2559.0,,,,,,Turner Valley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2923610,598
+599,wikidataId/Q2925383,,,,,,,,,11844.0,,,,,,Brighton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2925383,599
+600,wikidataId/Q2936541,,,,,806.0,,,,,,,,,,"Canso, Nova Scotia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2936541,600
+601,wikidataId/Q2957125,,,,,,,,,249.0,,,,,,Lytton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2957125,601
+602,wikidataId/Q2957506,,,,,,,,,664.0,,,,,,Port Alice,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2957506,602
+603,wikidataId/Q2957554,,,311.0,,,,,,,,,,,,Sayward,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2957554,603
+604,wikidataId/Q2961241,,,,,307.0,,,,,,,,,,Chartierville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2961241,604
+605,wikidataId/Q2975642,,,,,,,,,758.0,,,,,,Clark's Harbour,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2975642,605
+606,wikidataId/Q2981802,,,,,,,,,13163.0,,,,,,Mississippi Mills,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2981802,606
+607,wikidataId/Q2982694,,,,,,,,,867.0,,,,,,Gore Bay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2982694,607
+608,wikidataId/Q2991780,,,,,,,,,8962.0,,,,,,Penetanguishene,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q2991780,608
+609,wikidataId/Q3010939,,,,,,,,,17706.0,,,,,,Salmon Arm,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3010939,609
+610,wikidataId/Q3033253,,,,,,,,,792.0,,,,,,"Doaktown, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3033253,610
+611,wikidataId/Q3040214,,,,,,,,,7749.0,,,,,,Dryden,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3040214,611
+612,wikidataId/Q3047234,,,,,,,,,20675.0,,,,,,Wasaga Beach,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3047234,612
+613,wikidataId/Q3054292,,,,,,,,,1479.0,,,,,,Englehart,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3054292,613
+614,wikidataId/Q3054408,,,,,,,,,13922.0,,,,,,Simcoe,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3054408,614
+615,wikidataId/Q3074056,,,,,,,,,1604.0,,,,,,Florenceville-Bristol,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3074056,615
+616,wikidataId/Q3085326,,,,,,,,,21552.0,,,,,,Kingsville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3085326,616
+617,wikidataId/Q3089334,,,,,,,,,23229.0,,,,,,Tecumseh,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3089334,617
+618,wikidataId/Q3089341,,,,,,,,,5742.0,,,,,,Petrolia,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3089341,618
+619,wikidataId/Q3108251,,,,,19076.0,,,,,,,,,,Glace Bay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3108251,619
+620,wikidataId/Q3115831,,,,,,,,,2662.0,,,,,,French River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3115831,620
+621,wikidataId/Q3116824,,,,,,,,,1330.0,,,,,,Smooth Rock Falls,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3116824,621
+622,wikidataId/Q312033,,,,,,,,,1042.0,,,,,,Melita,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q312033,622
+623,wikidataId/Q312066,,,,,,,,,840.0,,,,,,Manitou,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q312066,623
+624,wikidataId/Q3154557,,,,,,,,,4537.0,,,,,,Iroquois Falls,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3154557,624
+625,wikidataId/Q3182395,,,,,,,,,1269.0,,,,,,St. Charles,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3182395,625
+626,wikidataId/Q3243949,,,,,,,,,2729.0,,,,,,Sundre,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3243949,626
+627,wikidataId/Q3248963,,,,,,,,,1190.0,,,,,,"Oxford, Nova Scotia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3248963,627
+628,wikidataId/Q3257744,,,,,,,,,531.0,,,,,,Lockeport,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3257744,628
+629,wikidataId/Q326413,,,,,,,,,468.0,,,,,,Radisson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q326413,629
+630,wikidataId/Q3267266,,,,,,,,,2961.0,,,,,,Laurentian Hills,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3267266,630
+631,wikidataId/Q3267284,,,,,,,,,4109.0,,,,,,Deep River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3267284,631
+632,wikidataId/Q3267294,,,,,,,,,7576.0,,,,,,Plympton–Wyoming,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3267294,632
+633,wikidataId/Q3305306,,,,,,,,,12310.0,,,,,,Paris,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3305306,633
+634,wikidataId/Q3312661,,,,,,,,,1832.0,,,,,,Middleton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3312661,634
+635,wikidataId/Q3315627,,,,,,,,,2305.0,,,,,,"Minto, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3315627,635
+636,wikidataId/Q3323039,,,,,,,,,1529.0,,,,,,Bon Accord,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3323039,636
+637,wikidataId/Q3344161,,,,,,,,,607.0,,,,,,North Rustico,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3344161,637
+638,wikidataId/Q3350642,,,,,,,,,4928.0,,,,,,Oliver,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3350642,638
+639,wikidataId/Q33974,,,,,,,,,7628.0,,,,,,Goderich,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q33974,639
+640,wikidataId/Q340,,,,,,,,,1704693.0,,,,,,Montreal,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q340,640
+641,wikidataId/Q34106,,,,,,,,,71594.0,,,,,,Sarnia,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q34106,641
+642,wikidataId/Q341968,,,,,,,,,653.0,,,,,,"Acme, Alberta",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q341968,642
+643,wikidataId/Q3421337,,,,,14557.0,,,,,,,,,,Rayside-Balfour,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3421337,643
+644,wikidataId/Q3431443,,,,,,,,,1266.0,,,,,,Richibucto,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3431443,644
+645,wikidataId/Q3431913,,,,,,,,7566.0,,,,,,,Rigaud,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3431913,645
+646,wikidataId/Q3439667,,,,,,,,,1166.0,,,,,,Rogersville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3439667,646
+647,wikidataId/Q344432,,,,,,,,,9462.0,,,,,,Acton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q344432,647
+648,wikidataId/Q3461735,,,,,10870.0,,,,,,,,,,Saint-Amable,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3461735,648
+649,wikidataId/Q3462230,,,,,,,,,1517.0,,,,,,"St. George, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3462230,649
+650,wikidataId/Q3462423,,,,,5257.0,,,,,,,,,,Saint-Honoré,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3462423,650
+651,wikidataId/Q3463156,,,,,5495.0,,,,,,,,,,Saint-Philippe,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3463156,651
+652,wikidataId/Q3464192,,,,,5696.0,,,,,,,,,,Sainte-Brigitte-de-Laval,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3464192,652
+653,wikidataId/Q3476268,,,,,,,,,10631.0,,,,,,Lambton Shores,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3476268,653
+654,wikidataId/Q3481424,,,,,5086.0,,,,,,,,,,Shannon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3481424,654
+655,wikidataId/Q3483898,,,,,,,,,13570.0,,,,,,Sillery,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3483898,655
+656,wikidataId/Q3492080,,,,,,,,,36566.0,,,,,,Innisfil,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492080,656
+657,wikidataId/Q3492087,,,,,,,,,13715.0,,,,,,Saugeen Shores,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492087,657
+658,wikidataId/Q3492093,,,,,,,,,,,,41439.0,,,New Tecumseth,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492093,658
+659,wikidataId/Q3492472,,,,,,,,,9138.0,,,,,,Huron East,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492472,659
+660,wikidataId/Q3492477,,,,,,,,,807.0,,,,,,Rainy River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492477,660
+661,wikidataId/Q3492487,,,,,,,,,4636.0,,,,,,Greenstone,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492487,661
+662,wikidataId/Q3492517,,,,,,,,,35325.0,,,,,,Bradford West Gwillimbury,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492517,662
+663,wikidataId/Q3492565,,,,,,,,,712.0,,,,,,Spanish,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492565,663
+664,wikidataId/Q3492570,,,,,,,,,10991.0,,,,,,Meaford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492570,664
+665,wikidataId/Q3492582,,,,,,,,,11389.0,,,,,,Kincardine,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492582,665
+666,wikidataId/Q3492590,,,,,,,,,8416.0,,,,,,South Bruce Peninsula,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492590,666
+667,wikidataId/Q3492596,,,,,,,,,11439.0,,,,,,Erin,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3492596,667
+668,wikidataId/Q3498168,,,,,,,,,4208.0,,,,,,Stellarton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3498168,668
+669,wikidataId/Q3499358,,,,,,,,,1373.0,,,,,,Stewiacke,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3499358,669
+670,wikidataId/Q3501912,,,,,,,,,21793.0,,,,,,Collingwood,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3501912,670
+671,wikidataId/Q3512252,,,,,,,,,541.0,,,,,,Stavely,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3512252,671
+672,wikidataId/Q3538507,,,,,,,,,2474.0,,,,,,"Trenton, Nova Scotia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3538507,672
+673,wikidataId/Q355257,,,,,,,,,2275.0,,,,,,Lillooet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q355257,673
+674,wikidataId/Q3558263,,,,,,,,,1083.0,,,,,,Viking,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3558263,674
+675,wikidataId/Q3567557,,,,,,,,,3628.0,,,,,,"Westville, Nova Scotia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3567557,675
+676,wikidataId/Q3610514,,,,,,,,,589.0,,,,,,Bragg Creek,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3610514,676
+677,wikidataId/Q36312,,,,,,,,,1239220.0,,,,,,Calgary,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q36312,677
+678,wikidataId/Q368241,,,,,,,,,63260.0,,,,,,Medicine Hat,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q368241,678
+679,wikidataId/Q368855,,,,,,,,,802.0,,,,,,Temagami,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q368855,679
+680,wikidataId/Q370771,,,,,,,,,360.0,,,,,,Imperial,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q370771,680
+681,wikidataId/Q372324,,,,,,,,,1375.0,,,,,,Dawson City,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q372324,681
+682,wikidataId/Q373626,,,,,,,,,8537.0,,,,,,Ladysmith,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q373626,682
+683,wikidataId/Q374857,,,,,,736.0,,,,,,,,,Pugwash,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q374857,683
+684,wikidataId/Q3845986,,,,,,,,,4084.0,,,,,,Vermilion,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3845986,684
+685,wikidataId/Q385335,,,,,,,,,21936.0,,,,,,Amherstburg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q385335,685
+686,wikidataId/Q385697,,,,,,,,,641.0,,,,,,Clinton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q385697,686
+687,wikidataId/Q388230,,,,,,,,,1373.0,,,,,,Crofton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q388230,687
+688,wikidataId/Q390530,,,,,,,,,11672.0,,,,,,Sidney,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q390530,688
+689,wikidataId/Q390583,,,,,,,,,517887.0,,,,,,Surrey,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q390583,689
+690,wikidataId/Q3921021,,,,,,,,,3277.0,,,,,,Penhold,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3921021,690
+691,wikidataId/Q393324,,,,,,,,,4809.0,,,,,,Stonewall,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q393324,691
+692,wikidataId/Q393327,,,,,,,,,899.0,,,,,,Snow Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q393327,692
+693,wikidataId/Q3942882,,,,,,,,,1240.0,,,,,,Bowden,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3942882,693
+694,wikidataId/Q3954717,,,,,24889.0,,,,,,,,,,Metrotown,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q3954717,694
+695,wikidataId/Q402566,,,,,,,,,268.0,,,,,,Grand Rapids,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q402566,695
+696,wikidataId/Q402754,,,,,,,,,4212.0,,,,,,Altona,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q402754,696
+697,wikidataId/Q402940,,,,,,,,,1482.0,,,,,,Grandview,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q402940,697
+698,wikidataId/Q406129,,,,,,,,,20.0,,,,,,"Ainsworth, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q406129,698
+699,wikidataId/Q4170029,,,,,,,,,580.0,,,,,,"Dugald, Manitoba",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4170029,699
+700,wikidataId/Q422539,,,,,,,,,582.0,,,,,,Leaf Rapids,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q422539,700
+701,wikidataId/Q424659,,,,,,,,,66502.0,,,,,,Caledon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q424659,701
+702,wikidataId/Q424704,,,,,,,,,18306.0,,,,,,Port Colborne,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q424704,702
+703,wikidataId/Q424773,,,,,,,,,52293.0,,,,,,Welland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q424773,703
+704,wikidataId/Q424901,,,,,,,,,27314.0,,,,,,Grimsby,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q424901,704
+705,wikidataId/Q424984,,,,,,,,,193832.0,,,,,,Oakville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q424984,705
+706,wikidataId/Q425070,,,,,,,,,61161.0,,,,,,Halton Hills,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q425070,706
+707,wikidataId/Q430949,,,,,,,,,3159.0,,,,,,High Level,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q430949,707
+708,wikidataId/Q4397,,,,,,,,,10096.0,,,,,,South Huron,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4397,708
+709,wikidataId/Q4464252,,,,,,,,,1810.0,,,,,,Picture Butte,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4464252,709
+710,wikidataId/Q448041,,,,,,,,,17110.0,,,,,,Pelham,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q448041,710
+711,wikidataId/Q448120,,,,,,,,,18801.0,,,,,,Thorold,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q448120,711
+712,wikidataId/Q448259,,,,,,,,,23787.0,,,,,,Lincoln,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q448259,712
+713,wikidataId/Q448372,,,,,,,,,17511.0,,,,,,Niagara-on-the-Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q448372,713
+714,wikidataId/Q462564,,,,,,,,,1932.0,,,,,,Tofino,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q462564,714
+715,wikidataId/Q463165,,,,,,,,,73368.0,,,,,,Sault Ste. Marie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q463165,715
+716,wikidataId/Q465235,,,,,,,,,265.0,,,,,,Paulatuk,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q465235,716
+717,wikidataId/Q470594,,,,,,,,,9413.0,,,,,,Amherst,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q470594,717
+718,wikidataId/Q473209,,,,,,,,,90280.0,,,,,,Kamloops,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q473209,718
+719,wikidataId/Q474178,,,,,,,,,8532.0,,,,,,Bridgewater,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q474178,719
+720,wikidataId/Q475953,,,,,,,,,4195.0,,,,,,Wolfville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q475953,720
+721,wikidataId/Q4769904,,,,3080.0,,,,,,,,,,,Anola,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4769904,721
+722,wikidataId/Q484865,,,,,,,,,9453.0,,,,,,Port Perry,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q484865,722
+723,wikidataId/Q4859518,,,,,,,,,3472.0,,,,,,Blind River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4859518,723
+724,wikidataId/Q4859882,,,,,,,,,2037.0,,,,,,Point Edward,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4859882,724
+725,wikidataId/Q4859889,,,,,,,,,882.0,,,,,,Kearney,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4859889,725
+726,wikidataId/Q4859943,,,,,,,,,2656.0,,,,,,Markstay-Warren,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4859943,726
+727,wikidataId/Q4859952,,,,,,,,,313.0,,,,,,Latchford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4859952,727
+728,wikidataId/Q4859960,,,,,2706.0,,,,,,,,,,Northeastern Manitoulin and the Islands,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4859960,728
+729,wikidataId/Q4864429,,,,,,,,,7136.0,,,,,,Bluewater,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4864429,729
+730,wikidataId/Q4864447,,,,,,,,,7025.0,,,,,,The Blue Mountains,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4864447,730
+731,wikidataId/Q487130,,,,,,,,,1876.0,,,,,,Souris,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q487130,731
+732,wikidataId/Q48785,,,,,7096.0,,,,,,,,,,Asbestos,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q48785,732
+733,wikidataId/Q487931,,,,,,,,,4014.0,,,,,,Swan River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q487931,733
+734,wikidataId/Q491457,,,,,243.0,,,,,,,,,,Stony Rapids,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q491457,734
+735,wikidataId/Q4924217,,,,,,,,,2088.0,,,,,,Blairmore,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q4924217,735
+736,wikidataId/Q493025,,,,,,,,,8414.0,,,,,,Edson,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q493025,736
+737,wikidataId/Q493879,,,,,,,,,200.0,,,,,,Mayo,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q493879,737
+738,wikidataId/Q499355,,,,,,,,,1205.0,,,,,,Parrsboro,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q499355,738
+739,wikidataId/Q501627,,,,,,,,,2668.0,,,,,,Coalhurst,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q501627,739
+740,wikidataId/Q5036220,,,,,,,,,3260.0,,,,,,Capreol,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5036220,740
+741,wikidataId/Q5042846,,,,,,,,,864.0,,,,,,Carlow/Mayo,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5042846,741
+742,wikidataId/Q50816,,,,,,,,,721599.0,,,,,,Mississauga,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q50816,742
+743,wikidataId/Q5142969,,,,,,,,,1475.0,,,,,,Coleman,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5142969,743
+744,wikidataId/Q51557,,,,,6933.0,,,,,,,,,,Sainte-Anne-des-Monts,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q51557,744
+745,wikidataId/Q517797,,,,,,,,,1058.0,,,,,,Trochu,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q517797,745
+746,wikidataId/Q5210864,,,,,,,,,3126.0,,,,,,Dalhousie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5210864,746
+747,wikidataId/Q5315628,,,,,,,,,5759.0,,,,,,Dunnville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5315628,747
+748,wikidataId/Q5325627,,,,,,,,,995.0,,,,,,"Ear Falls, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5325627,748
+749,wikidataId/Q543997,,,,,,,,,8795.0,,,,,,Arnprior,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q543997,749
+750,wikidataId/Q5444155,,,,,,,,,20767.0,,,,,,Fergus,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5444155,750
+751,wikidataId/Q5476673,,,,,,,,,1971.0,,,,,,Fox Creek,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5476673,751
+752,wikidataId/Q5505937,,,,,,,,,1760.0,,,,,,Frontenac Islands,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5505937,752
+753,wikidataId/Q551124,,,,,,,,,1123.0,,,,,,Foam Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q551124,753
+754,wikidataId/Q5517278,,,,,132.0,,,,,,,,,,"Gainford, Alberta",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5517278,754
+755,wikidataId/Q557967,,,,,,,,,2210.0,,,,,,Anmore,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q557967,755
+756,wikidataId/Q559147,,,,,,,,,20427.0,,,,,,Essex,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q559147,756
+757,wikidataId/Q5594425,,,,,,,,,6148.0,,,,,,"Grand Centre, Alberta",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5594425,757
+758,wikidataId/Q5609343,,,,,,,,,2718.0,,,,,,Grimshaw,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5609343,758
+759,wikidataId/Q573201,,,,,,,,,657.0,,,,,,Arcola,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q573201,759
+760,wikidataId/Q573968,,,,,,,,,1983.0,,,,,,Bow Island,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q573968,760
+761,wikidataId/Q575483,,,,,,,,,4364.0,,,,,,Antigonish,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q575483,761
+762,wikidataId/Q58337,,,,,,,,,7847.0,,,,,,Banff,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q58337,762
+763,wikidataId/Q58615,,,,,,,,,1222.0,,,,,,Arborg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q58615,763
+764,wikidataId/Q590205,,,,,,,,,74003.0,,,,,,Prince George,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q590205,764
+765,wikidataId/Q594989,,,,,694.0,,,,,,,,,,Stoughton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q594989,765
+766,wikidataId/Q5958093,,,,,,,,,32655.0,,,,,,West Kelowna,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q5958093,766
+767,wikidataId/Q599678,,,,,,,,,13157.0,,,,,,Powell River,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q599678,767
+768,wikidataId/Q603823,,,,,,,,,1774.0,,,,,,Deseronto,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q603823,768
+769,wikidataId/Q60649450,,,,,966.0,,,,,,,,,,Daveluyville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q60649450,769
+770,wikidataId/Q6074292,,,,,291.0,,,,,,,,,,"Irvine, Alberta",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q6074292,770
+771,wikidataId/Q608478,,,,,,,,,2374.0,,,,,,Magrath,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q608478,771
+772,wikidataId/Q61422,,,,,5513.0,,,,,,,,,,The Pas,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q61422,772
+773,wikidataId/Q619597,,,,,,,,,4465.0,,,,,,Battleford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q619597,773
+774,wikidataId/Q619819,,,,,,,,,622.0,,,,,,Aberdeen,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q619819,774
+775,wikidataId/Q619937,,,,,,,,,16604.0,,,,,,Swift Current,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q619937,775
+776,wikidataId/Q642900,,,,,,,,,63166.0,,,,,,Grande Prairie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q642900,776
+777,wikidataId/Q643215,,,,,,,,,139284.0,,,,,,Coquitlam,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q643215,777
+778,wikidataId/Q643346,,,,,,,,,2657.0,,,,,,Arviat,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q643346,778
+779,wikidataId/Q644273,,,,,,,,,5326.0,,,,,,"Grand Falls, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q644273,779
+780,wikidataId/Q6465074,,,,,,,,,1589.0,,,,,,"La Salle, Manitoba",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q6465074,780
+781,wikidataId/Q6475523,,,,,,,,,3226.0,,,,,,Lake Cowichan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q6475523,781
+782,wikidataId/Q6593705,,,,,,,,,2053.0,,,,,,Redwater,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q6593705,782
+783,wikidataId/Q660265,,,,,,,,,1560.0,,,,,,Hantsport,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q660265,783
+784,wikidataId/Q666831,,,,,,,,,5185.0,,,,,,Flin Flon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q666831,784
+785,wikidataId/Q671431,,,,,,,,,35926.0,,,,,,Prince Albert,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q671431,785
+786,wikidataId/Q7028244,,,,,13232.0,,,,,,,,,,Nickel Centre,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7028244,786
+787,wikidataId/Q704679,,,,,,,,,2389.0,,,,,,Assiniboia,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q704679,787
+788,wikidataId/Q704795,,,,,,,,,644.0,,,,,,Allan,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q704795,788
+789,wikidataId/Q704802,,,,,326.0,,,,,,,,,,Arborfield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q704802,789
+790,wikidataId/Q704810,,,,,,,,,639.0,,,,,,Asquith,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q704810,790
+791,wikidataId/Q704961,,,,,,,,,369.0,,,,,,Alameda,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q704961,791
+792,wikidataId/Q7091701,,,,,4874.0,,,,,,,,,,Onaping Falls,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7091701,792
+793,wikidataId/Q718822,,,,,,,,,396.0,,,,,,Ulukhaktok,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q718822,793
+794,wikidataId/Q7191105,,,,,,,,,4702.0,,,,,,Picton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7191105,794
+795,wikidataId/Q719379,,,,,,,,,103.0,,,,,,Sachs Harbour,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q719379,795
+796,wikidataId/Q719547,,,,,,,,,898.0,,,,,,Tuktoyaktuk,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q719547,796
+797,wikidataId/Q719605,,,,,,,,,1029.0,,,,,,Taloyoak,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q719605,797
+798,wikidataId/Q720333,,,,,,,,,0.0,,,,,,Umingmaktok,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q720333,798
+799,wikidataId/Q7230589,,,,,,,,,6161.0,,,,,,Port Dover,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7230589,799
+800,wikidataId/Q7334420,,,,,,,,,2567.0,,,,,,Rimbey,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7334420,800
+801,wikidataId/Q740843,,,,,,,,,1145.0,,,,,,Alberton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q740843,801
+802,wikidataId/Q744553,,,,,,,,,899.0,,,,,,Churchill,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q744553,802
+803,wikidataId/Q745512,,,,,,,,,93.0,,,,,,Beaver Creek,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q745512,803
+804,wikidataId/Q747623,,,,,,,,,2559.0,,,,,,Hanna,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q747623,804
+805,wikidataId/Q749228,,,,,1387.0,,,,,,,,,,"Inverness, Nova Scotia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q749228,805
+806,wikidataId/Q754638,,,,,,,,,2965.0,,,,,,Athabasca,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q754638,806
+807,wikidataId/Q75834,,,,,,,,,407.0,,,,,,Oak Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q75834,807
+808,wikidataId/Q75838,,,,,415.0,,,,,,,,,,Hartney,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q75838,808
+809,wikidataId/Q75861,,,,,3114.0,,,,,,,,,,Virden,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q75861,809
+810,wikidataId/Q75894,,,,,,,,,1738.0,,,,,,Carberry,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q75894,810
+811,wikidataId/Q767282,,,,,,,,,665.0,,,,,,"Greenwood, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q767282,811
+812,wikidataId/Q7694854,,,,,,,,,436.0,,,,,,Tehkummah,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7694854,812
+813,wikidataId/Q773061,,,,,,,,,1206.0,,,,,,Bassano,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q773061,813
+814,wikidataId/Q775610,,,,,,,,,18742.0,,,,,,Camrose,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q775610,814
+815,wikidataId/Q776261,,,,,,,,,33551.0,,,,,,Port Moody,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q776261,815
+816,wikidataId/Q7796736,,,,,,,,,985.0,,,,,,Thorsby,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7796736,816
+817,wikidataId/Q7859102,,,,,79.0,,,,,,,,,,"Two Mile Village, Yukon",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7859102,817
+818,wikidataId/Q7917457,,,,,,,,,1222.0,,,,,,Vauxhall,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7917457,818
+819,wikidataId/Q795211,,,,,,,,,401.0,,,,,,"Stewart, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q795211,819
+820,wikidataId/Q7962384,,,,,4967.0,,,,,,,,,,"Walkerton, Ontario",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7962384,820
+821,wikidataId/Q7982171,,,,,,,,,1516.0,,,,,,Wembley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q7982171,821
+822,wikidataId/Q798842,,,,,769.0,,,,,,,,,,Baddeck,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q798842,822
+823,wikidataId/Q804378,,,,,,,,,2069.0,,,,,,Baker Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q804378,823
+824,wikidataId/Q806004,,,,,,,,,179.0,,,,,,Bamfield,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q806004,824
+825,wikidataId/Q808533,,,,,,,,,947.0,,,,,,"Barnwell, Alberta",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q808533,825
+826,wikidataId/Q808905,,,,,,,,,4579.0,,,,,,Barrhead,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q808905,826
+827,wikidataId/Q808957,,,,,,,,,1713.0,,,,,,"Barriere, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q808957,827
+828,wikidataId/Q809964,,,,,,,,,830.0,,,,,,Bashaw,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q809964,828
+829,wikidataId/Q810807,,,,,,,,,11897.0,,,,,,Bathurst,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q810807,829
+830,wikidataId/Q81223838,,,,,5353.0,,,,,,,,,,L'Épiphanie,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q81223838,830
+831,wikidataId/Q813506,,,,,,,,,2465.0,,,,,,Beaverlodge,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q813506,831
+832,wikidataId/Q813856,13638.0,,,,,,,,,,,,,,Bedford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q813856,832
+833,wikidataId/Q814146,,,,,,,,,3891.0,,,,,,Beeton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q814146,833
+834,wikidataId/Q815312,,,,,,,,,643.0,,,,,,Belcarra,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q815312,834
+835,wikidataId/Q818277,,,,,,,,,1078.0,,,,,,Bentley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q818277,835
+836,wikidataId/Q826427,,,186.0,,,,,,,,,,,,"Yale, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q826427,836
+837,wikidataId/Q835304,,,,,,,,,6270.0,,,,,,Wainwright,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q835304,837
+838,wikidataId/Q835359,,,,,,,,,941.0,,,,,,Nackawic,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q835359,838
+839,wikidataId/Q855643,,,,,399.0,,,,,,,,,,Cabri,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q855643,839
+840,wikidataId/Q855987,,,,,574.0,,,,,,,,,,Bruno,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q855987,840
+841,wikidataId/Q855998,,,611.0,,,,,,,,,,,,Broadview,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q855998,841
+842,wikidataId/Q859632,,,,,2161.0,,,,,,,,,,Biggar,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q859632,842
+843,wikidataId/Q863058,,,,,,,,,14829.0,,,,,,Summerside,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q863058,843
+844,wikidataId/Q86366,,,,,,,,,1201.0,,,,,,Teulon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q86366,844
+845,wikidataId/Q86580,,,,,,,,,978.0,,,,,,Deloraine,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q86580,845
+846,wikidataId/Q86586,,,,,,,,,642.0,,,,,,Birtle,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q86586,846
+847,wikidataId/Q876122,,,,,,,,,70996.0,,,,,,New Westminster,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q876122,847
+848,wikidataId/Q880216,,,,,,,,,2700.0,,,,,,Black Diamond,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q880216,848
+849,wikidataId/Q891636,,,,,,,,,26378.0,,,,,,Bolton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q891636,849
+850,wikidataId/Q892841,,,,,,,,,5975.0,,,,,,Bonnyville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q892841,850
+851,wikidataId/Q908439,,,,,,,,,4439.0,,,,,,"Vanderhoof, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q908439,851
+852,wikidataId/Q912253,,,,,,,,,51553.0,,,,,,North Bay,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q912253,852
+853,wikidataId/Q917796,,,,,,,,,5085.0,,,,,,Osoyoos,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q917796,853
+854,wikidataId/Q921964,,,,,,,,,335.0,,,,,,Dease Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q921964,854
+855,wikidataId/Q923243,,,,,,,,,25888.0,,,,,,Langley,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q923243,855
+856,wikidataId/Q928787,,,,,,,,,1301.0,,,,,,Swan Hills,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q928787,856
+857,wikidataId/Q932261,,,,,,,,,29904.0,,,,,,Sydney,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q932261,857
+858,wikidataId/Q935519,,,,,,,,,33761.0,,,,,,Penticton,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q935519,858
+859,wikidataId/Q937901,,,,,,,,,12312.0,,,,,,Gravenhurst,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q937901,859
+860,wikidataId/Q939127,,,,,,,,,65589.0,,,,,,St. Albert,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q939127,860
+861,wikidataId/Q950050,,,,,,,,,12655.0,,,,,,Wetaskiwin,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q950050,861
+862,wikidataId/Q954302,,,,,,,,,1779.0,,,,,,Burns Lake,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q954302,862
+863,wikidataId/Q955573,,,,,,,,,1183.0,,,,,,Manning,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q955573,863
+864,wikidataId/Q956690,,,,,,,,,46589.0,,,,,,Cornwall,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q956690,864
+865,wikidataId/Q964313,,,,,,,,,18245.0,,,,,,Quispamsis,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q964313,865
+866,wikidataId/Q983026,,,,,,,,,83788.0,,,,,,Chilliwack,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q983026,866
+867,wikidataId/Q984028,,,,,,,,,4049.0,,,,,,Grand Forks,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q984028,867
+868,wikidataId/Q984084,,,,,,,,,4282.0,,,,,,Sussex,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q984084,868
+869,wikidataId/Q984088,,,,,,,,,2314.0,,,,,,Lac La Biche,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q984088,869
+870,wikidataId/Q984206,,,,,,,,,940.0,,,,,,Coronation,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q984206,870
+871,wikidataId/Q984379,,,,,,,,,11615.0,,,,,,Summerland,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q984379,871
+872,wikidataId/Q985187,,,,,,,,,1300.0,,,,,,"Saint-Léonard, New Brunswick",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q985187,872
+873,wikidataId/Q985296,,,,,,,,,929.0,,,,,,Castor,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q985296,873
+874,wikidataId/Q985671,,,,,,,,,40116.0,,,,,,Vernon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q985671,874
+875,wikidataId/Q986003,,,,,,,,,963.0,,,,,,Cache Creek,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q986003,875
+876,wikidataId/Q987459,,,,,,,,,2503.0,,,,,,"Chetwynd, British Columbia",12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q987459,876
+877,wikidataId/Q990470,,,,,,,,,1898.0,,,,,,Kamsack,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q990470,877
+878,wikidataId/Q991257,,,,,,,,,16580.0,,,,,,Edmundston,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q991257,878
+879,wikidataId/Q991310,,,,,,,,,41788.0,,,,,,Timmins,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q991310,879
+880,wikidataId/Q991363,,,,,,,,,19806.0,,,,,,Corner Brook,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q991363,880
+881,wikidataId/Q991515,,,,,,,,,13992.0,,,,,,Canmore,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q991515,881
+882,wikidataId/Q991692,,,,,,,,,9184.0,,,,,,Olds,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q991692,882
+883,wikidataId/Q991764,,,,,,,,,24.0,,,,,,Keno City,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q991764,883
+884,wikidataId/Q992432,,,,,,,,,6271.0,,,,,,Kentville,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q992432,884
+885,wikidataId/Q993714,,,,,,,,,15096.0,,,,,,Kenora,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q993714,885
+886,wikidataId/Q993727,,,,,,,,,13001.0,,,,,,Sooke,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q993727,886
+887,wikidataId/Q994047,,,,,,,,,1717.0,,,,,,Ucluelet,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q994047,887
+888,wikidataId/Q994920,,,,,1116.0,,,,,,,,,,Gravelbourg,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q994920,888
+889,wikidataId/Q998994,,,,,,,,,1279.0,,,,,,Thessalon,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q998994,889
+890,wikidataId/Q999303,,,,,,,,,19887.0,,,,,,Chestermere,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q999303,890
+891,wikidataId/Q999339,,,,,,,,,1682.0,,,,,,Igloolik,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q999339,891
+892,wikidataId/Q999654,,,,,13888.0,,,,,,,,,,North Battleford,12.5,{1996:2021},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,float64,CAN,Canada,wikidataId/Q999654,892
