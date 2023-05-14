@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "aut_count_medicalconditionincident_covid_19_patientinicu",
+        "original_id": "aut_count_medicalconditionincident_covid_19_patientinicu",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "aut_count_medicalconditionincident_covid_19_patientinicu",
+        "description": "it is data of Austria country for the features of Count_MedicalConditionIncident_COVID_19_PatientInICU",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": "2020-04-01",
+            "end_date": "2023-04-11"
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Austria",
+            "country_code": "AUT"
+        }
+    }
+}

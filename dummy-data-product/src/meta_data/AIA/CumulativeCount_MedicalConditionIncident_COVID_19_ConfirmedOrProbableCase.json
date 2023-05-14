@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "aia_cumulativecount_medicalconditionincident_covid_19_confirmedorprobablecase",
+        "original_id": "aia_cumulativecount_medicalconditionincident_covid_19_confirmedorprobablecase",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "aia_cumulativecount_medicalconditionincident_covid_19_confirmedorprobablecase",
+        "description": "it is data of Anguilla country for the features of CumulativeCount_MedicalConditionIncident_COVID_19_ConfirmedOrProbableCase",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": NaN,
+            "end_date": NaN
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Anguilla",
+            "country_code": "AIA"
+        }
+    }
+}

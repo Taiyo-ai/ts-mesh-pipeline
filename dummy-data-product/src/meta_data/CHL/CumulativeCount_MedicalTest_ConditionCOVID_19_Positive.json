@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "chl_cumulativecount_medicaltest_conditioncovid_19_positive",
+        "original_id": "chl_cumulativecount_medicaltest_conditioncovid_19_positive",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "chl_cumulativecount_medicaltest_conditioncovid_19_positive",
+        "description": "it is data of Chile country for the features of CumulativeCount_MedicalTest_ConditionCOVID_19_Positive",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": NaN,
+            "end_date": NaN
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Chile",
+            "country_code": "CHL"
+        }
+    }
+}

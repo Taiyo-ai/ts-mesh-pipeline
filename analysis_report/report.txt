@@ -1,0 +1,8 @@
+Analysis:
+
+1. As soon as vaccince is created, workplaces, visiting places are goes to normal.
+2. As covid wave comes, death counts increases
+3. As vaccination start, death mortality rate decreases.
+4. As vaccination start, number of patient in the hospital decreases.
+
+supported charts are there.
