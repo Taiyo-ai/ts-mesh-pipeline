@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "mkd_incrementalcount_medicaltest_conditioncovid_19",
+        "original_id": "mkd_incrementalcount_medicaltest_conditioncovid_19",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "mkd_incrementalcount_medicaltest_conditioncovid_19",
+        "description": "it is data of Republic of North Macedonia country for the features of IncrementalCount_MedicalTest_ConditionCOVID_19",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": "2020-03-31",
+            "end_date": "2022-06-03"
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Republic of North Macedonia",
+            "country_code": "MKD"
+        }
+    }
+}

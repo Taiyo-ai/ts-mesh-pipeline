@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "che_incrementalcount_vaccine_covid_19_administered",
+        "original_id": "che_incrementalcount_vaccine_covid_19_administered",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "che_incrementalcount_vaccine_covid_19_administered",
+        "description": "it is data of Switzerland country for the features of IncrementalCount_Vaccine_COVID_19_Administered",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": "2020-12-22",
+            "end_date": "2023-04-01"
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Switzerland",
+            "country_code": "CHE"
+        }
+    }
+}

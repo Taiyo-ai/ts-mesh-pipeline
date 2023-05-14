@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "jam_covid19mobilitytrend_park",
+        "original_id": "jam_covid19mobilitytrend_park",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "jam_covid19mobilitytrend_park",
+        "description": "it is data of Jamaica country for the features of Covid19MobilityTrend_Park",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": "2020-02-15",
+            "end_date": "2022-02-14"
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Jamaica",
+            "country_code": "JAM"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "prt_dayssincelastreportedcase_medicalconditionincident_covid_19_confirmedcase",
+        "original_id": "prt_dayssincelastreportedcase_medicalconditionincident_covid_19_confirmedcase",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "prt_dayssincelastreportedcase_medicalconditionincident_covid_19_confirmedcase",
+        "description": "it is data of Portugal country for the features of DaysSinceLastReportedCase_MedicalConditionIncident_COVID_19_ConfirmedCase",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": NaN,
+            "end_date": NaN
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Portugal",
+            "country_code": "PRT"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "mdg_covid19mobilitytrend_localbusiness",
+        "original_id": "mdg_covid19mobilitytrend_localbusiness",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "mdg_covid19mobilitytrend_localbusiness",
+        "description": "it is data of Madagascar country for the features of Covid19MobilityTrend_LocalBusiness",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": NaN,
+            "end_date": NaN
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Madagascar",
+            "country_code": "MDG"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "nru_cumulativecount_medicalconditionincident_covid_19_patientdeceased",
+        "original_id": "nru_cumulativecount_medicalconditionincident_covid_19_patientdeceased",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "nru_cumulativecount_medicalconditionincident_covid_19_patientdeceased",
+        "description": "it is data of Nauru country for the features of CumulativeCount_MedicalConditionIncident_COVID_19_PatientDeceased",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": "2020-01-03",
+            "end_date": "2023-05-10"
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Nauru",
+            "country_code": "NRU"
+        }
+    }
+}

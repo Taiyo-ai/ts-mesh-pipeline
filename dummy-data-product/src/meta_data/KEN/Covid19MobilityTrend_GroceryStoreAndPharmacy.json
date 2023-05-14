@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "ken_covid19mobilitytrend_grocerystoreandpharmacy",
+        "original_id": "ken_covid19mobilitytrend_grocerystoreandpharmacy",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "ken_covid19mobilitytrend_grocerystoreandpharmacy",
+        "description": "it is data of Kenya country for the features of Covid19MobilityTrend_GroceryStoreAndPharmacy",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": "2020-02-15",
+            "end_date": "2022-02-14"
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Kenya",
+            "country_code": "KEN"
+        }
+    }
+}

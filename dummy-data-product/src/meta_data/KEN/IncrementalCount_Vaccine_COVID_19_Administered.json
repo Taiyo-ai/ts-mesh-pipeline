@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "ken_incrementalcount_vaccine_covid_19_administered",
+        "original_id": "ken_incrementalcount_vaccine_covid_19_administered",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "ken_incrementalcount_vaccine_covid_19_administered",
+        "description": "it is data of Kenya country for the features of IncrementalCount_Vaccine_COVID_19_Administered",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": "2021-04-08",
+            "end_date": "2022-03-19"
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Kenya",
+            "country_code": "KEN"
+        }
+    }
+}

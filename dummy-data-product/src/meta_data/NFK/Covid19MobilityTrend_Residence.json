@@ -1,0 +1,33 @@
+{
+    "Identifier": {
+        "aug_id": "nfk_covid19mobilitytrend_residence",
+        "original_id": "nfk_covid19mobilitytrend_residence",
+        "sample_frequency": "Weekly"
+    },
+    "Basic Specs": {
+        "name": "nfk_covid19mobilitytrend_residence",
+        "description": "it is data of Norfolk Island country for the features of Covid19MobilityTrend_Residence",
+        "units": "Real numbers",
+        "source": "datacommons.org"
+    },
+    "Links and URLs": {
+        "url": "https://www.datacommons.org/tools/timeline"
+    },
+    "Sector/Subsector or Industry Type": {
+        "domain": "Health",
+        "subdomain": "epidemic / covid 19",
+        "tags": "virus, pandemic, vaccination, variant, mask, lockdown, quarantine, social distancing, immunity, Delta, booster, PCR test, contact tracing, ventilator, hospitalization, outbreak, spread, asymptomatic, herd immunity, SARS-CoV-2"
+    },
+    "Critical Dates": {
+        "timestamps": {
+            "start date": NaN,
+            "end_date": NaN
+        }
+    },
+    "Location Information": {
+        "country": {
+            "country_name": "Norfolk Island",
+            "country_code": "NFK"
+        }
+    }
+}
