@@ -73,7 +73,7 @@ with the help of this web scrapper user can fetch 27 kinds of time series data r
 it ask feature {feture_mapping} and country_name in which user took intersting. 
 
 ### to run the web_scraper
-
+```
     there are four argument
         -c    take country name in ISO format
         -ac   take any string, it will fetch information for every country provided at datacommons
@@ -89,8 +89,9 @@ it ask feature {feture_mapping} and country_name in which user took intersting.
             will return a csv file contain USA data of 'Count_MedicalConditionIncident_COVID_19_PatientInICU' 
         2. python3 client.py -ac yes -f 16
             will return number of csv file contain 16th feature of all countries
-
-feature mapping:
+```
+### feature mapping:
+```
 1 = 'Count_MedicalConditionIncident_COVID_19_PatientInICU'  
 2 = 'Count_MedicalConditionIncident_COVID_19_PatientHospitalized'
 3 = 'Count_MedicalConditionIncident_COVID_19_PatientOnVentilator'
@@ -118,12 +119,12 @@ feature mapping:
 25 = 'Covid19MobilityTrend_Residence'
 26 = 'Covid19MobilityTrend_TransportHub'
 27 = 'Covid19MobilityTrend_Workplace'
+```
 
 
 
-
-Country Code Reference:
-
+### Country Code Reference:
+```
 Afghanistan										AFG
 Albania										ALB
 Algeria										DZA
@@ -373,3 +374,4 @@ Yemen										YEM
 Zambia										ZMB
 Zimbabwe										ZWE
 Åland Islands										ALA
+```
