@@ -1,0 +1,4 @@
+Frequency,"A - Annual, Q-Quarterly"
+Industry,List of industries to retrieve (ALL for All)
+TableID,The unique GDP by Industry table identifier (ALL for All)
+Year,List of year(s) of data to retrieve (ALL for All)
