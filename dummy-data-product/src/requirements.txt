@@ -1,0 +1,5 @@
+    csv: This is a built-in Python module used for reading and writing CSV files.
+    xml.etree.ElementTree: This is a built-in Python module used for parsing XML data.
+    requests: This is a third-party package used to make HTTP requests to APIs and websites.
+    pandas: This is a popular data manipulation and analysis library in Python.
+    matplotlib.pyplot: This is a plotting library used for creating various types of plots and visualizations.
