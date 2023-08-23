@@ -2,6 +2,10 @@ import csv
 import xml.etree.ElementTree as ET
 import xml.dom.minidom
 from client import BEAScraper
+from config import MY_API_KEY
+
+# Use MY_API_KEY in your code
+
 
 def save_to_csv(data, filename):
     with open(filename, "w", newline="", encoding="utf-8") as csvfile:
@@ -9,7 +13,7 @@ def save_to_csv(data, filename):
         writer.writerows(data)
 
 def main():
-    api_key = "7142D42F-31AF-4831-A5E6-24765CA74CD4"
+    api_key = MY_API_KEY
     client = BEAScraper(api_key)
 
     # Example: Get Dataset List
