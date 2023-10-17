@@ -1,7 +1,5 @@
-import time
 import pandas as pd
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 
 class TenderScraper:
     def __init__(self, driver_path):
@@ -12,46 +10,45 @@ class TenderScraper:
         service = webdriver.ChromeService(executable_path=self.driver_path)
         return webdriver.Chrome(service=service)
 
-    def check_url_status(self, url):
-        # Implement your URL status checking logic here
-        pass
+    def scrape_tender_details(self, url):
+        self.driver.get(url)
 
-    def scrape_data_from_page(self, page_url, search_query):
-        self.driver.get(page_url)
-        time.sleep(2)
+        tenders_headings = []
+        head = self.driver.find_elements(by='xpath', value="//h1[@class='fl w645']")
+        for i in head:
+            heading_text_1 = i.text
+            tenders_headings.append(heading_text_1)
 
-        search_field = self.driver.find_element(By.XPATH, "/html/body/div[1]/div/section/div/div/section[1]/div/form/div/div[1]/div[1]/input")
-        search_field.clear()
-        search_field.send_keys(search_query)
+        details = []
+        d = self.driver.find_elements(by='xpath', value='//div[@class="property mt10"]')
+        for i in d:
+            details_list = i.text
+            details.append(details_list)
 
-        search_button = self.driver.find_element(By.XPATH, "/html/body/div[1]/div/section/div/div/section[1]/div/form/div/div[2]/button")
-        search_button.click()
+        def split_list_items(details):
+            industry_list, region_list, source_list = [], [], []
+            for item in details:
+                parts = item.split('Region:')
+                industry = parts[0].split(':')[1]
+                region = parts[1].split('source:')[0]
+                source = parts[1].split('source:')[1]
 
-        # Implement your scraping logic and return the scraped data
-        headings, text_before_hyphen, text_after_hyphen = [], [], []
-        # ... Implement your scraping logic ...
-        return headings, text_before_hyphen, text_after_hyphen
+                industry_list.append(industry)
+                region_list.append(region)
+                source_list.append(source)
 
-    def scrape_tenders(self, search_query, num_pages, url):
-        c = self.check_url_status(url)
-        print(c)
+            return industry_list, region_list, source_list
 
-        all_headings, all_text_before_hyphen, all_text_after_hyphen = [], [], []
+        industry, region, source = split_list_items(details)
 
-        for page_num in range(1, num_pages + 1):
-            page_url = f"https://example.com/page{page_num}"  # Replace with the correct page URL
-            headings, text_before_hyphen, text_after_hyphen = self.scrape_data_from_page(page_url, search_query)
-            all_headings.extend(headings)
-            all_text_before_hyphen.extend(text_before_hyphen)
-            all_text_after_hyphen.extend(text_after_hyphen)
+        df_details = pd.DataFrame({
+            'Tender_Headings': tenders_headings,
+            'Industry': industry,
+            'Region': region,
+            'Source': source
+        })
 
-        data = {'Heading': all_headings, 'Text Before Hyphen': all_text_before_hyphen, 'Text After Hyphen': all_text_after_hyphen}
-        df = pd.DataFrame(data)
-
-        return df
-
-    def save_to_csv(self, df, filename):
-        df.to_csv(filename, index=False)
+        return df_details
 
     def close_driver(self):
         self.driver.quit()
@@ -59,14 +56,11 @@ class TenderScraper:
 
 if __name__ == "__main__":
     driver_path = r'C:\Users\anura\Desktop\Web Scrapping\chromedriver-win64\chromedriver.exe'
-    search_query = 'tenders'
-    num_pages_to_scrape = 3
-    url = "http://en.chinabidding.mofcom.gov.cn/"
+    url = 'http://en.chinabidding.mofcom.gov.cn/channel/EnSearchList.shtml?provinceCodeShow=&capitalSourceCodeShow=&keyword=tenders&tenders=1&industry='
 
     scraper = TenderScraper(driver_path)
-    result_df = scraper.scrape_tenders(search_query, num_pages_to_scrape, url)
+    result_df = scraper.scrape_tender_details(url)
     print(result_df)
 
-    result_df.to_csv('index.csv', index=False)
-
+    # Close the driver
     scraper.close_driver()
