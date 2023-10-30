@@ -1,0 +1,4 @@
+pandas==1.4.2
+bs4==0.0.1
+geopy==2.4.0
+matplotlib==3.7.1
